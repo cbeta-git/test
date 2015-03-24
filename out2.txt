@@ -1,0 +1,6246 @@
+C:/release/epub_unzip_2014/A091/A091n1066/toc.ncx
+兜 : <text>昇兜率天宮品</text>
+兜 : <text>兜率天宮偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/A112/A112n1501/toc.ncx
+瑜 : <text>無二平等最上瑜伽大教王經一部六卷</text>
+
+=============================
+C:/release/epub_unzip_2014/A120/A120n1565/toc.ncx
+瑜 : <text>A1565 瑜伽師地論義演(第1卷-第32卷) (18卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/A121/A121n1565/toc.ncx
+瑜 : <text>A1565 瑜伽師地論義演(第33卷-第40卷) (卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/C056/C056n1163/toc.ncx
+兜 : <text>兜沙經</text>
+
+=============================
+C:/release/epub_unzip_2014/C057/C057n1163/toc.ncx
+瑜 : <text>瑜伽師地論</text>
+
+=============================
+C:/release/epub_unzip_2014/C077/C077n1710/toc.ncx
+作 : <text>偶作三頌</text>
+杜 : <text>注杜順和尚頌</text>
+作 : <text>趙王与師作真讚</text>
+作 : <text>擬雲送信禪者作丐</text>
+作 : <text>偶作</text>
+作 : <text>師在眾時与汾陽昭和尚共作拄杖頌</text>
+靜 : <text>動靜常一</text>
+作 : <text>山中偶作三首</text>
+作 : <text>龍門偶作五首</text>
+作 : <text>遊定明塔院作二頌</text>
+作 : <text>退居寄承天偶作五首</text>
+作 : <text>送和禪者南雄作丐</text>
+作 : <text>送琪道者作丐</text>
+作 : <text>春秋皆有蘭復作偈以原之</text>
+作 : <text>送全禪者廣南作丐</text>
+靜 : <text>留題天水居士靜宴閣</text>
+作 : <text>與會勝禪老同坐夏瑯瑘至秋作偈相別以敘一時之事</text>
+
+=============================
+C:/release/epub_unzip_2014/D05/D05n8774/toc.ncx
+作 : <text>作儐羯磨文</text>
+作 : <text>与共相親近作惡行呵諫羯磨文</text>
+作 : <text>作行摩那埵白文</text>
+
+=============================
+C:/release/epub_unzip_2014/D13/D13n8838/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/D24/D24n8880/toc.ncx
+瑜 : <text>瑜伽十攴論</text>
+
+=============================
+C:/release/epub_unzip_2014/D35/D35n8894/toc.ncx
+作 : <text>成所作智現起位之下</text>
+
+=============================
+C:/release/epub_unzip_2014/D48/D48n8939/toc.ncx
+靜 : <text>動靜常一</text>
+作 : <text>山中偶作三首</text>
+作 : <text>龍門偶作五首</text>
+作 : <text>遊定明塔院作二頌</text>
+作 : <text>偶作三頌</text>
+作 : <text>師在眾時与汾陽昭和尚共作拄杖頌</text>
+作 : <text>送和禪者南雄作丐</text>
+作 : <text>送琪道者作丐</text>
+作 : <text>春秋皆有蘭復作偈以原之</text>
+作 : <text>送全禪者廣南作丐</text>
+靜 : <text>留題天水居士靜宴閣</text>
+作 : <text>與會勝禪老同坐夏瑯瑘至秋作偈相別以敘一時之事</text>
+作 : <text>擬雲送信禪者作丐</text>
+作 : <text>趙王与師作真讃</text>
+作 : <text>退居寄承天偶作(五首)</text>
+
+=============================
+C:/release/epub_unzip_2014/D50/D50n8945/toc.ncx
+作 : <text>石門庵偶作</text>
+靜 : <text>靜香軒</text>
+作 : <text>與郛郎作骨董羹四首</text>
+作 : <text>勸德上人莫作言語</text>
+作 : <text>踈山作餬餅草堂老師出語云…</text>
+作 : <text>庵前蜂去數日復返因作</text>
+作 : <text>戊辰夏熱澹庵為設招涼感而有作</text>
+作 : <text>觀僧作小字宗派圖</text>
+作 : <text>南華定兄訪予踈山臨分欲偈作此</text>
+
+=============================
+C:/release/epub_unzip_2014/D52/D52n8951/toc.ncx
+靜 : <text>大般若經第十五會序(靜慮)</text>
+譜 : <text>釋迦譜目錄序</text>
+靜 : <text>唐溫靜文妻</text>
+靜 : <text>宋鄭氏靜安</text>
+作 : <text>作用是性解</text>
+作 : <text>寄聚光洞微作時文說</text>
+
+=============================
+C:/release/epub_unzip_2014/D55/D55n8954/toc.ncx
+靜 : <text>靜法苑師毀之於前清涼觀師讚之於後</text>
+停 : <text>五停心通於四教</text>
+停 : <text>五停心對圓五品</text>
+停 : <text>五停心名五門禪</text>
+作 : <text>無作之業至未來世</text>
+作 : <text>令生事善故作是說</text>
+作 : <text>列八二諦章安作七二諦消之</text>
+停 : <text>圓家五品擬對三藏五停心</text>
+
+=============================
+C:/release/epub_unzip_2014/D60/D60n9021/toc.ncx
+杜 : <text>杜鴻漸</text>
+杜 : <text>杜祁公</text>
+遜 : <text>李彌遜</text>
+
+=============================
+C:/release/epub_unzip_2014/D64/D64n9031/toc.ncx
+作 : <text>茶毗作法文</text>
+作 : <text>真言開啓作法如常</text>
+
+=============================
+C:/release/epub_unzip_2014/F28/F28n1071/toc.ncx
+靜 : <text>靜慮波羅蜜多陁羅尼</text>
+遜 : <text>金剛手遜婆陁羅尼</text>
+
+=============================
+C:/release/epub_unzip_2014/G052/G052n1222/toc.ncx
+瑜 : <text>G1222 一字頂輪王瑜伽經 (1卷)</text>
+瑜 : <text>一字頂輪王瑜伽經</text>
+
+=============================
+C:/release/epub_unzip_2014/H01/H01n0001/toc.ncx
+瑜 : <text>陸瑜</text>
+杜 : <text>杜鴻漸</text>
+杜 : <text>杜鴻漸</text>
+靜 : <text>僧圓靜</text>
+靜 : <text>僧圓靜</text>
+瑜 : <text>賈少瑜</text>
+煜 : <text>李煜</text>
+停 : <text>江南多以僧寺停客</text>
+靜 : <text>天清寺、天壽寺、顯靜寺、顯寧寺</text>
+遜 : <text>樊遜論釋道兩教</text>
+杜 : <text>杜弼論佛性</text>
+杜 : <text>杜弼論佛性</text>
+畜 : <text>僧道畜妻子，無異常人</text>
+停 : <text>侶仲上言：停寺觀齋醮</text>
+靜 : <text>并州靜林寺僧掘藥得玉璧等</text>
+作 : <text>帝於太皇寺捨身作奴</text>
+作 : <text>有桑門見鳥向之作禮</text>
+虜 : <text>南蠻放先虜百姓、工巧、僧道四千人</text>
+杜 : <text>杜元琰誦《婆羅門咒》</text>
+作 : <text>天下寺觀，多求李邕作頌文</text>
+作 : <text>鄭虔於慈恩寺貯柿葉數屋作詩畫</text>
+作 : <text>洪杲死前佛前作祝</text>
+作 : <text>劉鋹作刀山劍樹等刑</text>
+杜 : <text>詔出佛牙於杜姥宅</text>
+杜 : <text>杜行滿使西蕃諸國</text>
+杜 : <text>杜行滿使西蕃諸國</text>
+作 : <text>觀作毗沙門神</text>
+作 : <text>敕聖安寺作佛頂金輪會</text>
+作 : <text>命國師作佛事於太廟</text>
+作 : <text>五臺山作佛事</text>
+作 : <text>命西僧遞作佛事於萬壽山、玉塔殿、萬安寺</text>
+作 : <text>命西僧作佛事於大殿</text>
+作 : <text>命亦思麻等七百餘人作佛事</text>
+作 : <text>作佛事於寶慈殿</text>
+作 : <text>作佛事於光天殿</text>
+作 : <text>作金浮屠於上都，藏佛舍利</text>
+作 : <text>作上都華嚴寺</text>
+作 : <text>作禮拜寺於上都</text>
+作 : <text>命西僧作燒壇佛事於延華閣</text>
+作 : <text>命西僧作佛事</text>
+作 : <text>作佛事於大明殿</text>
+作 : <text>畏兀僧百八人作佛事於興聖殿</text>
+作 : <text>命西僧作佛事於仁智殿</text>
+作 : <text>命西僧作佛事於大明殿</text>
+作 : <text>命帝師率西僧作佛事</text>
+作 : <text>命西僧於興聖、光天宮十六所作佛事</text>
+作 : <text>命西僧於五臺等地作佛事各一月</text>
+作 : <text>置興瑞司，掌中宮歲作佛事</text>
+作 : <text>太后幸五臺山作佛事</text>
+作 : <text>征烏思藏僧作法會</text>
+停 : <text>違制之事，悉宜停斷</text>
+停 : <text>停給度僧牒</text>
+作 : <text>僧人作佛事，擇釋獄囚，命中書審察</text>
+作 : <text>諸寺作佛事每歲十六為定式</text>
+作 : <text>士子作文每竊釋氏教，詔戒厲之</text>
+靜 : <text>釋靜洪撰《韻英》</text>
+譜 : <text>《釋氏譜》等六種</text>
+作 : <text>源賀作《祇洹精舍圖偈》</text>
+作 : <text>太原公主嘗作尼</text>
+靜 : <text>尼李靜善妄充宋公主</text>
+作 : <text>李清臣作《浮圖災解》</text>
+
+=============================
+C:/release/epub_unzip_2014/I01/I01n0027/toc.ncx
+杜 : <text>I0027 杜善勝合邑七十人造像記 (1卷)</text>
+杜 : <text>杜善勝合邑七十人造像記</text>
+
+=============================
+C:/release/epub_unzip_2014/I01/I01n0049/toc.ncx
+杜 : <text>I0049 杜照賢十三人等造像記 (1卷)</text>
+杜 : <text>杜照賢十三人等造像記</text>
+
+=============================
+C:/release/epub_unzip_2014/I01/I01n0053/toc.ncx
+杜 : <text>I0053 杜英儁等十四人造像記 (1卷)</text>
+杜 : <text>杜英儁等十四人造像記</text>
+
+=============================
+C:/release/epub_unzip_2014/I01/I01n0062/toc.ncx
+靜 : <text>I0062 靜明等修塔造像記 (1卷)</text>
+靜 : <text>靜明等修塔造像記</text>
+
+=============================
+C:/release/epub_unzip_2014/J01/J01nA042/toc.ncx
+譜 : <text>JA042 大慧普覺禪師年譜 (1卷)</text>
+譜 : <text>大慧普覺禪師年譜</text>
+譜 : <text>年譜</text>
+
+=============================
+C:/release/epub_unzip_2014/J10/J10nA158/toc.ncx
+靜作 : <text>為石梁居士靜室作</text>
+靜 : <text>靜中偶成</text>
+譜 : <text>天童密雲禪師年譜</text>
+譜 : <text>年譜</text>
+
+=============================
+C:/release/epub_unzip_2014/J19/J19nB044/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/J19/J19nB047/toc.ncx
+瑜 : <text>JB047 瑜伽集要燄口施食儀 (1卷)</text>
+瑜 : <text>瑜伽集要燄口施食儀</text>
+
+=============================
+C:/release/epub_unzip_2014/J20/J20nB090/toc.ncx
+作 : <text>作用是性解</text>
+
+=============================
+C:/release/epub_unzip_2014/J20/J20nB095/toc.ncx
+兜 : <text>升兜率天宮品第二十三</text>
+兜 : <text>兜率宮中偈讚品第二十四</text>
+靜 : <text>寂靜音海主夜神念念出生廣大喜莊嚴解脫</text>
+靜 : <text>法聚落最寂靜婆羅門誠願語解脫</text>
+
+=============================
+C:/release/epub_unzip_2014/J20/J20nB096/toc.ncx
+畜 : <text>小畜</text>
+畜 : <text>大畜</text>
+
+=============================
+C:/release/epub_unzip_2014/J20/J20nB098/toc.ncx
+靜 : <text>復汪司馬靜峰</text>
+
+=============================
+C:/release/epub_unzip_2014/J21/J21nB110/toc.ncx
+靜 : <text>浦陽栖靜精舍記</text>
+卜 : <text>和林國師朵兒只怯列失思巴藏卜授都綱禪師誥</text>
+
+=============================
+C:/release/epub_unzip_2014/J22/J22nB116/toc.ncx
+畜 : <text>示凝畜通禪人</text>
+杜 : <text>示杜生</text>
+
+=============================
+C:/release/epub_unzip_2014/J23/J23nB118/toc.ncx
+作 : <text>代張中貴作戒文</text>
+
+=============================
+C:/release/epub_unzip_2014/J23/J23nB122/toc.ncx
+畜 : <text>畜生部</text>
+
+=============================
+C:/release/epub_unzip_2014/J23/J23nB127/toc.ncx
+作 : <text>孤雲兄繼百和尚住持金粟作偈相招次韻答意</text>
+靜 : <text>靜觀</text>
+
+=============================
+C:/release/epub_unzip_2014/J23/J23nB135/toc.ncx
+作 : <text>桐川王野夫相訪洞山既去作此兼簡直夫</text>
+作 : <text>華光仁老作墨梅甚妙為賦此</text>
+作 : <text>仁老以墨梅遠景見寄作此謝之二首</text>
+作 : <text>隆上人歸省覲留龍山為予寫起信論作此謝之</text>
+作 : <text>予在龍安木蛇庵除夕微雪及辰未消作詩記之二首</text>
+瑜 : <text>送瑜上人歸筠乞食</text>
+作 : <text>居上人自雲居來訪白蓮社話明日告歸作此送之</text>
+作 : <text>慶長出仲宣詩語意有及者作此寄之</text>
+作 : <text>次韻聖任病中作</text>
+作 : <text>余方登列岫愛西山思欲一游時皋上人來覓詩作此</text>
+作 : <text>黃魯直南遷艤舟碧湘門外半月未遊湘西作此招之</text>
+作 : <text>魯直弟稚川作屋峰頂名雲巢</text>
+孜 : <text>孜遷善石菖蒲</text>
+作 : <text>余作進和尚舍利贊遷善見而有詩次韻</text>
+作 : <text>金華超不群用前韻作詩見贈亦和三首超不群翦髮參黃蘗</text>
+作 : <text>南豐曾垂綬天性好學余至臨川欲見以還匡山作此寄之</text>
+作 : <text>泊舟星江聞伯固與僧自五老亭步入開先作此寄之</text>
+作 : <text>聞端叔有失子悲而莊復遭火焚作此寄之</text>
+作 : <text>蔡老有志好學識面于京師作此示之</text>
+作 : <text>金陵吳思道居都城面城開軒名曰橫翠作此贈之</text>
+作 : <text>超然攜泉侍者來建康獄慰余甚喜作此</text>
+作 : <text>大圓庵主以九祖畫像遺作此謝之</text>
+作 : <text>余自太原還匡山道中逢澤上人與至海昏山店有作</text>
+瑜作作 : <text>瑜上人自靈石來求鳴玉軒詩會予斷作語復決隄作一首</text>
+作 : <text>季長賞梅使侍兒歌作詩因次韻</text>
+作 : <text>季長出示子蒼詩次其韻蓋子蒼見衡嶽圖而作也</text>
+作 : <text>季長盡室來長沙留一月乃還邵陽作是詩送之</text>
+作 : <text>長沙邸舍中承敏覺二上人作記年刻舟之誚以詩贈</text>
+作 : <text>英大師年二十餘工文作詩勉之</text>
+杜 : <text>和杜司錄嶽麓祈雪分韻得嶽字</text>
+靜 : <text>中秋夕以月色靜中見泉聲幽處聞為韻分韻得見字</text>
+作 : <text>鄧循道分財贍族湘陰諸老賦詩同作</text>
+靜 : <text>贈陳靜之</text>
+作 : <text>宋迪作八境絕妙…</text>
+作 : <text>予作海棠詩曰…</text>
+杜 : <text>和杜撫勾古意六首</text>
+作 : <text>棗柏大士生辰因讀易豫卦有感作此</text>
+作 : <text>雨中聞端叔敦素飲作此寄之</text>
+作 : <text>肇上人居京華甚久別余歸閩作此送之</text>
+杜 : <text>清明前一日聞杜宇示清道芬</text>
+瑜 : <text>讀瑜伽論</text>
+作 : <text>四月二十五日智俱侍者生日戲作此授之</text>
+作 : <text>聞龔德莊入山先一日作詩迎之</text>
+作 : <text>七月四日晝夢雲庵和尚教誨久之而覺作此示超然</text>
+作 : <text>雲庵塔有雙桐作此寄因姪</text>
+作 : <text>鄧秀才就武舉作詩美之</text>
+啜 : <text>與客啜茶戲成</text>
+作 : <text>余居百丈天覺方註楞嚴以書見邀作此寄之二首</text>
+作 : <text>聞龍安往夏口迎張左丞遂泝流至鄂渚相別還山作此寄之</text>
+作 : <text>雪夜讀涪翁所作愛之因懷其人和韻奉寄超然</text>
+孜 : <text>過孜莫翁</text>
+作 : <text>師復作水餅供出五詩送別謝之</text>
+靜 : <text>贈靜上人</text>
+作 : <text>與客論東坡作此</text>
+作 : <text>錢濟明作軒於古井旁名冰華賦此</text>
+作 : <text>李師尹以端硯見遺作此謝之</text>
+作 : <text>宿石霜山前莊夢拜普賢像明日到院見壁間畫如所夢有作</text>
+作 : <text>將登南嶽絕頂而志上人以小團鬥夸見遺作詩謝之</text>
+作 : <text>南嶽法輪寺與西林比居長老齊公築堂於丈室之西名曰雪堂作此寄之</text>
+作 : <text>朱世英守臨川新開軒而軒有槐高數尺因名之作此</text>
+啜 : <text>崇仁縣與思禹閑游小寺啜茶聞棋</text>
+作 : <text>余號甘露滅所至問者甚多作此</text>
+作 : <text>太原還見明於洪水上藍問明別後嘗寓則曰十年客雲居感歎其高遁作此</text>
+作 : <text>荷塘暑雨過涼甚宜之見訪作此</text>
+啜 : <text>余所居連超然自見軒日多啜茶其上二首</text>
+作 : <text>徐師川罪余作詩多恐招禍因…</text>
+作 : <text>次韻自清修過大溈亂山間作</text>
+作 : <text>次韻郴江有作</text>
+作 : <text>次韻憑欄有作</text>
+作 : <text>次韻渡江有作</text>
+作作 : <text>彥周法地弟作出家庵又自為銘作此寄之</text>
+作 : <text>二月大雨江漲晚晴作三首</text>
+作 : <text>空印見招住庵時未能往作此寄之</text>
+作 : <text>上元夜病起欲寫法華安樂行品無力呼阿慈為錄作此</text>
+作 : <text>上元後候季長不至作此寄之</text>
+作 : <text>與忠子晚步登臺有作</text>
+作 : <text>玉池禪師以紙衾見遺作此謝之</text>
+作 : <text>歲窮僧眾米竭自往湘陰乞之舟載夜歸宿橋口寒甚未寢時侍者智觀坐而假寐作此詩有懷資欽提舉</text>
+卜 : <text>吾山風物如故園而甚僻余居月餘愛之將此卜居二首</text>
+作 : <text>余往漢上清修白鹿二老送至龍牙作此別之</text>
+作 : <text>訪雙池老不遇其子覺先求詩為作此</text>
+作作 : <text>燈禪師出蜀住此山十年為作南食且約同住作此以贈</text>
+作 : <text>十二月十八夜大雪注蓮經罷有僧來勸歸廬山僧去作此</text>
+靜 : <text>用高僧詩云沙泉帶草堂紙帳卷空床靜是真消息…</text>
+作 : <text>無盡居士以峽州天寧見邀作此辭免六首</text>
+作 : <text>瑩中南歸至衡陽作六首寄之</text>
+作 : <text>石頭庵主居南嶽僅三十年忽思還江南龍安作此寄之三首</text>
+作 : <text>余將經行他山德莊自邑中馳書作詩…</text>
+作 : <text>超然在東華作此招之</text>
+作 : <text>三月二十三日心禪餉余新麵白蜜作二首</text>
+作 : <text>春日作</text>
+作 : <text>夢中作</text>
+作 : <text>過小院僧窗有假山絕妙作廬山勢書此</text>
+作 : <text>李商老自山北道中作詩見寄次韻</text>
+作 : <text>何忠孺出芝草三本皆黃色指其小者曰昔登第時產此今重華為作此</text>
+作 : <text>又登鄧氏平遠樓縱望見小廬山作</text>
+靜 : <text>靜隱堂</text>
+作 : <text>古詩云蘆花白間蓼花紅一日秋江慘憺中兩箇鷺鷥相對立幾人喚作水屏風然其理可取而其詞鄙野余為改之曰換骨法</text>
+作 : <text>佛鑑興修天寧而大檀越輻湊六月初吉有雙蓮開殿庭之西池作此</text>
+作 : <text>雲庵生日空印設供作偈福嚴南臺萬壽三老與焉次韻</text>
+作 : <text>珪上人兩過吾家既去作此</text>
+作 : <text>花藥英禪師生日其子通慧設齋作此</text>
+作 : <text>八月十六入南昌右獄作對治偈</text>
+作 : <text>黃龍生辰因閱晦堂偈作此</text>
+作 : <text>戊戌歲元日夢雲庵攜登塔問荅甚多覺而忘之作此</text>
+作 : <text>明教夢中作</text>
+作 : <text>三月二十八日棗柏大士生辰用達本情忘知心體合為韻作八偈供之時在建康獄中</text>
+作 : <text>二十九日明白庵主寂滅之日用欲得現前莫存順逆為韻作八偈</text>
+作 : <text>嶺外大雪故人多在南中元日作三偈奉寄瑩中</text>
+作 : <text>述古德遺事作漁父詞八首</text>
+作 : <text>印上人持觀音像來乞贊余曰率伯時畫也為作此贊</text>
+作 : <text>許彥周所作墨戲為之贊</text>
+作 : <text>王裕之求硯銘為作此</text>
+作 : <text>王舍人宏道家中蓄花光所作墨梅甚妙戲為之賦</text>
+畜 : <text>又題公翼所畜</text>
+作 : <text>又稱上人所作</text>
+杜 : <text>跋杜子美祭房太尉文稿</text>
+
+=============================
+C:/release/epub_unzip_2014/J24/J24nB137/toc.ncx
+作 : <text>趙王與師作真讚</text>
+
+=============================
+C:/release/epub_unzip_2014/J25/J25nB154/toc.ncx
+兜 : <text>世尊未離兜率已降王宮未出母胎度人已畢</text>
+作 : <text>趙州因訪一菴主問云有麼有麼主豎起拳州云水淺不是泊船處拽下簾子便行又訪一菴主云有麼有麼主亦豎起拳州云能縱能奪能殺能活便作禮</text>
+
+=============================
+C:/release/epub_unzip_2014/J25/J25nB155/toc.ncx
+作 : <text>德山上堂問即有過不問即乖有僧禮拜山便打僧云某甲纔拜為甚麼便打山曰待汝開口堪作什麼</text>
+卜 : <text>溈山問僧汝會什麼僧云會卜山拈起拂子云這箇六十四卦那卦收僧無對山曰適來大壯今是明夷</text>
+作 : <text>石頭示眾云恁麼也不得不恁麼也不得恁麼不恁麼總不得汝作麼生會</text>
+
+=============================
+C:/release/epub_unzip_2014/J25/J25nB156/toc.ncx
+靜 : <text>訪靜源禪友於金山</text>
+
+=============================
+C:/release/epub_unzip_2014/J25/J25nB163/toc.ncx
+作 : <text>拄杖付徒永昇作</text>
+
+=============================
+C:/release/epub_unzip_2014/J25/J25nB165/toc.ncx
+作 : <text>新春日閱華嚴經有作次韻</text>
+作 : <text>城市山林擬天目和尚作</text>
+作 : <text>龍泉山行癸卯入臺山有作</text>
+
+=============================
+C:/release/epub_unzip_2014/J25/J25nB167/toc.ncx
+靜 : <text>靜坐</text>
+作 : <text>漁樵耕牧武陵舟中為俗士作</text>
+
+=============================
+C:/release/epub_unzip_2014/J25/J25nB171/toc.ncx
+靜 : <text>示直方禪人住靜</text>
+靜 : <text>示盡演靜主</text>
+靜 : <text>示嬾牛靜主</text>
+靜 : <text>啟明靜主請</text>
+靜 : <text>啟明靜主摹師小像同軸請題</text>
+
+=============================
+C:/release/epub_unzip_2014/J25/J25nB173/toc.ncx
+作 : <text>皮囊歌寓河南公署作</text>
+作 : <text>風穴問僧啐啄同時話汝當時作麼生會僧曰當時如在燈影裡行相似穴曰汝會也</text>
+作 : <text>作務</text>
+
+=============================
+C:/release/epub_unzip_2014/J25/J25nB174/toc.ncx
+作 : <text>示方睿作居士</text>
+靜 : <text>靜虛老僧從無為州三步一拜至太平覲杖人因示之</text>
+作 : <text>讀黃元公決命辭之作</text>
+靜 : <text>示靜者</text>
+
+=============================
+C:/release/epub_unzip_2014/J26/J26nB177/toc.ncx
+靜 : <text>示慧白靜主</text>
+靜 : <text>示靜修禪人</text>
+靜 : <text>示靜涵禪人</text>
+靜 : <text>示靜虛禪人</text>
+靜 : <text>贈靜也江居士</text>
+靜 : <text>靜行禪人請讚</text>
+靜 : <text>靜浪禪人請讚</text>
+靜 : <text>金陵靜心禪師請題指月軒</text>
+靜 : <text>為靜林禪師移骨塔</text>
+譜 : <text>年譜序</text>
+譜 : <text>年譜</text>
+
+=============================
+C:/release/epub_unzip_2014/J26/J26nB178/toc.ncx
+靜 : <text>示三笑禪人往楚住靜</text>
+
+=============================
+C:/release/epub_unzip_2014/J26/J26nB180/toc.ncx
+靜 : <text>贈靜香周觀察(諱荃)</text>
+作 : <text>登舟南邁有感而作</text>
+
+=============================
+C:/release/epub_unzip_2014/J26/J26nB181/toc.ncx
+靜 : <text>和勝因靜拄杖歌</text>
+作 : <text>癸巳三月十九之作</text>
+卜作 : <text>丁酉眾為山僧卜壽藏于玲瓏嵒下作西嵒隱詩三十絕</text>
+作 : <text>戊戌暮春十九之作</text>
+靜 : <text>贈靜香周觀察(諱荃)</text>
+作 : <text>登舟南邁有感而作</text>
+靜 : <text>壽靜香周居士六旬初度</text>
+作 : <text>為石舸璉孫作</text>
+作 : <text>為語山琳孫作</text>
+作 : <text>登清涼臺為劍門謙姪禪師作</text>
+譜 : <text>禪燈世譜序</text>
+作 : <text>請天目法師作羯磨啟</text>
+作 : <text>右丞硯銘(為子和堅禪人作)</text>
+譜作 : <text>蘭譜題辭為瑞先居士作</text>
+作 : <text>平菴李居士命工手繪大士相立己於前稽首作禮願言攝受因其乞贊為之題曰</text>
+靜 : <text>靜涵張司農</text>
+靜 : <text>復靜香周居士(附來書)</text>
+靜 : <text>再復靜香周居士(附來書)</text>
+譜 : <text>書禪燈世譜後</text>
+杜 : <text>杜逆說</text>
+靜 : <text>為序禪募修靜室養母引</text>
+瑜 : <text>復月章瑜侍者</text>
+靜 : <text>復靜香周觀察(諱荃)</text>
+
+=============================
+C:/release/epub_unzip_2014/J26/J26nB182/toc.ncx
+作 : <text>舟中作</text>
+
+=============================
+C:/release/epub_unzip_2014/J26/J26nB183/toc.ncx
+靜 : <text>復靜淵法主</text>
+作 : <text>迦葉三度作舞</text>
+靜 : <text>送本無上人之南嶽住靜</text>
+卜 : <text>諸徒卜月之二十奉全身瘞於寺左余以老病未及遠赴先以香茶致奠</text>
+靜 : <text>送韓仁甫居士石浪住靜用恂書記韻</text>
+杜 : <text>月夜懷杜子濂兵憲</text>
+杜 : <text>子濂杜公過訪書贈</text>
+杜 : <text>寄懷子濂杜公</text>
+靜 : <text>示靜諾</text>
+靜 : <text>制維那還靜室</text>
+靜 : <text>寄守靜禪德</text>
+靜 : <text>送聖知客偕正侍者住靜</text>
+
+=============================
+C:/release/epub_unzip_2014/J26/J26nB184/toc.ncx
+作 : <text>淨土十詠(興化極樂庵作)</text>
+作 : <text>戒壇示偈(梅溪菴作)</text>
+靜 : <text>送識得知客住靜</text>
+靜 : <text>過湛虛戒徒靜室</text>
+
+=============================
+C:/release/epub_unzip_2014/J26/J26nB185/toc.ncx
+作 : <text>天植駱居士五十懸弧之辰作佛事薦其先嚴請說</text>
+停 : <text>雲停耿居士像</text>
+作 : <text>荅聖月錢居士送入天童之作即次原韻</text>
+
+=============================
+C:/release/epub_unzip_2014/J26/J26nB186/toc.ncx
+靜 : <text>與道安靜都監</text>
+靜 : <text>示章靜觀</text>
+
+=============================
+C:/release/epub_unzip_2014/J26/J26nB187/toc.ncx
+作 : <text>作麼生兮同生殺</text>
+杜 : <text>即原韻酬故崇明侯杜文煥</text>
+
+=============================
+C:/release/epub_unzip_2014/J26/J26nB188/toc.ncx
+作 : <text>牧童歌(因看慈明禪師牧童歌故作此和之)</text>
+作靜作 : <text>山居雜詠(前五首紹興鐵壁山居作後七首潛山皖山習靜作)</text>
+靜作 : <text>靜坐偶作</text>
+杜 : <text>贛城鄉紳文學盧觀象謝讚杜郁之蕭良相等眾居士請師回虔公啟</text>
+
+=============================
+C:/release/epub_unzip_2014/J27/J27nB189/toc.ncx
+作 : <text>無作法師</text>
+
+=============================
+C:/release/epub_unzip_2014/J27/J27nB190/toc.ncx
+靜 : <text>山居靜坐而猿猱獻果者</text>
+作 : <text>鸚鵡為朱爾干居士作</text>
+作 : <text>懷鴛湖禪兄(雪峰作)</text>
+作 : <text>喜嵌石澹然二兄至(癸未春作)</text>
+遜 : <text>九峰送士遜居士還蘄水</text>
+作 : <text>再過江陵訪蘭友居士哭眉子葉西二法友將辭遊峨眉二友是丙寅秋同作于此</text>
+靜 : <text>靜聞堂主結社興萬壽禪院為接待疏</text>
+
+=============================
+C:/release/epub_unzip_2014/J27/J27nB191/toc.ncx
+靜 : <text>示靜心禪人</text>
+作 : <text>示行者作務</text>
+靜 : <text>題夢雲靜主募米疏</text>
+
+=============================
+C:/release/epub_unzip_2014/J27/J27nB193/toc.ncx
+作 : <text>丙戌年回山作</text>
+靜 : <text>溫陵弘靜秦居士乞偈壽親</text>
+作 : <text>海口鎮作水陸普度</text>
+靜 : <text>示弘靜秦居士</text>
+靜 : <text>示靜宇林居士</text>
+
+=============================
+C:/release/epub_unzip_2014/J27/J27nB194/toc.ncx
+靜 : <text>住陝西漢中府靜明寺</text>
+靜 : <text>再住漢中府靜明寺</text>
+靜 : <text>復漢中靜明懶石首座</text>
+靜 : <text>示華山三寒靜主</text>
+靜 : <text>贈素懷靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J27/J27nB196/toc.ncx
+杜 : <text>杜華宇出扇求示</text>
+杜 : <text>答杜華宇居士</text>
+
+=============================
+C:/release/epub_unzip_2014/J27/J27nB197/toc.ncx
+靜 : <text>示能止靜主</text>
+靜 : <text>示劉爾靜居士</text>
+杜 : <text>示李若杜居士</text>
+
+=============================
+C:/release/epub_unzip_2014/J27/J27nB198/toc.ncx
+靜 : <text>囑在犙靜主(時在杭州橫山光明寺)</text>
+作 : <text>讀寒山詩作</text>
+作 : <text>為聖慈師作</text>
+作 : <text>雪關歌(博山掩關時作)</text>
+
+=============================
+C:/release/epub_unzip_2014/J27/J27nB199/toc.ncx
+作 : <text>雪中作</text>
+作 : <text>讀寒山詩作</text>
+作 : <text>宿湓江作</text>
+
+=============================
+C:/release/epub_unzip_2014/J27/J27nB200/toc.ncx
+作 : <text>武昌偶作</text>
+
+=============================
+C:/release/epub_unzip_2014/J28/J28nB202/toc.ncx
+杜 : <text>示杜則林居士</text>
+作 : <text>金粟丈室前菊花五月盛開因事有感作此</text>
+作 : <text>米貴柴荒作此以勉諸子</text>
+作 : <text>次韻復聖作沈居士</text>
+作 : <text>曹門道英削髮住庵作此勉之</text>
+作 : <text>覲周居士受老人密囑作投機偈有案前一拍萬法齊收之句予忍俊不禁拈出以贈</text>
+作 : <text>心幢上座即巡宰周春宇也出家入戒未及兩月而逝有兒女尚幼作此輓之</text>
+作 : <text>密行為智上人作</text>
+靜 : <text>靜居上座在家修行乞示</text>
+作 : <text>居士閱同戒錄作偈有戒中破戒之語亦索轉語師書云須是恁麼人始得復之</text>
+靜 : <text>指宗遙至同募萬人緣造橫雲山靜室疏</text>
+靜 : <text>雲上人募靜室疏</text>
+杜 : <text>寄杜則林居士</text>
+杜 : <text>題杜則居士秋吟後</text>
+作 : <text>春思歌為亦庵邵公作</text>
+作 : <text>木庵歌為和禪人作</text>
+作 : <text>到海鹽同友人齋於覲翁大業堂吳萬老作詩相贈次韻酬之</text>
+作 : <text>祖能張廣文閱前作和韻入寺再晤酬之</text>
+
+=============================
+C:/release/epub_unzip_2014/J28/J28nB203/toc.ncx
+靜 : <text>滁州示我空我靜二禪人</text>
+
+=============================
+C:/release/epub_unzip_2014/J28/J28nB205/toc.ncx
+卜 : <text>卜隱</text>
+靜 : <text>梁谿自如師曾居靜匡阜年經七袟書贈</text>
+靜 : <text>復江干靜涵張司農</text>
+作 : <text>居士求作放生會引</text>
+靜 : <text>贈決則靜主</text>
+靜 : <text>商尊兄嗣天台通玄林和尚歸南嶽住靜索筆贈</text>
+靜 : <text>夜泊南閘投靜室宿</text>
+作 : <text>己亥三月十一日復事影堂作</text>
+作 : <text>客龍興院偶晤禪友以詩見示作送別</text>
+作 : <text>蚤秋作似鐵關法兄方丈</text>
+靜 : <text>過介嵩禪友靜室書贈</text>
+作 : <text>上元夜寓萬松菴觀風俗作</text>
+作 : <text>嵩月禪者為眾打供未就遂返靈隱惜爾之作</text>
+作 : <text>讀黃山谷作士大夫食時五觀文註</text>
+
+=============================
+C:/release/epub_unzip_2014/J28/J28nB208/toc.ncx
+作 : <text>辭翠巖四請為淵闍黎作</text>
+
+=============================
+C:/release/epub_unzip_2014/J28/J28nB210/toc.ncx
+作 : <text>覺如問這拄杖作麼生用師便打云這樣用遂示一偈</text>
+
+=============================
+C:/release/epub_unzip_2014/J28/J28nB211/toc.ncx
+作 : <text>偶然作</text>
+靜 : <text>借靜室住冰禪人詩以贈之</text>
+作 : <text>過譚右長居士館中作別時有善琴者至賦以贈之</text>
+作 : <text>欈李胡奉谿居士築菴留居作此以辭</text>
+
+=============================
+C:/release/epub_unzip_2014/J28/J28nB213/toc.ncx
+靜 : <text>與靜菴一西堂偈</text>
+靜 : <text>為靜覺監院</text>
+靜 : <text>為靜覺監院舉火</text>
+
+=============================
+C:/release/epub_unzip_2014/J28/J28nB218/toc.ncx
+靜 : <text>住漢中府靜明禪寺</text>
+靜 : <text>靜明塔</text>
+靜 : <text>靜明有感</text>
+
+=============================
+C:/release/epub_unzip_2014/J28/J28nB219/toc.ncx
+作 : <text>為陳母周安人作</text>
+杜 : <text>壽郡侯杜公六袟</text>
+作 : <text>為豈凡金副憲作</text>
+作 : <text>為給諫熊青翁作</text>
+作 : <text>初遊雲居作</text>
+
+=============================
+C:/release/epub_unzip_2014/J28/J28nB220/toc.ncx
+靜 : <text>與獅峰生一真靜主</text>
+作 : <text>入都蒙萊臣余山主先視作此奉謁</text>
+靜 : <text>謁翰林學士子靜李居士</text>
+靜 : <text>為德光靜主舉火</text>
+
+=============================
+C:/release/epub_unzip_2014/J28/J28nB221/toc.ncx
+杜 : <text>為少宰肇翁杜護法送　觀音大士入寺祈嗣安座拈香法語</text>
+卜 : <text>君寧卜居士像贊</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB223/toc.ncx
+杜 : <text>示杜了寤</text>
+遜 : <text>复遜岳禪人</text>
+遜 : <text>贈遜岳</text>
+靜 : <text>贈無著靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB224/toc.ncx
+靜 : <text>示空菴靜主</text>
+靜 : <text>寄雲巖靜主</text>
+作 : <text>答竹眉昆仲寄梅花之作</text>
+作 : <text>作務歸示眾</text>
+靜 : <text>示空菴靜主</text>
+靜 : <text>示法空靜主</text>
+靜 : <text>示非幻靜主</text>
+兜 : <text>寄兜率堅長老</text>
+兜 : <text>贈兜率堅長老</text>
+作 : <text>答龍光上長老苦雨之作</text>
+杜 : <text>示杜可美居士</text>
+杜 : <text>示杜體賢居士</text>
+杜 : <text>示杜居士三元</text>
+杜 : <text>示杜居士喻</text>
+作 : <text>龍門奉和本師和尚喜雨之作</text>
+杜 : <text>喜晴柬杜爾侯</text>
+作 : <text>和佟太守韓甲喇觀海之作</text>
+靜 : <text>戲題大我靜主房</text>
+杜 : <text>答杜長史</text>
+作 : <text>次宋廣文寄上許刺史之作用來韻</text>
+卜 : <text>卜居金華山</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB225/toc.ncx
+兜 : <text>兜率不磷堅禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB227/toc.ncx
+杜 : <text>杜國柱石安序</text>
+靜 : <text>乙丑元日雪霽春和人閒庭靜…</text>
+杜 : <text>讀杜石安到隨草賦贈</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB230/toc.ncx
+作 : <text>寓涌泉興曠寺因人事繁作</text>
+作 : <text>本懷上書記回蜀作此勉之</text>
+譜 : <text>題孔子世譜</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB231/toc.ncx
+作 : <text>為恆作頭舉火</text>
+作 : <text>歸富川寓興曠寺因人事繁作</text>
+作 : <text>本懷上書記回蜀作此勉之</text>
+譜 : <text>題孔子世譜</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB233/toc.ncx
+瑜 : <text>徽州汪朝奉子瑜乞示</text>
+卜 : <text>示卜右文居士五十</text>
+卜 : <text>酬右文卜居士</text>
+作 : <text>佛音尼在羅子先家作鞋…</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB234/toc.ncx
+作 : <text>邑候開一仲居士陞任作別以偈贈之</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB235/toc.ncx
+靜 : <text>送靜虛禪人南遊</text>
+靜 : <text>送靜虛禪人歸蜀之中巖</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB237/toc.ncx
+靜 : <text>住貴州安順府靜隱禪院語錄</text>
+靜 : <text>與江城山最乘靜主</text>
+作 : <text>施主請陞座師作困勢口占</text>
+靜 : <text>別靜隱</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB238/toc.ncx
+作 : <text>毛詩擬作</text>
+作 : <text>代作陳郡侯德政樂府辭</text>
+杜 : <text>春日策杖巴臺步杜甫贈王郎司直韻</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB239/toc.ncx
+靜 : <text>止靜坐禪</text>
+靜 : <text>靜坐聞鳩聲</text>
+作 : <text>毛詩擬作</text>
+作 : <text>春雪偶作</text>
+作 : <text>代蔚然作冬日移居別業</text>
+作 : <text>代作曾太守德政</text>
+作 : <text>代作張別駕德政二首</text>
+作 : <text>代作賀張別駕壽</text>
+作 : <text>病中偶作</text>
+杜 : <text>春日策杖巴臺步杜甫贈王郎司直韻</text>
+作 : <text>代作曾太守德政</text>
+作 : <text>代作陳郡侯德政樂府辭</text>
+作 : <text>代作賀石柱總戎文</text>
+作 : <text>代作祭馬太公文</text>
+作 : <text>代作續藏水陸緣起</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB240/toc.ncx
+靜 : <text>弔達本靜主坐脫</text>
+靜 : <text>囑體如靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB241/toc.ncx
+靜 : <text>弔達本靜主坐脫</text>
+譜 : <text>囑般若譜禪人</text>
+靜 : <text>囑體如靜主</text>
+譜 : <text>年譜</text>
+譜 : <text>年譜</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB243/toc.ncx
+靜 : <text>訪王靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB244/toc.ncx
+靜 : <text>示雲窩靜主</text>
+靜 : <text>示止靜偈</text>
+靜 : <text>靜觀洞</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB245/toc.ncx
+譜 : <text>JB245 高峰三山來禪師年譜 (1卷)</text>
+譜 : <text>高峰三山來禪師年譜</text>
+譜 : <text>年譜</text>
+
+=============================
+C:/release/epub_unzip_2014/J29/J29nB249/toc.ncx
+靜 : <text>示休心靜主遍參</text>
+靜 : <text>示可靜主</text>
+靜 : <text>示懶緣靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J31/J31nB267/toc.ncx
+杜 : <text>跋吳門杜子紆先生所書華嚴經第四十卷</text>
+靜 : <text>復張靜垣</text>
+靜 : <text>與高靜之居士</text>
+靜 : <text>明奇靜主像</text>
+瑜 : <text>汪子瑜居士像</text>
+作 : <text>子康鄭子清修梵行攝入法系命之曰恬作二偈貽之</text>
+靜 : <text>過葑谿周雪巖道侶靜室</text>
+作 : <text>讀新桂瞿公臨難諸作(二首)</text>
+作 : <text>龍湖蚤發擬之長水阻風泊王江涇作</text>
+靜 : <text>題穎源弟靜室</text>
+靜作 : <text>婁江靜室曉作</text>
+靜 : <text>張靜垣同舟至乾元菴</text>
+作 : <text>開爐古南閱諸衲子除夕之作</text>
+作 : <text>從塔港放舟至乾元菴作</text>
+作 : <text>初夏范子同余過秋亭小菴有作步韻</text>
+作 : <text>偶作(二首)</text>
+作 : <text>經春申君墓作(五首)</text>
+作 : <text>六菴曉作</text>
+作 : <text>雲在菴作(八首)</text>
+作 : <text>和屠闇伯三作同晚眺也</text>
+作 : <text>立秋日作</text>
+作 : <text>七月望前二日風雨暴作竹樹倒拔屋廬震動古殿不崩為幸八月上浣復大雨不止炊煙幾息有感而志(二首)</text>
+作 : <text>坐西軒作(二首)</text>
+靜 : <text>悼崑山高靜之文學</text>
+作 : <text>偶作</text>
+作 : <text>除夕和平菴作(二首)</text>
+靜 : <text>寓廣陵靜慧閣送天鼓法姪之江西</text>
+杜 : <text>杜鵑樓小坐</text>
+杜 : <text>雨後登杜鵑樓</text>
+作 : <text>山居曉作</text>
+卜 : <text>壬辰春余病甚卜一枝投隱而卦辭甚迂及秋天童使三至曰命矣夫偶記短章示公貞周子</text>
+作 : <text>漫作(八首)</text>
+
+=============================
+C:/release/epub_unzip_2014/J31/J31nB268/toc.ncx
+作 : <text>法華後頌(十二首　此師主法鶴林時作因從前題故附編于此)</text>
+作 : <text>壬戌歲習禪破山寺作(十首)</text>
+作 : <text>杪秋登華山友人讀余法華頌有作見贈因以酬答</text>
+作 : <text>寓明州福泉山值雪柏和尚忌辰追念法乳作偈(四首)</text>
+作 : <text>育王歸酬素純法師見懷適越值雨之作</text>
+作 : <text>過龍樹菴和戒雷諸友結夏閱台教之作</text>
+作 : <text>中秋對月作</text>
+作 : <text>乙亥冬入山適大殿落成有作紀事(二首)</text>
+
+=============================
+C:/release/epub_unzip_2014/J32/J32nB273/toc.ncx
+作 : <text>山中偶作</text>
+
+=============================
+C:/release/epub_unzip_2014/J32/J32nB275/toc.ncx
+靜 : <text>示靜周</text>
+
+=============================
+C:/release/epub_unzip_2014/J32/J32nB276/toc.ncx
+靜 : <text>示靜一戒徒</text>
+作 : <text>七九作</text>
+靜 : <text>為自如靜主除靈封塔</text>
+靜 : <text>為靜一起龕</text>
+
+=============================
+C:/release/epub_unzip_2014/J32/J32nB277/toc.ncx
+作 : <text>苧茶居士示子作</text>
+
+=============================
+C:/release/epub_unzip_2014/J33/J33nB277/toc.ncx
+靜 : <text>靜之益(一)</text>
+靜 : <text>靜之益(二)</text>
+兜 : <text>兜率悅張無盡</text>
+作 : <text>楞嚴房融所作</text>
+作 : <text>佛法作人情</text>
+作 : <text>不作佛事</text>
+靜 : <text>厭喧求靜</text>
+畜 : <text>僧畜僮僕</text>
+畜 : <text>畜魚鶴</text>
+作 : <text>齋僧錢作僧堂</text>
+作 : <text>趙定宇作閻王</text>
+作 : <text>佛書多出才人所作</text>
+遜 : <text>方遜志</text>
+譜 : <text>家譜</text>
+瑜 : <text>瑜伽集要施食儀軌序</text>
+瑜 : <text>瑜伽集要圖像燄口施食序</text>
+作 : <text>潞安瀋王祈男為作積善生男說</text>
+作 : <text>勸修作福念佛圖說</text>
+作 : <text>原作</text>
+作 : <text>原作</text>
+靜 : <text>答湖廣汪靜峰中丞</text>
+
+=============================
+C:/release/epub_unzip_2014/J33/J33nB280/toc.ncx
+作 : <text>閱法華經作偈七首贈　法師</text>
+靜 : <text>住匡山靜室募米疏</text>
+
+=============================
+C:/release/epub_unzip_2014/J33/J33nB281/toc.ncx
+靜 : <text>贈靜庵姪</text>
+
+=============================
+C:/release/epub_unzip_2014/J33/J33nB284/toc.ncx
+遜 : <text>俞遜思園序</text>
+兜 : <text>與兜率不磷堅長老</text>
+靜 : <text>過楞伽石贈輝然靜主</text>
+杜 : <text>和李玉林杜體賢二公贈從聞大師原韻</text>
+
+=============================
+C:/release/epub_unzip_2014/J33/J33nB285/toc.ncx
+兜 : <text>JB285 兜率不磷堅禪師語錄 (3卷)</text>
+兜 : <text>住澂江府路南州兜率禪寺</text>
+作 : <text>和張使君有孚西來隻履之作</text>
+
+=============================
+C:/release/epub_unzip_2014/J33/J33nB286/toc.ncx
+靜 : <text>JB286 攖寧靜禪師語錄 (6卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/J33/J33nB287/toc.ncx
+遜 : <text>遜菴等玉</text>
+靜 : <text>米山超靜</text>
+靜 : <text>與靜山楊殿元</text>
+遜 : <text>遜菴玉西堂請</text>
+杜 : <text>過杜芳洲訪二九戴文學</text>
+
+=============================
+C:/release/epub_unzip_2014/J33/J33nB294/toc.ncx
+靜 : <text>為某比丘募靜室小引</text>
+靜 : <text>化米散靜室小引</text>
+
+=============================
+C:/release/epub_unzip_2014/J34/J34nB298/toc.ncx
+靜 : <text>靜聞關主師像</text>
+
+=============================
+C:/release/epub_unzip_2014/J34/J34nB299/toc.ncx
+靜 : <text>莫習靜</text>
+譜 : <text>三峰和尚年譜</text>
+
+=============================
+C:/release/epub_unzip_2014/J34/J34nB303/toc.ncx
+作 : <text>和尚一晚與眾話次適裁衣者作禮和尚問云…</text>
+靜 : <text>食楊梅兼致明靜二兄</text>
+靜 : <text>與靜兄</text>
+
+=============================
+C:/release/epub_unzip_2014/J34/J34nB304/toc.ncx
+作 : <text>辛卯元旦和尚命作狗子無佛性頌</text>
+杜 : <text>杜妄說</text>
+
+=============================
+C:/release/epub_unzip_2014/J34/J34nB308/toc.ncx
+靜 : <text>樞密靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J34/J34nB309/toc.ncx
+作 : <text>示無作老衲</text>
+
+=============================
+C:/release/epub_unzip_2014/J34/J34nB310/toc.ncx
+靜 : <text>潘子元公施木助建靜室以偈謝之</text>
+作 : <text>早秋作因懷無默戴居士</text>
+靜 : <text>廣陵靜慧園休夏五首</text>
+作 : <text>壬寅春之西粵募木建大殿登途日作</text>
+
+=============================
+C:/release/epub_unzip_2014/J34/J34nB311/toc.ncx
+靜 : <text>博山碧潭遠覺雪琪一如靜休默觀諸上座請上堂</text>
+靜 : <text>癸巳秋至嘉禾梵受靜聞監院偕闔郡諸護法請上堂</text>
+作 : <text>楊龍友監軍太夫人作五十三參會設供請小參時天正亢忽得雨</text>
+靜 : <text>偕黃心鏡到松林寺訪本靜老宿請示眾</text>
+作 : <text>卓庵成子天目掩關作此示之</text>
+作 : <text>初還虎嘯作</text>
+卜 : <text>姚愚谷卜居龍洞</text>
+作 : <text>初倚杖金粟園作</text>
+譜 : <text>新安仇氏家譜序</text>
+作 : <text>戒慎恐懼是作聖宗旨</text>
+
+=============================
+C:/release/epub_unzip_2014/J34/J34nB312/toc.ncx
+靜 : <text>靜聞監院結社引</text>
+作 : <text>為金載含居士作法戒約</text>
+作 : <text>讀梅溪肩公感激詩明眼人涼不作實法會因次韻慰之</text>
+靜 : <text>壽靜聞上座五十初度</text>
+靜 : <text>三宜和尚道影有靜聞監院侍立</text>
+
+=============================
+C:/release/epub_unzip_2014/J34/J34nB313/toc.ncx
+靜 : <text>與西峰蠡測澥靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J35/J35nB325/toc.ncx
+杜 : <text>杜衍</text>
+
+=============================
+C:/release/epub_unzip_2014/J35/J35nB326/toc.ncx
+靜 : <text>贈空渠禪人往海南住靜</text>
+作 : <text>和尚六旬作</text>
+卜 : <text>次韻酬瑞卜何居士</text>
+
+=============================
+C:/release/epub_unzip_2014/J35/J35nB336/toc.ncx
+靜 : <text>京兆府華嚴休靜禪師</text>
+靜 : <text>襄州谷隱智靜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/J35/J35nB339/toc.ncx
+作 : <text>病中作</text>
+
+=============================
+C:/release/epub_unzip_2014/J35/J35nB340/toc.ncx
+靜 : <text>雷巖徹靜</text>
+靜 : <text>示自心靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J35/J35nB342/toc.ncx
+卜 : <text>送雪林禪人訪友卜菴</text>
+靜 : <text>與南芝靜侍者</text>
+
+=============================
+C:/release/epub_unzip_2014/J36/J36nB346/toc.ncx
+靜 : <text>示靜軌徒</text>
+
+=============================
+C:/release/epub_unzip_2014/J36/J36nB348/toc.ncx
+作 : <text>作法說</text>
+譜 : <text>選佛譜自序</text>
+作 : <text>妙嚴室銘為庸庵作</text>
+卜 : <text>卜居十八事</text>
+作 : <text>登文殊院疾作而返</text>
+
+=============================
+C:/release/epub_unzip_2014/J36/J36nB355/toc.ncx
+靜 : <text>贈久默靜主</text>
+作 : <text>航園中作</text>
+靜 : <text>示靜修上座</text>
+靜 : <text>示震音靜主</text>
+卜 : <text>卜吉塘</text>
+靜 : <text>示太枝靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J36/J36nB356/toc.ncx
+靜 : <text>寒灰靜上人</text>
+
+=============================
+C:/release/epub_unzip_2014/J36/J36nB357/toc.ncx
+作 : <text>謝復惕若楊老居士作緣簿文</text>
+作 : <text>癸卯除夕作奉居智党元戎</text>
+
+=============================
+C:/release/epub_unzip_2014/J36/J36nB359/toc.ncx
+靜 : <text>與楊靜山太史</text>
+靜 : <text>募建靜室小引</text>
+作 : <text>重陽日訪龍潛玄素法兄途中作</text>
+靜 : <text>靜夜聞鍾</text>
+靜 : <text>春日同靜公拙菴諸子遊平山堂</text>
+作 : <text>再過永生菴雨中偶作</text>
+
+=============================
+C:/release/epub_unzip_2014/J36/J36nB367/toc.ncx
+卜 : <text>示昆宇吳公卜地祈嗣</text>
+靜 : <text>靜雲寺</text>
+
+=============================
+C:/release/epub_unzip_2014/J36/J36nB369/toc.ncx
+靜 : <text>青原靜居行思禪師</text>
+靜 : <text>靜聞關主</text>
+靜 : <text>吼山德章靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J37/J37nB371/toc.ncx
+啜 : <text>喜趙觀察復建青羊宮二仙菴是日營齋普啜感賦一律</text>
+作 : <text>浣花溪歌為玉輅和尚作</text>
+
+=============================
+C:/release/epub_unzip_2014/J37/J37nB384/toc.ncx
+作 : <text>丁卯仲春結茅終南翠微山中再依韻作歸去來辭</text>
+杜 : <text>杜茂遠文學像</text>
+杜 : <text>示杜忠庭</text>
+作 : <text>壬子春子受風穴本師雲老和尚囑法請假山山是夜風雷大作膏雨沛然兩序諸兄挽留移時復開晴霽明日遂行賦辭</text>
+兜 : <text>兜率寺丈室</text>
+兜 : <text>新住兜率寺張稚恭中翰偕劉君朗張亮恭二文學見過僧蘭馨索詠偶成</text>
+兜 : <text>兜率寺早發呈稚恭中翰</text>
+靜 : <text>潔然禪人靜室白牡丹盛開索詠</text>
+靜 : <text>從青華至翠微山靜陽真士菴</text>
+
+=============================
+C:/release/epub_unzip_2014/J37/J37nB386/toc.ncx
+杜 : <text>復子濂杜海憲</text>
+
+=============================
+C:/release/epub_unzip_2014/J37/J37nB387/toc.ncx
+靜 : <text>達州仁者靜書記</text>
+靜 : <text>為靜守禪德入塔</text>
+停 : <text>山庵停步</text>
+作 : <text>雲菴夜作</text>
+作 : <text>六通韓居士過訪喜作</text>
+作 : <text>壤室新就有作</text>
+杜 : <text>次杜工部古柏行韻寄靈徹禪人</text>
+靜 : <text>靜夜聞鐘</text>
+
+=============================
+C:/release/epub_unzip_2014/J37/J37nB388/toc.ncx
+作 : <text>天童道上作</text>
+作 : <text>淳夫讀玉首座新秋百詠有作次韻</text>
+作 : <text>登金山作</text>
+
+=============================
+C:/release/epub_unzip_2014/J37/J37nB389/toc.ncx
+靜 : <text>坐潤慈開士郭北靜室</text>
+作 : <text>夏田寺作示宛然</text>
+作 : <text>甲寅歲朝試作</text>
+作 : <text>漫作</text>
+靜 : <text>贈桐巖靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J37/J37nB391/toc.ncx
+作 : <text>乾闥婆王獻樂迦葉三度作舞</text>
+
+=============================
+C:/release/epub_unzip_2014/J37/J37nB392/toc.ncx
+靜 : <text>靜夜聞鐘</text>
+靜 : <text>三峰靜軒</text>
+
+=============================
+C:/release/epub_unzip_2014/J37/J37nB395/toc.ncx
+作 : <text>九日龍山奉陪諸公作</text>
+
+=============================
+C:/release/epub_unzip_2014/J37/J37nB399/toc.ncx
+作 : <text>大司馬科公命代作先老和尚祭文</text>
+
+=============================
+C:/release/epub_unzip_2014/J37/J37nB401/toc.ncx
+作 : <text>磨磚作鏡</text>
+作 : <text>金牛作飯</text>
+靜 : <text>示我靜趙居士</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB406/toc.ncx
+兜 : <text>兜率悅勘僧三問</text>
+靜 : <text>妙靜主呈船子頌卻示</text>
+譜 : <text>題宗譜</text>
+作 : <text>讀曹山寂旨訣偶作</text>
+作 : <text>復凌世作司李</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB407/toc.ncx
+靜 : <text>贈靜宇</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB410/toc.ncx
+靜 : <text>與若靜禪上座</text>
+譜 : <text>示石譜禪人</text>
+作 : <text>諸禪者有掬水弄花之作以此示之</text>
+杜 : <text>祝同門林杜則居士五旬</text>
+作 : <text>路中作</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB411/toc.ncx
+靜 : <text>題靜瞻上座像</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB413/toc.ncx
+作 : <text>銅山寺雨作</text>
+作 : <text>山中感作</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB415/toc.ncx
+靜 : <text>過靜海武安宮晤諸友話舊</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB418/toc.ncx
+杜 : <text>杜臻序</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB419/toc.ncx
+靜 : <text>附燕然靜主山居五首</text>
+靜 : <text>湘潭訪醒初靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB420/toc.ncx
+靜 : <text>月朗光靜</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB421/toc.ncx
+靜 : <text>超方禪師請為聆靜本師起棺</text>
+作 : <text>舟中閱天逸兄靈隱留別詩慨然有作</text>
+作 : <text>雨阻杏泉房作</text>
+作 : <text>登鳳凰山作</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB425/toc.ncx
+兜 : <text>兜率悅和尚垂語三則</text>
+作 : <text>童子倒地作求物勢大士以手招之</text>
+作 : <text>出神童子作禮</text>
+靜 : <text>陸修靜</text>
+杜 : <text>題木蓮杜鵑</text>
+作 : <text>林僩士計部寄惠箑頭并題三天門佳作賦謝</text>
+靜 : <text>贈法華靜主</text>
+作 : <text>希孟陳居士名浩善山水有聲近寄一幅併題佳作妙稱三絕次韻以答</text>
+靜 : <text>畫松寄大眉靜主</text>
+靜 : <text>示自靜禪人</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB427/toc.ncx
+作 : <text>天童太師翁一棒不作一棒用</text>
+作 : <text>僧問趙州純清絕點時如何州云猶是他家客作漢</text>
+靜 : <text>訪峨眉千佛頂三空靜主</text>
+靜 : <text>訪霧曉菴靈耀靜主</text>
+靜 : <text>訪天智靜主</text>
+杜 : <text>示常德杜居士</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB429/toc.ncx
+作 : <text>同寧一心印二大士除夕偶作</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB430/toc.ncx
+靜 : <text>示元空靜主</text>
+靜 : <text>示圓靜禪人</text>
+
+=============================
+C:/release/epub_unzip_2014/J38/J38nB433/toc.ncx
+卜 : <text>卜基</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB435/toc.ncx
+靜 : <text>一揆法弟住靜有懷</text>
+作 : <text>施主送法鼓作偈</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB436/toc.ncx
+作 : <text>華嚴期偶作</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB438/toc.ncx
+靜 : <text>示竹庵靜主</text>
+靜 : <text>答慈庵靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB439/toc.ncx
+瑜 : <text>瑜伽表</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB448/toc.ncx
+作 : <text>朱解作明采火</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB450/toc.ncx
+靜 : <text>付靜明道徹禪人</text>
+靜 : <text>付木耶照靜禪人</text>
+靜 : <text>付天聽道靜禪人</text>
+靜 : <text>付靜空性明禪人</text>
+靜 : <text>贈瑞光靜主</text>
+靜 : <text>贈天根靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB451/toc.ncx
+作 : <text>同臺二護法河岸蓬居作</text>
+作 : <text>山房閒作</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB452/toc.ncx
+靜 : <text>靜室</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB454/toc.ncx
+靜 : <text>示靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB456/toc.ncx
+作 : <text>癸酉元日作</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB459/toc.ncx
+作 : <text>溈山入山作務</text>
+作 : <text>溈山入山作務</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB461/toc.ncx
+作 : <text>師過餘姚藏閣眾知師未事筆墨強師作偈云</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB465/toc.ncx
+作 : <text>鍾子擊碎於此有感隨作一偈</text>
+作 : <text>訪道作</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB469/toc.ncx
+靜 : <text>送天碧上座住靜</text>
+靜 : <text>贈友人新成靜室</text>
+
+=============================
+C:/release/epub_unzip_2014/J39/J39nB471/toc.ncx
+靜 : <text>付靜融興禪人</text>
+靜 : <text>示靜融</text>
+靜 : <text>示自靜王居士</text>
+
+=============================
+C:/release/epub_unzip_2014/J40/J40nB478/toc.ncx
+遜 : <text>付遜嶽禪人</text>
+靜 : <text>示同柏靜主</text>
+靜 : <text>示虎洞靜主</text>
+靜 : <text>示[泳-永+雁]川靜主</text>
+靜 : <text>示一乘靜主</text>
+靜 : <text>示象頭念佛靜主</text>
+
+=============================
+C:/release/epub_unzip_2014/J40/J40nB479/toc.ncx
+兜 : <text>未離兜率已降皇宮未出母胎度人已畢</text>
+靜 : <text>國寧常靜</text>
+靜 : <text>靜山海福</text>
+靜 : <text>悉聞芳靜</text>
+
+=============================
+C:/release/epub_unzip_2014/J40/J40nB483/toc.ncx
+靜 : <text>靜禪禪人下火</text>
+杜 : <text>復杜瑞蘭居士</text>
+靜 : <text>靜室茶煙</text>
+靜 : <text>十地靜室</text>
+
+=============================
+C:/release/epub_unzip_2014/J40/J40nB485/toc.ncx
+杜 : <text>郡侯杜公次韻</text>
+靜 : <text>復靜默上座</text>
+
+=============================
+C:/release/epub_unzip_2014/J40/J40nB487/toc.ncx
+作 : <text>仰山作女人拜</text>
+
+=============================
+C:/release/epub_unzip_2014/J40/J40nB488/toc.ncx
+作 : <text>舟中阻風作以慰眾</text>
+
+=============================
+C:/release/epub_unzip_2014/J40/J40nB491/toc.ncx
+靜 : <text>贈靜愛山</text>
+
+=============================
+C:/release/epub_unzip_2014/J40/J40nB494/toc.ncx
+兜 : <text>未離兜率</text>
+靜 : <text>過九奇峰贈鵬庵靜主</text>
+靜 : <text>輓慧徹靜主</text>
+卜 : <text>輓陳卜翁</text>
+靜 : <text>受菴維那為師靜修老宿請入塔</text>
+遜 : <text>學及上座請為徒遜庵書記火</text>
+靜 : <text>受庵維那請為師靜修老宿火</text>
+
+=============================
+C:/release/epub_unzip_2014/J40/J40nB497/toc.ncx
+靜 : <text>壽元靜耆宿</text>
+
+=============================
+C:/release/epub_unzip_2014/K32/K32n1064/toc.ncx
+兜 : <text>昇兜率天宮品</text>
+兜 : <text>兜率天宮偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/K34/K34n1257/toc.ncx
+靜 : <text>大般若經第十五會靜慮波羅蜜多分序</text>
+兜 : <text>兜沙經一卷</text>
+兜 : <text>觀彌勒菩薩上生兜率天經一卷</text>
+作 : <text>作佛形像經一卷</text>
+瑜 : <text>金剛頂瑜伽中略出念誦經四卷</text>
+瑜 : <text>觀自在如意輪菩薩瑜岐法要一卷</text>
+作 : <text>作函</text>
+瑜 : <text>瑜伽師地論一部一百卷　第一帙</text>
+瑜 : <text>瑜伽師地論一部一百卷　第二帙</text>
+瑜 : <text>瑜伽師地論一部一百卷　第三帙</text>
+瑜 : <text>瑜伽師地論一部一百卷　第四帙</text>
+瑜 : <text>瑜伽師地論一部一百卷　第五帙</text>
+瑜 : <text>瑜伽師地論一部一百卷　第六帙</text>
+瑜 : <text>瑜伽師地論一部一百卷　第七帙</text>
+瑜 : <text>瑜伽師地論一部一百卷　第八帙</text>
+瑜 : <text>瑜伽師地論一部一百卷　第九帙</text>
+瑜 : <text>瑜伽師地論一部一百卷　第十帙</text>
+瑜 : <text>瑜伽師地論釋一卷</text>
+
+=============================
+C:/release/epub_unzip_2014/K35/K35n1257/toc.ncx
+兜 : <text>兜調經一卷</text>
+靜 : <text>靜函</text>
+譜 : <text>釋迦譜一部十卷　上帙</text>
+譜 : <text>譜文</text>
+譜 : <text>釋迦譜一部十卷　下帙</text>
+譜 : <text>釋迦氏略譜一卷</text>
+譜 : <text>譜文</text>
+
+=============================
+C:/release/epub_unzip_2014/K38/K38n1402/toc.ncx
+作 : <text>作函　大智度論第四卷</text>
+作 : <text>瞿曇彌來作比丘尼品第九</text>
+畜 : <text>比丘尼乞畜眾羯磨文</text>
+畜 : <text>與畜眾羯磨文</text>
+
+=============================
+C:/release/epub_unzip_2014/K41/K41n1482/toc.ncx
+作 : <text>繼作聖教序</text>
+
+=============================
+C:/release/epub_unzip_2014/L131/L131n1557/toc.ncx
+兜 : <text>第二十一之二第二十一之三第二十一之四第二十一之五第二十二之一升兜率天宮品第二十三</text>
+兜 : <text>第二十二之二第二十二之三第二十三之一兜率宮中偈讚品第二十四</text>
+
+=============================
+C:/release/epub_unzip_2014/L153/L153n1637/toc.ncx
+兜 : <text>澹游居士惠佛手柑云此兜羅綿手也…</text>
+靜 : <text>與王靜虛居士書</text>
+作 : <text>作觀</text>
+卜 : <text>臺山卜居</text>
+靜 : <text>靜中偶成八首</text>
+
+=============================
+C:/release/epub_unzip_2014/L154/L154n1638/toc.ncx
+作作 : <text>諸方都作十究竟歌予作不究竟</text>
+譜 : <text>贈題子葵居士夢石譜</text>
+
+=============================
+C:/release/epub_unzip_2014/L154/L154n1639/toc.ncx
+靜 : <text>示盡演靜主</text>
+靜 : <text>示懶牛靜主二首</text>
+作 : <text>效覺範禪師用唐高僧詩作八絕</text>
+
+=============================
+C:/release/epub_unzip_2014/L154/L154n1640/toc.ncx
+靜 : <text>靜中偶成</text>
+譜 : <text>年譜一</text>
+譜 : <text>年譜二</text>
+
+=============================
+C:/release/epub_unzip_2014/L154/L154n1641/toc.ncx
+靜 : <text>靜夜思</text>
+靜 : <text>懷靜涵老居士</text>
+
+=============================
+C:/release/epub_unzip_2014/L155/L155n1643/toc.ncx
+作 : <text>夢中作頌忘後二句續以補之</text>
+靜 : <text>贈靜香周觀察</text>
+作 : <text>雪竇萃章拔禪人因病得力依山僧山家十事作頌數十首寄呈其意偈以復之</text>
+靜 : <text>靜香周觀察扶櫬還南道遇剡城即乞為母邱氏太恭人對霛說偈</text>
+
+=============================
+C:/release/epub_unzip_2014/L157/L157n1649/toc.ncx
+作 : <text>初至嶽山尋友不值作此待之</text>
+作 : <text>和五祖演禪師牧牛歌(庚辰繼隱菴作)</text>
+
+=============================
+C:/release/epub_unzip_2014/L158/L158n1652/toc.ncx
+杜 : <text>杜漺序</text>
+杜 : <text>示子濂杜兵憲</text>
+靜 : <text>送慈吉後堂之盤山住靜</text>
+杜 : <text>與子濂杜兵憲</text>
+杜 : <text>荅子濂杜兵憲</text>
+靜 : <text>募造靜室疏</text>
+
+=============================
+C:/release/epub_unzip_2014/M059/M059n1540/toc.ncx
+靜 : <text>安靜道人李氏請普說</text>
+
+=============================
+C:/release/epub_unzip_2014/N02/N02n0001/toc.ncx
+作 : <text>眾學五〇〔作聲食戒〕</text>
+作 : <text>波逸提四四〔為白衣作事戒〕</text>
+作 : <text>波逸提四九〔自作咒術戒〕</text>
+
+=============================
+C:/release/epub_unzip_2014/N03/N03n0002/toc.ncx
+作 : <text>三一　惡作性十五事</text>
+作 : <text>八～一三　以別眾為別眾十五事、疑惑十五事、惡作性十一事、願不和十五事、〔上項詳說〕、〔舊比丘與客比丘〕</text>
+
+=============================
+C:/release/epub_unzip_2014/N13/N13n0006/toc.ncx
+靜 : <text>〔一五〕大林鳴（寂靜身）</text>
+
+=============================
+C:/release/epub_unzip_2014/N14/N14n0006/toc.ncx
+瑜 : <text>〔八四〕第三　瑜伽</text>
+靜 : <text>〔二三〕第一　不寂靜</text>
+卜 : <text>〔一四〕第四　醜女卜占女</text>
+
+=============================
+C:/release/epub_unzip_2014/N15/N15n0006/toc.ncx
+作 : <text>〔六〕第六　作</text>
+作 : <text>第八　恭敬〔作〕</text>
+作 : <text>第九　常作</text>
+作 : <text>第十八　等至～常作</text>
+作作 : <text>第五十三　恭敬作～常作</text>
+作作 : <text>第五十四　恭敬作～隨應作</text>
+作作 : <text>第五十五　常作～隨應作</text>
+
+=============================
+C:/release/epub_unzip_2014/N16/N16n0006/toc.ncx
+兜兜 : <text>第十三　刪兜率陀（兜率）天</text>
+
+=============================
+C:/release/epub_unzip_2014/N17/N17n0006/toc.ncx
+靜 : <text>〔二四〕第十三　寂靜</text>
+作 : <text>第六　力所作品</text>
+作 : <text>第十一　力所作品（遠離）</text>
+作 : <text>第十六　力所作品（調伏欲貪）</text>
+作 : <text>第八　力所作品</text>
+
+=============================
+C:/release/epub_unzip_2014/N18/N18n0006/toc.ncx
+靜 : <text>〔一九〕第九　寂靜</text>
+作 : <text>第十　力所作品（遠離依止）</text>
+作 : <text>第十五　力所作品（貪欲調伏）</text>
+作 : <text>第三　力所作品</text>
+作 : <text>第三　力〔所作〕品（遠離依止）</text>
+作 : <text>第八　力（所作）品（貪欲調伏）</text>
+作 : <text>第六　力所作品</text>
+靜 : <text>〔二一〕第十一　靜慮</text>
+靜 : <text>第九　靜慮相應</text>
+作 : <text>第三　力所作品</text>
+
+=============================
+C:/release/epub_unzip_2014/N19/N19n0007/toc.ncx
+靜 : <text>第二十　靜慮品</text>
+靜 : <text>第二十一　靜慮品</text>
+靜 : <text>第二　靜論品</text>
+
+=============================
+C:/release/epub_unzip_2014/N24/N24n0007/toc.ncx
+靜 : <text>三十六　靜慮</text>
+靜 : <text>九　寂靜</text>
+
+=============================
+C:/release/epub_unzip_2014/N25/N25n0007/toc.ncx
+作 : <text>九　作意</text>
+
+=============================
+C:/release/epub_unzip_2014/N27/N27n0013/toc.ncx
+作 : <text>五六　所應作天宮</text>
+作 : <text>五七　第二所應作天宮</text>
+
+=============================
+C:/release/epub_unzip_2014/N29/N29n0017/toc.ncx
+作 : <text>二二九　須伽陀威利耶（巧作華鬘）</text>
+作 : <text>二三六　萬那伽羅迦（作繪具人）</text>
+作 : <text>二三九　伽格提伽羅迦（作基壇人）</text>
+
+=============================
+C:/release/epub_unzip_2014/N30/N30n0017/toc.ncx
+作 : <text>四四六　欄楯作者</text>
+作 : <text>四　自作橋</text>
+
+=============================
+C:/release/epub_unzip_2014/N32/N32n0018/toc.ncx
+杜 : <text>一二七　伽藍杜迦奴隸本生譚</text>
+
+=============================
+C:/release/epub_unzip_2014/N35/N35n0018/toc.ncx
+遜 : <text>三六〇　須遜第妃本生譚</text>
+
+=============================
+C:/release/epub_unzip_2014/N48/N48n0024/toc.ncx
+靜 : <text>四　四梵住靜慮</text>
+靜 : <text>五　不淨靜慮</text>
+靜 : <text>四無色靜慮</text>
+靜 : <text>靜慮</text>
+靜 : <text>靜慮</text>
+作 : <text>二　所應作</text>
+作 : <text>一　欲纏所應作</text>
+作 : <text>二　色纏所應作</text>
+作 : <text>三　無色纏所應作</text>
+
+=============================
+C:/release/epub_unzip_2014/N49/N49n0025/toc.ncx
+作 : <text>作無記行根本</text>
+
+=============================
+C:/release/epub_unzip_2014/N50/N50n0025/toc.ncx
+作 : <text>〔不如理作意、惡道依付、心昧劣性〕</text>
+
+=============================
+C:/release/epub_unzip_2014/N54/N54n0029/toc.ncx
+靜 : <text>〔一七〕　靜慮緣</text>
+靜 : <text>〔一七〕　靜慮根</text>
+靜 : <text>〔一七〕　靜慮根</text>
+靜 : <text>〔一七〕　非靜慮根</text>
+靜 : <text>〔靜慮緣〕</text>
+靜 : <text>靜慮緣廣說</text>
+
+=============================
+C:/release/epub_unzip_2014/N55/N55n0029/toc.ncx
+靜 : <text>〔食緣、根緣、靜慮緣、道緣、相應緣……〕</text>
+靜 : <text>靜慮根</text>
+
+=============================
+C:/release/epub_unzip_2014/N62/N62n0030/toc.ncx
+作 : <text>第四章　超越作意論</text>
+畜 : <text>第四章　畜生論</text>
+
+=============================
+C:/release/epub_unzip_2014/N63/N63n0031/toc.ncx
+作 : <text>第七　作意之問</text>
+作 : <text>第八　作意特相之問</text>
+作 : <text>第十五　多種為一所作耶之問</text>
+作 : <text>第一　作意特相之問</text>
+作 : <text>第五　預作精進之問</text>
+作 : <text>第十　久遠所作憶念之問</text>
+作 : <text>第二　作百年非福之問</text>
+作 : <text>第十　知作惡業與不知之問</text>
+作 : <text>第九　如來更作彼以上事之問</text>
+作 : <text>第七　唱偈而得食與作施論之問</text>
+
+=============================
+C:/release/epub_unzip_2014/N64/N64n0031/toc.ncx
+作 : <text>第六　難行行作之問</text>
+作 : <text>第六　涅槃作證之問</text>
+
+=============================
+C:/release/epub_unzip_2014/N65/N65n0033/toc.ncx
+兜 : <text>〔第三十二章　上生兜率宮〕</text>
+
+=============================
+C:/release/epub_unzip_2014/N67/N67n0035/toc.ncx
+作 : <text>三　性行者之辨知法（由威儀、由作業、由食、由見等、又由法之轉起）</text>
+作 : <text>二　徧之作法</text>
+
+=============================
+C:/release/epub_unzip_2014/N68/N68n0035/toc.ncx
+作 : <text>（二）十種之作意善巧</text>
+作 : <text>（二）分別有體（四界四十二部分之各別作意）</text>
+
+=============================
+C:/release/epub_unzip_2014/N69/N69n0035/toc.ncx
+作 : <text>　（二）八十九心之十四心作用</text>
+作 : <text>　（四）與諸唯作無記心相應之行</text>
+作 : <text>六　由如斯見者之作就</text>
+作 : <text>（五）由作用</text>
+作 : <text>（九）由智之作用</text>
+作 : <text>三　無作者無受者</text>
+作 : <text>二　由作用</text>
+作 : <text>（五）作用</text>
+作 : <text>三　作證</text>
+
+=============================
+C:/release/epub_unzip_2014/N70/N70n0037/toc.ncx
+作 : <text>三　作用之攝</text>
+作 : <text>二　五門作用</text>
+作 : <text>三　欲界之意門作用</text>
+作 : <text>四　上二界、出世間之禪定作用</text>
+
+=============================
+C:/release/epub_unzip_2014/P179/P179n1612/toc.ncx
+作 : <text>作正觀之曲</text>
+作 : <text>作正觀之曲</text>
+作 : <text>作正觀之曲</text>
+作 : <text>作正觀之曲</text>
+靜 : <text>住靜慮之曲</text>
+作 : <text>作妙德之曲</text>
+靜 : <text>靜慧生之曲</text>
+靜 : <text>又靜慧生之曲</text>
+靜 : <text>住靜慮之曲</text>
+靜 : <text>又住靜慮之曲</text>
+
+=============================
+C:/release/epub_unzip_2014/T01/T01n0078/toc.ncx
+兜 : <text>T0078 兜調經 (1卷)</text>
+兜 : <text>兜調經</text>
+
+=============================
+C:/release/epub_unzip_2014/T03/T03n0187/toc.ncx
+兜 : <text>2 兜率天宮品</text>
+
+=============================
+C:/release/epub_unzip_2014/T03/T03n0190/toc.ncx
+兜 : <text>4 上託兜率品</text>
+
+=============================
+C:/release/epub_unzip_2014/T04/T04n0196/toc.ncx
+作 : <text>9 瞿曇彌來作比丘尼品</text>
+
+=============================
+C:/release/epub_unzip_2014/T04/T04n0197/toc.ncx
+兜 : <text>7 佛說地婆達兜擲石緣經</text>
+
+=============================
+C:/release/epub_unzip_2014/T04/T04n0198/toc.ncx
+兜 : <text>13 兜勒梵志經</text>
+
+=============================
+C:/release/epub_unzip_2014/T04/T04n0200/toc.ncx
+作 : <text>10 長者七日作王緣</text>
+作 : <text>17 乾闥婆作樂讚佛緣</text>
+作 : <text>29 作樂供養成辟支佛緣</text>
+作 : <text>31 蓮華王捨身作赤魚緣</text>
+剜 : <text>33 尸毘王剜眼施鷲緣</text>
+作 : <text>61 身作金色緣</text>
+作 : <text>75 舞師女作比丘尼緣</text>
+作 : <text>89 拔提釋王作比丘緣</text>
+
+=============================
+C:/release/epub_unzip_2014/T04/T04n0203/toc.ncx
+作 : <text>48 長者子客作設會獲現報緣</text>
+作 : <text>58 長者夫婦造作浮圖生天緣</text>
+作 : <text>60 外道婆羅門女學佛弟子作齋生天緣</text>
+作 : <text>94 月氏國王與三智臣作善親友緣</text>
+
+=============================
+C:/release/epub_unzip_2014/T04/T04n0209/toc.ncx
+停 : <text>6 子死欲停置家中喻</text>
+作 : <text>47 貧人作鴛鴦鳴喻</text>
+作 : <text>51 五人買婢共使作喻</text>
+作 : <text>52 伎兒作樂喻</text>
+作 : <text>59 觀作瓶喻</text>
+
+=============================
+C:/release/epub_unzip_2014/T06/T06n0220/toc.ncx
+瑜 : <text>75 勝義瑜伽品</text>
+
+=============================
+C:/release/epub_unzip_2014/T08/T08n0221/toc.ncx
+作 : <text>44 無作品</text>
+
+=============================
+C:/release/epub_unzip_2014/T08/T08n0223/toc.ncx
+作 : <text>43 無作品</text>
+
+=============================
+C:/release/epub_unzip_2014/T08/T08n0241/toc.ncx
+瑜 : <text>T0241 金剛頂瑜伽理趣般若經 (1卷)</text>
+瑜 : <text>金剛頂瑜伽理趣般若經</text>
+
+=============================
+C:/release/epub_unzip_2014/T08/T08n0261/toc.ncx
+靜 : <text>9 靜慮波羅蜜多品</text>
+
+=============================
+C:/release/epub_unzip_2014/T09/T09n0278/toc.ncx
+兜 : <text>19 如來昇兜率天宮一切寶殿品</text>
+兜 : <text>20 兜率天宮菩薩雲集讚佛品</text>
+
+=============================
+C:/release/epub_unzip_2014/T10/T10n0279/toc.ncx
+兜 : <text>23 昇兜率天宮品</text>
+兜 : <text>24 兜率宮中偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/T10/T10n0280/toc.ncx
+兜 : <text>T0280 佛說兜沙經 (1卷)</text>
+兜 : <text>佛說兜沙經</text>
+
+=============================
+C:/release/epub_unzip_2014/T11/T11n0310/toc.ncx
+靜 : <text>10 靜慮波羅蜜多品</text>
+兜 : <text>16 兜率陀天授記品</text>
+
+=============================
+C:/release/epub_unzip_2014/T12/T12n0364/toc.ncx
+作 : <text>10 願成作佛分</text>
+作 : <text>39 遞次作佛分</text>
+
+=============================
+C:/release/epub_unzip_2014/T12/T12n0384/toc.ncx
+兜 : <text>T0384 菩薩從兜術天降神母胎說廣普經 (7卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T13/T13n0415/toc.ncx
+作 : <text>7 佛作神通品</text>
+
+=============================
+C:/release/epub_unzip_2014/T14/T14n0452/toc.ncx
+兜 : <text>T0452 佛說觀彌勒菩薩上生兜率天經 (1卷)</text>
+兜 : <text>佛說觀彌勒菩薩上生兜率天經</text>
+
+=============================
+C:/release/epub_unzip_2014/T14/T14n0499/toc.ncx
+作 : <text>T0499 佛為阿支羅迦葉自化作苦經 (1卷)</text>
+作 : <text>佛為阿支羅迦葉自化作苦經</text>
+
+=============================
+C:/release/epub_unzip_2014/T16/T16n0676/toc.ncx
+瑜 : <text>6 分別瑜伽品(三)</text>
+作 : <text>8 如來成所作事品(五)</text>
+
+=============================
+C:/release/epub_unzip_2014/T16/T16n0679/toc.ncx
+作 : <text>T0679 相續解脫如來所作隨順處了義經 (1卷)</text>
+作 : <text>相續解脫如來所作隨順處了義經</text>
+
+=============================
+C:/release/epub_unzip_2014/T16/T16n0681/toc.ncx
+作 : <text>4 顯示自作品(中)</text>
+
+=============================
+C:/release/epub_unzip_2014/T16/T16n0682/toc.ncx
+作 : <text>4 自作境界品(中)</text>
+
+=============================
+C:/release/epub_unzip_2014/T16/T16n0692/toc.ncx
+作 : <text>T0692 佛說作佛形像經 (1卷)</text>
+作 : <text>佛說作佛形像經</text>
+
+=============================
+C:/release/epub_unzip_2014/T17/T17n0721/toc.ncx
+畜 : <text>5 畜生品(一八-二一)</text>
+
+=============================
+C:/release/epub_unzip_2014/T17/T17n0728/toc.ncx
+畜 : <text>18 畜生品(七)</text>
+靜 : <text>28 寂靜品(九)</text>
+
+=============================
+C:/release/epub_unzip_2014/T17/T17n0789/toc.ncx
+瑜 : <text>T0789 金剛頂瑜伽念珠經 (1卷)</text>
+瑜 : <text>金剛頂瑜伽念珠經</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0853/toc.ncx
+瑜 : <text>T0853 大毘盧遮那成佛神變加持經蓮華胎藏菩提幢標幟普通真言藏廣大成就瑜伽 (3卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0866/toc.ncx
+瑜 : <text>T0866 金剛頂瑜伽中略出念誦經 (4卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0867/toc.ncx
+瑜瑜 : <text>T0867 金剛峰樓閣一切瑜伽瑜祇經 (2卷)</text>
+瑜 : <text>6 一切佛頂最上遍照王勝義難摧摧邪一切處瑜伽四行攝法品</text>
+瑜 : <text>7 一切如來大勝金剛心瑜伽成就品</text>
+作 : <text>11 金剛薩埵菩提心內作業灌頂悉地品</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0869/toc.ncx
+瑜 : <text>T0869 金剛頂經瑜伽十八會指歸 (1卷)</text>
+瑜 : <text>金剛頂經瑜伽十八會指歸</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0870/toc.ncx
+瑜 : <text>T0870 略述金剛頂瑜伽分別聖位修證法門 (1卷)</text>
+瑜 : <text>略述金剛頂瑜伽分別聖位修證法門</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0871/toc.ncx
+瑜 : <text>T0871 金剛頂瑜伽略述三十七尊心要 (1卷)</text>
+瑜 : <text>金剛頂瑜伽略述三十七尊心要</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0872/toc.ncx
+瑜 : <text>T0872 金剛頂瑜伽三十七尊出生義 (1卷)</text>
+瑜 : <text>金剛頂瑜伽三十七尊出生義</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0874/toc.ncx
+瑜 : <text>1 深妙祕密金剛界大三昧耶修習瑜伽儀</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0876/toc.ncx
+瑜 : <text>T0876 金剛頂瑜伽修習毘盧遮那三摩地法 (1卷)</text>
+瑜 : <text>金剛頂瑜伽修習毘盧遮那三摩地法</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0879/toc.ncx
+瑜 : <text>T0879 金剛頂瑜伽三十七尊禮 (1卷)</text>
+瑜 : <text>金剛頂瑜伽三十七尊禮</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0880/toc.ncx
+瑜 : <text>T0880 瑜伽金剛頂經釋字母品 (1卷)</text>
+瑜 : <text>瑜伽金剛頂經釋字母品</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0887/toc.ncx
+瑜 : <text>T0887 佛說無二平等最上瑜伽大教王經 (6卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0890/toc.ncx
+瑜 : <text>T0890 佛說瑜伽大教王經 (5卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0891/toc.ncx
+瑜 : <text>T0891 佛說幻化網大瑜伽教十忿怒明王大明觀想儀軌經 (1卷)</text>
+瑜 : <text>佛說幻化網大瑜伽教十忿怒明王大明觀想儀軌經</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0901/toc.ncx
+作 : <text>七日作法</text>
+作 : <text>佛說作數珠法相品</text>
+作 : <text>作跋折囉并功德法</text>
+作 : <text>毘俱知作壇泥地供養咒</text>
+作 : <text>畫作像法</text>
+作 : <text>作何耶揭唎婆像法</text>
+瑜 : <text>41 烏樞沙摩那瑜伽咒</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0908/toc.ncx
+瑜 : <text>T0908 金剛頂瑜伽護摩儀軌 (1卷)</text>
+瑜 : <text>金剛頂瑜伽護摩儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T18/T18n0909/toc.ncx
+瑜 : <text>T0909 金剛頂瑜伽護摩儀軌 (1卷)</text>
+瑜 : <text>金剛頂瑜伽護摩儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T19/T19n0932/toc.ncx
+瑜 : <text>T0932 金剛頂經瑜伽觀自在王如來修行法 (1卷)</text>
+瑜 : <text>金剛頂經瑜伽觀自在王如來修行法</text>
+
+=============================
+C:/release/epub_unzip_2014/T19/T19n0955/toc.ncx
+瑜 : <text>T0955 一字頂輪王瑜伽觀行儀軌 (1卷)</text>
+瑜 : <text>一字頂輪王瑜伽觀行儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T19/T19n0957/toc.ncx
+瑜 : <text>T0957 金剛頂一字頂輪王瑜伽一切時處念誦成佛儀軌 (1卷)</text>
+瑜 : <text>金剛頂一字頂輪王瑜伽一切時處念誦成佛儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T19/T19n0973/toc.ncx
+瑜 : <text>T0973 尊勝佛頂脩瑜伽法軌儀 (2卷)</text>
+瑜 : <text>4 修瑜伽奉獻香華品</text>
+瑜 : <text>5 修瑜伽五智品</text>
+瑜 : <text>6 修瑜伽本尊真言品</text>
+瑜 : <text>7 修瑜伽畫像品</text>
+瑜 : <text>9 證瑜伽悉地品</text>
+瑜 : <text>10 修瑜伽護摩品</text>
+瑜 : <text>11 修瑜伽祈雨法品</text>
+
+=============================
+C:/release/epub_unzip_2014/T19/T19n0974E/toc.ncx
+作 : <text>作尊勝壇法</text>
+
+=============================
+C:/release/epub_unzip_2014/T19/T19n1000/toc.ncx
+瑜 : <text>T1000 成就妙法蓮華經王瑜伽觀智儀軌 (1卷)</text>
+瑜 : <text>成就妙法蓮華經王瑜伽觀智儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T19/T19n1020/toc.ncx
+瑜 : <text>T1020 大方廣佛花嚴經入法界品頓證毘盧遮那法身字輪瑜伽儀軌 (1卷)</text>
+瑜 : <text>大方廣佛花嚴經入法界品頓證毘盧遮那法身字輪瑜伽儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1030/toc.ncx
+瑜 : <text>T1030 觀自在大悲成就瑜伽蓮華部念誦法門 (1卷)</text>
+瑜 : <text>觀自在大悲成就瑜伽蓮華部念誦法門</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1031/toc.ncx
+瑜 : <text>T1031 聖觀自在菩薩心真言瑜伽觀行儀軌 (1卷)</text>
+瑜 : <text>聖觀自在菩薩心真言瑜伽觀行儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1032/toc.ncx
+瑜 : <text>T1032 瑜伽蓮華部念誦法 (1卷)</text>
+瑜 : <text>瑜伽蓮華部念誦法</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1056/toc.ncx
+瑜 : <text>T1056 金剛頂瑜伽千手千眼觀自在菩薩修行儀軌經 (2卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1086/toc.ncx
+瑜 : <text>T1086 觀自在菩薩如意輪瑜伽 (1卷)</text>
+瑜 : <text>觀自在菩薩如意輪瑜伽</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1087/toc.ncx
+瑜 : <text>T1087 觀自在如意輪菩薩瑜伽法要 (1卷)</text>
+瑜 : <text>觀自在如意輪菩薩瑜伽法要</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1112/toc.ncx
+瑜 : <text>T1112 金剛頂瑜伽青頸大悲王觀自在念誦儀軌 (1卷)</text>
+瑜 : <text>金剛頂瑜伽青頸大悲王觀自在念誦儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1120A/toc.ncx
+瑜 : <text>T1120A 金剛頂勝初瑜伽經中略出大樂金剛薩埵念誦儀 (1卷)</text>
+瑜 : <text>金剛頂勝初瑜伽經中略出大樂金剛薩埵念誦儀</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1120B/toc.ncx
+瑜 : <text>T1120B 勝初瑜伽儀軌真言 (1卷)</text>
+瑜 : <text>勝初瑜伽儀軌真言</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1121/toc.ncx
+瑜 : <text>T1121 金剛頂普賢瑜伽大教王經大樂不空金剛薩埵一切時方成就儀 (1卷)</text>
+瑜 : <text>金剛頂普賢瑜伽大教王經大樂不空金剛薩埵一切時方成就儀</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1122/toc.ncx
+瑜 : <text>T1122 金剛頂瑜伽他化自在天理趣會普賢修行念誦儀軌 (1卷)</text>
+瑜 : <text>金剛頂瑜伽他化自在天理趣會普賢修行念誦儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1123/toc.ncx
+瑜 : <text>T1123 金剛頂勝初瑜伽普賢菩薩念誦法 (1卷)</text>
+瑜 : <text>金剛頂勝初瑜伽普賢菩薩念誦法</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1124/toc.ncx
+瑜 : <text>T1124 普賢金剛薩埵略瑜伽念誦儀軌 (1卷)</text>
+瑜 : <text>普賢金剛薩埵略瑜伽念誦儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1125/toc.ncx
+瑜 : <text>T1125 金剛頂瑜伽金剛薩埵五祕密修行念誦儀軌 (1卷)</text>
+瑜 : <text>金剛頂瑜伽金剛薩埵五祕密修行念誦儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1141/toc.ncx
+瑜 : <text>T1141 慈氏菩薩略修瑜伽念誦法 (2卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1155/toc.ncx
+瑜 : <text>T1155 金剛頂瑜伽最勝祕密成佛隨求即得神變加持成就陀羅尼儀軌 (1卷)</text>
+瑜 : <text>金剛頂瑜伽最勝祕密成佛隨求即得神變加持成就陀羅尼儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1169/toc.ncx
+瑜 : <text>T1169 佛說持明藏瑜伽大教尊那菩薩大明成就儀軌經 (4卷)</text>
+作 : <text>4 尊那菩薩大明成就儀軌作曼拏羅法分</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1171/toc.ncx
+瑜 : <text>T1171 金剛頂經瑜伽文殊師利菩薩法 (1卷)</text>
+瑜 : <text>金剛頂經瑜伽文殊師利菩薩法</text>
+瑜 : <text>金剛頂經瑜伽文殊師利菩薩儀軌供養法品</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1175/toc.ncx
+瑜 : <text>T1175 金剛頂經瑜伽文殊師利菩薩供養儀軌 (1卷)</text>
+瑜 : <text>金剛頂經瑜伽文殊師利菩薩供養儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1176/toc.ncx
+瑜 : <text>T1176 曼殊室利童子菩薩五字瑜伽法 (1卷)</text>
+瑜 : <text>曼殊室利童子菩薩五字瑜伽法</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1177A/toc.ncx
+瑜 : <text>T1177A 大乘瑜伽金剛性海曼殊室利千臂千鉢大教王經 (10卷)</text>
+瑜 : <text>1 大乘瑜伽金剛性海曼殊室利千臂千缽大教王經序</text>
+
+=============================
+C:/release/epub_unzip_2014/T20/T20n1193/toc.ncx
+瑜 : <text>T1193 妙吉祥平等瑜伽祕密觀身成佛儀軌 (1卷)</text>
+瑜 : <text>妙吉祥平等瑜伽祕密觀身成佛儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T21/T21n1209/toc.ncx
+瑜 : <text>T1209 金剛頂瑜伽降三世成就極深密門 (1卷)</text>
+瑜 : <text>金剛頂瑜伽降三世成就極深密門</text>
+
+=============================
+C:/release/epub_unzip_2014/T21/T21n1223/toc.ncx
+瑜 : <text>T1223 佛說無量壽佛化身大忿迅俱摩羅金剛念誦瑜伽儀軌法 (1卷)</text>
+瑜 : <text>佛說無量壽佛化身大忿迅俱摩羅金剛念誦瑜伽儀軌法</text>
+
+=============================
+C:/release/epub_unzip_2014/T21/T21n1230/toc.ncx
+作 : <text>1 爾時世尊說作一切印法法身印</text>
+
+=============================
+C:/release/epub_unzip_2014/T21/T21n1242/toc.ncx
+瑜 : <text>T1242 佛說妙吉祥瑜伽大教金剛陪囉嚩輪觀想成就儀軌經 (1卷)</text>
+瑜 : <text>佛說妙吉祥瑜伽大教金剛陪囉嚩輪觀想成就儀軌經</text>
+
+=============================
+C:/release/epub_unzip_2014/T21/T21n1246/toc.ncx
+作 : <text>2 作壇場品</text>
+
+=============================
+C:/release/epub_unzip_2014/T21/T21n1251/toc.ncx
+瑜 : <text>1 麼迦多聞寶藏吽迦陀野神妙修真言瑜伽念誦儀軌[阿-可+(俱/寸)][阿-可+梨]漫荼羅品</text>
+
+=============================
+C:/release/epub_unzip_2014/T21/T21n1273/toc.ncx
+瑜 : <text>T1273 毘那夜迦誐那鉢底瑜伽悉地品祕要 (1卷)</text>
+瑜 : <text>毘那夜迦誐那鉢底瑜伽悉地品祕要</text>
+
+=============================
+C:/release/epub_unzip_2014/T21/T21n1318/toc.ncx
+瑜 : <text>T1318 瑜伽集要救阿難陀羅尼焰口軌儀經 (1卷)</text>
+瑜 : <text>瑜伽集要救阿難陀羅尼焰口軌儀經</text>
+
+=============================
+C:/release/epub_unzip_2014/T21/T21n1319/toc.ncx
+瑜 : <text>T1319 瑜伽集要焰口施食起教阿難陀緣由 (1卷)</text>
+瑜 : <text>瑜伽集要焰口施食起教阿難陀緣由</text>
+
+=============================
+C:/release/epub_unzip_2014/T21/T21n1320/toc.ncx
+瑜 : <text>T1320 瑜伽集要焰口施食儀 (1卷)</text>
+瑜 : <text>瑜伽集要焰口施食儀</text>
+
+=============================
+C:/release/epub_unzip_2014/T22/T22n1432/toc.ncx
+作 : <text>8 作淨法</text>
+作 : <text>8 作淨法</text>
+
+=============================
+C:/release/epub_unzip_2014/T23/T23n1438/toc.ncx
+作 : <text>21 羯磨為僧作自恣人</text>
+
+=============================
+C:/release/epub_unzip_2014/T23/T23n1439/toc.ncx
+畜 : <text>3 乞畜眾羯磨文</text>
+畜 : <text>4 僧與畜眾羯磨文</text>
+
+=============================
+C:/release/epub_unzip_2014/T23/T23n1442/toc.ncx
+作 : <text>11 用野蠶絲作敷具學處</text>
+作 : <text>12 用純黑羊毛作敷具學處</text>
+作 : <text>13 過分數作敷具學處</text>
+作 : <text>14 作減六年敷具學處</text>
+作 : <text>15 作新敷具不為壞色學處</text>
+作 : <text>23 自乞縷使非親族織師織作衣學處</text>
+作 : <text>25 與非親苾芻尼作衣學處</text>
+作 : <text>84 作針筒學處</text>
+作 : <text>85 作過量床學處</text>
+作 : <text>87 過量作尼師但那學處</text>
+作 : <text>88 作覆瘡衣學處</text>
+作 : <text>89 作雨浴衣學處</text>
+作 : <text>90 同佛衣量作衣學處</text>
+
+=============================
+C:/release/epub_unzip_2014/T23/T23n1443/toc.ncx
+作 : <text>12 輒作解舉學處</text>
+作 : <text>15 自乞縷使非親織師織作衣學處</text>
+畜 : <text>20 畜長缽學處</text>
+作 : <text>67 作針筒學處</text>
+作 : <text>68 作過量床學處</text>
+作 : <text>70 過量作尼師但那學處</text>
+作 : <text>71 作覆瘡衣學處</text>
+作 : <text>72 同佛衣量作衣學處</text>
+作 : <text>94 以樹膠作生支學處</text>
+畜 : <text>107 輒畜弟子學處</text>
+畜 : <text>110 輒多畜眾學處第</text>
+作 : <text>127 無苾芻處作長淨學處</text>
+作 : <text>128 無苾芻處作安居學處</text>
+作 : <text>129 不於二部眾三事作隨意學處</text>
+畜 : <text>139 不畜洗裙學處</text>
+畜 : <text>143 不畜病衣學處</text>
+作 : <text>174 作樂學處</text>
+畜 : <text>176 畜香草刷學處</text>
+畜 : <text>177 畜細枇學處</text>
+畜 : <text>178 畜麤梳學處</text>
+畜 : <text>180 畜假髻莊具學處</text>
+
+=============================
+C:/release/epub_unzip_2014/T24/T24n1458/toc.ncx
+作 : <text>9 勸共作衣學處</text>
+作 : <text>11 用野蠶絲作敷具學處</text>
+作 : <text>12 用純黑羊毛作敷具學處</text>
+作 : <text>13 過分數作敷具學處</text>
+作 : <text>14 減六年作新敷具學處</text>
+作 : <text>15 作新尼師但那不用故帖學處</text>
+畜 : <text>21 畜長缽過十日不分別學處</text>
+作 : <text>23 自乞縷使非親織師織作衣學處</text>
+畜 : <text>26 過後畜急施衣學處</text>
+作 : <text>25 與非親尼作衣學處</text>
+作 : <text>83 不攝耳聽戒作不知語學處</text>
+作 : <text>84 用牙角作針筒學處</text>
+作 : <text>85 過量作床學處</text>
+作 : <text>87 過量作尼師但那學處</text>
+作 : <text>88 過量作覆瘡衣學處</text>
+作 : <text>89 過量作雨浴衣學處</text>
+作 : <text>90 與佛等過量作衣學處</text>
+
+=============================
+C:/release/epub_unzip_2014/T25/T25n1509/toc.ncx
+作 : <text>11 幻人無作品</text>
+作 : <text>43 無作實相品</text>
+
+=============================
+C:/release/epub_unzip_2014/T26/T26n1537/toc.ncx
+靜 : <text>11 靜慮品</text>
+
+=============================
+C:/release/epub_unzip_2014/T30/T30n1564/toc.ncx
+作作 : <text>8 觀作作者品</text>
+
+=============================
+C:/release/epub_unzip_2014/T30/T30n1566/toc.ncx
+作 : <text>8 觀作者業品</text>
+
+=============================
+C:/release/epub_unzip_2014/T30/T30n1567/toc.ncx
+作作 : <text>8 觀作者作業品</text>
+
+=============================
+C:/release/epub_unzip_2014/T30/T30n1568/toc.ncx
+作 : <text>10 觀作者門</text>
+
+=============================
+C:/release/epub_unzip_2014/T30/T30n1579/toc.ncx
+瑜 : <text>T1579 瑜伽師地論 (100卷)</text>
+作 : <text>4章 作意與識生之關係</text>
+作 : <text>5項 作業</text>
+作 : <text>1目 對五識明作業</text>
+作 : <text>2目 明意識之勝作業（十四門）</text>
+作 : <text>4章 如理作意施設建立</text>
+作 : <text>5章 不如理作意施設建立</text>
+作 : <text>6節 宿作因論</text>
+作 : <text>7節 計自在等作者論</text>
+作 : <text>4章 合釋作意及相二門</text>
+作 : <text>1節 釋作意</text>
+作作 : <text>1項 標列七作意與四十作意</text>
+作 : <text>2項 別釋四十作意行相</text>
+作作 : <text>3項 以七作意與四十作意相攝</text>
+作 : <text>1項 修作意所由</text>
+靜 : <text>3項 四得靜慮</text>
+靜 : <text>4目 分別靜慮經</text>
+作 : <text>8節 論多所作法</text>
+作 : <text>3項 入聖諦現觀已作意思惟諸歡喜事</text>
+瑜 : <text>1瑜伽處</text>
+瑜 : <text>5項 第七門初夜後夜常勤修習覺寤瑜伽</text>
+瑜 : <text>2瑜伽處</text>
+瑜 : <text>7項 瑜伽壞</text>
+瑜 : <text>1目 標列四種瑜伽壞</text>
+瑜 : <text>2目 標釋四種瑜伽壞</text>
+瑜 : <text>8項 瑜伽</text>
+瑜 : <text>1目 標列四種瑜伽</text>
+瑜 : <text>2目 標釋四種瑜伽</text>
+瑜 : <text>3目 結瑜伽</text>
+作 : <text>9項 作意</text>
+作 : <text>1目 辨四種作意</text>
+作 : <text>2目 明作意思惟相</text>
+瑜作 : <text>10項 瑜伽師所作</text>
+瑜 : <text>11項 瑜伽師</text>
+瑜 : <text>12項 瑜伽修</text>
+瑜 : <text>3瑜伽處</text>
+作 : <text>5目 修作意處</text>
+瑜 : <text>4瑜伽處</text>
+作 : <text>1目 以七作意離欲</text>
+作 : <text>3節 廣辨往生出世間道(辨七作意)</text>
+作 : <text>1項 了相作意</text>
+作 : <text>2項 勝解作意</text>
+作 : <text>3項 遠離作意</text>
+作 : <text>4項 觀察作意</text>
+作 : <text>5項 攝樂作意</text>
+作 : <text>6項 加行究竟作意</text>
+作 : <text>7項 加行究竟果作意</text>
+瑜 : <text>1瑜伽處</text>
+作 : <text>4項 戒所作</text>
+靜 : <text>13靜慮品</text>
+靜 : <text>13節 靜慮品</text>
+靜 : <text>1目 自性靜慮</text>
+靜 : <text>2目 一切靜慮</text>
+靜 : <text>3目 難行靜慮</text>
+靜 : <text>4目 一切門靜慮</text>
+靜 : <text>5目 善士靜慮</text>
+靜 : <text>6目 一切種靜慮</text>
+靜 : <text>7目 遂求靜</text>
+靜 : <text>8目 此世他世樂靜慮</text>
+靜 : <text>9目 清淨靜慮</text>
+作 : <text>1目 六度四攝之自利利他作業之差別</text>
+作 : <text>3目 定作</text>
+作 : <text>4目 常所應作</text>
+瑜 : <text>2隨法瑜伽處</text>
+瑜 : <text>3究竟瑜伽處</text>
+作 : <text>3項 重解前四所應作事</text>
+作 : <text>3目 作事</text>
+瑜 : <text>4次第瑜伽處</text>
+靜 : <text>2節 寂靜施設安立</text>
+作 : <text>2目 依作意辨</text>
+靜 : <text>8項 靜慮境界不可思議</text>
+靜 : <text>10項 四種修靜慮者</text>
+靜 : <text>2項 靜慮離欲</text>
+靜 : <text>3項 靜慮四種異名</text>
+作 : <text>2目 作意闕</text>
+作 : <text>1項 聲聞乘相應作意修</text>
+作 : <text>2項 大乘相應作意修</text>
+作 : <text>5項 所作成辦修</text>
+瑜 : <text>8項 覺悟瑜伽</text>
+作 : <text>17目 作業</text>
+作 : <text>21目 以七作意相攝</text>
+瑜 : <text>1項 初決擇持瑜伽</text>
+瑜 : <text>2項 決擇持隨法瑜伽處</text>
+作 : <text>3目 菩薩苦樂作意與住</text>
+瑜 : <text>3項 持究竟瑜伽處決擇</text>
+作 : <text>8目 世出世間智作利他事</text>
+作 : <text>10目 師所作事</text>
+作 : <text>4目 此作等</text>
+作 : <text>7目 自作</text>
+靜 : <text>6目 寂靜</text>
+靜 : <text>8目 受寂靜</text>
+作 : <text>7目 作意</text>
+靜 : <text>6目 能寂靜</text>
+
+=============================
+C:/release/epub_unzip_2014/T30/T30n1580/toc.ncx
+瑜 : <text>T1580 瑜伽師地論釋 (1卷)</text>
+瑜 : <text>瑜伽師地論釋</text>
+
+=============================
+C:/release/epub_unzip_2014/T31/T31n1602/toc.ncx
+瑜 : <text>9 成瑜伽品</text>
+
+=============================
+C:/release/epub_unzip_2014/T31/T31n1603/toc.ncx
+瑜 : <text>9 成瑜伽品</text>
+
+=============================
+C:/release/epub_unzip_2014/T32/T32n1636/toc.ncx
+作 : <text>17 恭敬作禮品</text>
+
+=============================
+C:/release/epub_unzip_2014/T32/T32n1646/toc.ncx
+作 : <text>96 無作品</text>
+
+=============================
+C:/release/epub_unzip_2014/T32/T32n1662/toc.ncx
+靜 : <text>6 菩提心靜慮般若波羅蜜多品</text>
+
+=============================
+C:/release/epub_unzip_2014/T32/T32n1665/toc.ncx
+瑜 : <text>T1665 金剛頂瑜伽中發阿耨多羅三藐三菩提心論 (1卷)</text>
+瑜 : <text>金剛頂瑜伽中發阿耨多羅三藐三菩提心論</text>
+
+=============================
+C:/release/epub_unzip_2014/T35/T35n1732/toc.ncx
+兜 : <text>19 佛昇兜率天宮一切寶殿品</text>
+兜 : <text>20 兜率天宮菩薩雲集讚佛品</text>
+
+=============================
+C:/release/epub_unzip_2014/T35/T35n1733/toc.ncx
+兜 : <text>19 如來昇兜率天一切寶殿品</text>
+兜 : <text>20 兜率天宮菩薩雲集讚佛品</text>
+
+=============================
+C:/release/epub_unzip_2014/T35/T35n1735/toc.ncx
+兜 : <text>23 升兜率天宮品</text>
+兜 : <text>24 兜率宮中偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/T36/T36n1736/toc.ncx
+兜 : <text>23 升兜率天宮品</text>
+兜 : <text>24 兜率宮中偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/T36/T36n1739/toc.ncx
+兜 : <text>23 昇兜率天宮品</text>
+兜 : <text>24 兜率天宮中偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/T36/T36n1742/toc.ncx
+兜 : <text>5 兜率天宮說三品十二卷</text>
+兜 : <text>23 昇兜率品</text>
+兜 : <text>24 兜率偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/T38/T38n1772/toc.ncx
+兜 : <text>T1772 觀彌勒上生兜率天經贊 (2卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T39/T39n1798/toc.ncx
+瑜 : <text>T1798 金剛頂經大瑜伽祕密心地法門義訣 (1卷)</text>
+瑜 : <text>金剛頂經大瑜伽祕密心地法門義訣</text>
+
+=============================
+C:/release/epub_unzip_2014/T40/T40n1808/toc.ncx
+畜 : <text>老病比丘畜杖絡囊乞羯磨文</text>
+畜 : <text>僧與老病比丘畜杖絡囊羯磨法</text>
+
+=============================
+C:/release/epub_unzip_2014/T40/T40n1813/toc.ncx
+畜 : <text>10 畜諸殺具戒</text>
+畜作 : <text>32 畜作非法戒</text>
+作 : <text>33 觀聽作惡戒</text>
+
+=============================
+C:/release/epub_unzip_2014/T40/T40n1814/toc.ncx
+畜 : <text>10 不畜殺具戒</text>
+作 : <text>8 不詐作師戒</text>
+作 : <text>9 不作邪命戒</text>
+作 : <text>10 不作邪業戒</text>
+畜 : <text>2 不畜損害戒</text>
+作 : <text>6 作誓自要戒</text>
+作 : <text>2 具德作師戒</text>
+
+=============================
+C:/release/epub_unzip_2014/T40/T40n1815/toc.ncx
+畜 : <text>10 畜殺生具戒</text>
+作 : <text>8 虛偽作師戒</text>
+作 : <text>3 虛作無義戒</text>
+
+=============================
+C:/release/epub_unzip_2014/T42/T42n1824/toc.ncx
+作 : <text>第五末第六本8 作者品(六本)</text>
+
+=============================
+C:/release/epub_unzip_2014/T42/T42n1825/toc.ncx
+作 : <text>10 觀作者門(下末)</text>
+
+=============================
+C:/release/epub_unzip_2014/T42/T42n1826/toc.ncx
+作 : <text>10 觀作者門(下)</text>
+
+=============================
+C:/release/epub_unzip_2014/T42/T42n1828/toc.ncx
+瑜 : <text>T1828 瑜伽論記 (24卷)</text>
+瑜 : <text>1 瑜伽處</text>
+瑜 : <text>第六之下2 瑜伽處(六下-七下)</text>
+瑜 : <text>第七之上第七之下3 瑜伽處(七下)</text>
+瑜 : <text>第八之上4 瑜伽處(八上)</text>
+瑜 : <text>1 瑜伽處</text>
+靜 : <text>靜慮品(一0下)</text>
+瑜 : <text>2 隨法瑜伽處</text>
+瑜 : <text>第十二之上3 究竟瑜伽處</text>
+瑜 : <text>4 次第瑜伽處</text>
+
+=============================
+C:/release/epub_unzip_2014/T43/T43n1829/toc.ncx
+瑜 : <text>T1829 瑜伽師地論略纂 (16卷)</text>
+瑜 : <text>第一(論本一-二)瑜伽師地論略纂</text>
+
+=============================
+C:/release/epub_unzip_2014/T44/T44n1851/toc.ncx
+停 : <text>133 五停心義(一二)</text>
+
+=============================
+C:/release/epub_unzip_2014/T45/T45n1861/toc.ncx
+作 : <text>6 三身所作</text>
+
+=============================
+C:/release/epub_unzip_2014/T45/T45n1862/toc.ncx
+作 : <text>六決定應作門</text>
+
+=============================
+C:/release/epub_unzip_2014/T45/T45n1867/toc.ncx
+杜 : <text>終南山杜順禪師緣起</text>
+
+=============================
+C:/release/epub_unzip_2014/T45/T45n1869/toc.ncx
+作 : <text>3 眾生作佛義</text>
+
+=============================
+C:/release/epub_unzip_2014/T45/T45n1870/toc.ncx
+停 : <text>明法品初立五停心觀章</text>
+作 : <text>祕密翻依行檀起行作業同異章</text>
+靜 : <text>第三地厭分中四靜慮八禪章</text>
+
+=============================
+C:/release/epub_unzip_2014/T45/T45n1874/toc.ncx
+作 : <text>9 能化所化融作十門</text>
+
+=============================
+C:/release/epub_unzip_2014/T45/T45n1892/toc.ncx
+作 : <text>8 戒壇作業成敗</text>
+
+=============================
+C:/release/epub_unzip_2014/T45/T45n1893/toc.ncx
+停 : <text>3 誡觀五停心觀法</text>
+
+=============================
+C:/release/epub_unzip_2014/T45/T45n1900/toc.ncx
+作 : <text>9 明作衣法</text>
+
+=============================
+C:/release/epub_unzip_2014/T45/T45n1909/toc.ncx
+畜 : <text>7 為畜生道禮佛</text>
+
+=============================
+C:/release/epub_unzip_2014/T46/T46n1934/toc.ncx
+譜 : <text>智者大禪師年譜事跡</text>
+
+=============================
+C:/release/epub_unzip_2014/T46/T46n1937/toc.ncx
+譜 : <text>尊者年譜</text>
+作 : <text>謝聖果法師作指要序啟</text>
+作 : <text>晃待制作紀贈法智大師詩序</text>
+作 : <text>四明法師受命服門人神照作致語</text>
+作 : <text>妙悟法師輔四明作評謗書</text>
+
+=============================
+C:/release/epub_unzip_2014/T46/T46n1949/toc.ncx
+作 : <text>2 作禮法</text>
+
+=============================
+C:/release/epub_unzip_2014/T47/T47n1963/toc.ncx
+兜 : <text>7 將西方兜率相對挍量優劣</text>
+
+=============================
+C:/release/epub_unzip_2014/T47/T47n1967/toc.ncx
+作 : <text>10 是心是佛是心作佛門</text>
+
+=============================
+C:/release/epub_unzip_2014/T47/T47n1969A/toc.ncx
+作 : <text>傚禪月作遠公詠</text>
+作 : <text>述製作意</text>
+
+=============================
+C:/release/epub_unzip_2014/T47/T47n1969B/toc.ncx
+兜 : <text>三菩薩願生兜率天</text>
+作 : <text>乘禪師為薛刺史作子</text>
+遜 : <text>遜長老後身為李侍郎</text>
+作 : <text>梵僧願為王侍中作子</text>
+作 : <text>衲僧願為崔氏作子</text>
+杜 : <text>杜鴻漸發願為僧</text>
+作 : <text>旻師為董司戶作女</text>
+
+=============================
+C:/release/epub_unzip_2014/T47/T47n1970/toc.ncx
+靜 : <text>唐并州溫靜文妻</text>
+作 : <text>勸作福者</text>
+兜 : <text>三菩薩修兜率</text>
+作 : <text>法華尼後身作官妓</text>
+作 : <text>念佛風疾不作</text>
+
+=============================
+C:/release/epub_unzip_2014/T47/T47n1973/toc.ncx
+作 : <text>作福助緣</text>
+
+=============================
+C:/release/epub_unzip_2014/T47/T47n1992/toc.ncx
+作 : <text>辨作家</text>
+
+=============================
+C:/release/epub_unzip_2014/T47/T47n1995/toc.ncx
+作 : <text>擬雲送信禪者作丐</text>
+作 : <text>偶作</text>
+
+=============================
+C:/release/epub_unzip_2014/T47/T47n1996/toc.ncx
+靜 : <text>送靜山水</text>
+作 : <text>東軒偶作</text>
+靜 : <text>靜而善應</text>
+作 : <text>送顯冲禪者之霅上覲兄著作</text>
+作 : <text>偶作</text>
+作 : <text>經古堰偶作</text>
+作 : <text>偶作</text>
+
+=============================
+C:/release/epub_unzip_2014/T47/T47n1999/toc.ncx
+卜 : <text>答卜運屬</text>
+
+=============================
+C:/release/epub_unzip_2014/T47/T47n2000/toc.ncx
+作 : <text>寒山作吟身勢</text>
+靜 : <text>動靜雙照</text>
+靜 : <text>賡靜學林府判游天澤菴韻</text>
+靜 : <text>居靜副寺</text>
+
+=============================
+C:/release/epub_unzip_2014/T48/T48n2001/toc.ncx
+作 : <text>折桂章首座近自雙泉來因作句與之</text>
+作 : <text>泐潭雲庵偶作</text>
+作 : <text>庚子冬二十八日。天意晴和。與止上人同南麓行。橫岡轉流。長作清響。陰溪直木。寒無悴容。到竹林人家。飲茶而還</text>
+作 : <text>勤大師訪別作句贈之</text>
+作 : <text>出康廬渡江淮山拜諸祖塔道中作</text>
+籜 : <text>籜庵頌</text>
+作 : <text>春意漸深。送客至山麓田舍。來往道中。復逢法上人。因作數語以記所見云</text>
+作 : <text>嵩山老人告行作六偈送之</text>
+作 : <text>朱熙載作平陰令。八十日致仕而歸</text>
+作 : <text>即覺庵子中居士。來訪妙峯之西既去。作六言五首送之</text>
+作 : <text>夏安居日。過實上人東軒。時新竹浴雨。因作句歌之</text>
+作 : <text>游雲棲院作偈。與住山琛老禪</text>
+作 : <text>蔣新臣秀才告別作句送之</text>
+作 : <text>小師智寬與國清作丐請語</text>
+作 : <text>衛進可寺丞。臘月二十九日。招我以蔬飯。從容勝集其居之西一堂。榜曰六湛。意六處休復同一湛然。且求語因作偈云</text>
+作 : <text>雨晴偶作示禪者</text>
+
+=============================
+C:/release/epub_unzip_2014/T48/T48n2005/toc.ncx
+兜 : <text>兜率三關</text>
+
+=============================
+C:/release/epub_unzip_2014/T48/T48n2006/toc.ncx
+靜 : <text>南堂靜</text>
+作 : <text>眼耳鼻舌身意　六根　六塵　六識五識轉成所作智</text>
+
+=============================
+C:/release/epub_unzip_2014/T48/T48n2021/toc.ncx
+靜 : <text>禪林靜慮門</text>
+
+=============================
+C:/release/epub_unzip_2014/T48/T48n2024/toc.ncx
+靜 : <text>獨坐靜室</text>
+杜 : <text>杜門力參</text>
+瑜 : <text>瑜伽師地論</text>
+
+=============================
+C:/release/epub_unzip_2014/T49/T49n2035/toc.ncx
+兜 : <text>下兜率</text>
+兜 : <text>下兜率</text>
+兜 : <text>下兜率</text>
+靜 : <text>靜帝</text>
+
+=============================
+C:/release/epub_unzip_2014/T49/T49n2039/toc.ncx
+瑜 : <text>賢瑜珈海華嚴</text>
+兜 : <text>月明師兜率歌</text>
+靜 : <text>惠現求靜</text>
+
+=============================
+C:/release/epub_unzip_2014/T50/T50n2040/toc.ncx
+譜 : <text>T2040 釋迦譜 (5卷)</text>
+譜 : <text>釋迦譜序</text>
+譜 : <text>1 釋迦始祖劫初剎利相承姓譜</text>
+譜 : <text>2 釋迦賢劫初姓瞿曇緣譜</text>
+譜 : <text>3 釋迦近世祖始姓釋緣譜</text>
+譜 : <text>4 釋迦降生釋種成佛緣譜</text>
+譜 : <text>5 釋迦在七佛末種姓眾數同異譜</text>
+譜 : <text>6 釋迦同三千佛緣譜</text>
+譜 : <text>7 釋迦內外族姓名譜</text>
+譜 : <text>8 釋迦弟子姓釋緣譜</text>
+譜 : <text>9 釋迦四部名聞弟子譜</text>
+譜 : <text>釋迦降生釋種成佛緣譜</text>
+
+=============================
+C:/release/epub_unzip_2014/T50/T50n2041/toc.ncx
+譜 : <text>T2041 釋迦氏譜 (1卷)</text>
+譜 : <text>釋迦氏譜序</text>
+兜 : <text>1 處兜率天迹</text>
+
+=============================
+C:/release/epub_unzip_2014/T50/T50n2059/toc.ncx
+靜 : <text>8 釋慧靜</text>
+靜 : <text>19 釋慧靜</text>
+瑜 : <text>7 釋僧瑜</text>
+
+=============================
+C:/release/epub_unzip_2014/T50/T50n2061/toc.ncx
+靜 : <text>晉永興永安院善靜傳</text>
+靜 : <text>唐西域安靜傳</text>
+靜 : <text>周晉州慈雲寺普靜傳</text>
+作 : <text>梁四明山無作傳</text>
+
+=============================
+C:/release/epub_unzip_2014/T50/T50n2062/toc.ncx
+靜 : <text>9 潼川護聖寺沙門釋居靜傳</text>
+靜 : <text>15 平江靜濟沙門釋法全傳</text>
+
+=============================
+C:/release/epub_unzip_2014/T50/T50n2063/toc.ncx
+靜 : <text>12 簡靜寺支妙音尼傳</text>
+靜 : <text>12 廣陵中寺光靜尼傳</text>
+靜 : <text>15 山陽東鄉竹林寺靜稱尼傳</text>
+
+=============================
+C:/release/epub_unzip_2014/T50/T50n2064/toc.ncx
+瑜 : <text>世瑜</text>
+
+=============================
+C:/release/epub_unzip_2014/T51/T51n2068/toc.ncx
+靜 : <text>30 隋京師靜法寺釋智嶷</text>
+遜 : <text>6 梁蒙遜王</text>
+瑜 : <text>8 宋廬山招提寺釋僧瑜</text>
+
+=============================
+C:/release/epub_unzip_2014/T51/T51n2070/toc.ncx
+靜 : <text>6 靜靄禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/T51/T51n2072/toc.ncx
+靜 : <text>溫靜文妻</text>
+畜 : <text>畜生往生類</text>
+杜 : <text>杜居士</text>
+作 : <text>瘧疾不作</text>
+
+=============================
+C:/release/epub_unzip_2014/T51/T51n2076/toc.ncx
+靜 : <text>郢州興陽歸靜禪師</text>
+靜 : <text>京兆華嚴寺休靜禪師</text>
+靜 : <text>前京兆華嚴寺休靜禪師法嗣</text>
+靜 : <text>京兆永安院善靜禪師</text>
+靜 : <text>天台山國清寺師靜上座</text>
+靜 : <text>福州石佛院靜禪師</text>
+靜 : <text>福州祥光院澄靜禪師</text>
+作 : <text>建州白雲智作真寂禪師</text>
+孜 : <text>福州羅山紹孜禪師</text>
+靜 : <text>襄州谷隱智靜悟空大師</text>
+瑜 : <text>婺州普照瑜和尚</text>
+靜 : <text>前襄州谷隱智靜禪師法嗣</text>
+靜 : <text>靜亂不二</text>
+
+=============================
+C:/release/epub_unzip_2014/T51/T51n2077/toc.ncx
+遜 : <text>興陽遜禪師</text>
+湜 : <text>西賢澄湜禪師</text>
+孜 : <text>香積孜禪師</text>
+孜 : <text>開元智孜禪師</text>
+孜 : <text>顯明善孜禪師</text>
+孜 : <text>華嚴普孜禪師</text>
+湜 : <text>清隱惟湜禪師</text>
+湜 : <text>棲賢湜禪師法嗣</text>
+靜 : <text>富樂智靜禪師</text>
+靜 : <text>隱靜守儼禪師</text>
+遜 : <text>慧林德遜禪師</text>
+靜 : <text>谷隱靜顯禪師</text>
+兜 : <text>兜率志恩禪師</text>
+瑜 : <text>子陵自瑜禪師</text>
+兜 : <text>兜率從悅禪師</text>
+靜 : <text>超化靜禪師</text>
+靜 : <text>大隨元靜禪師</text>
+孜 : <text>法輪彥孜禪師</text>
+兜 : <text>兜率悅禪師法嗣</text>
+兜 : <text>兜率慧照禪師</text>
+靜 : <text>勝因咸靜禪師</text>
+遜 : <text>侍郎李彌遜居士</text>
+靜 : <text>勝因靜禪師法嗣</text>
+慜 : <text>光孝果慜禪師</text>
+靜 : <text>大隨靜禪師法嗣</text>
+靜 : <text>護聖居靜禪師</text>
+靜 : <text>隱靜彥岑禪師</text>
+慜 : <text>光孝慜禪師法嗣</text>
+靜 : <text>隱靜致柔禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/T51/T51n2083/toc.ncx
+作 : <text>西域聖者達磨蜜多五百世作狗身事</text>
+作 : <text>齊相州道秀變作蛇身事</text>
+作 : <text>西域沙彌貪味懷恨現身變作龍事</text>
+作 : <text>宋西鎮寺曇遂死作廟神事</text>
+作 : <text>齊宋州曇亮慳惜變作蛇身事</text>
+作 : <text>唐濟州靈光寺僧惜鉢暴亡變作蛇身事</text>
+作 : <text>唐京師勝光寺僧智保死作塔神事</text>
+作 : <text>唐新羅國興輪寺僧變作蛇身事</text>
+作 : <text>宋法豐減僧食死作餓鬼事</text>
+作 : <text>周益州索寺慧旻盜僧財作牛事</text>
+作 : <text>禪師輒取僧少菜死作眾奴事</text>
+作 : <text>唐國清寺僧智瓌死作眾奴事</text>
+作 : <text>唐汾州界內寺伯達死作寺牛事</text>
+
+=============================
+C:/release/epub_unzip_2014/T51/T51n2084/toc.ncx
+作 : <text>17 阿彌陀佛化作鸚鵡鳥引起安息國感應</text>
+作 : <text>18 阿彌陀佛作大魚身引攝漁人感應</text>
+作 : <text>48 昔貧兒以木葉戲作寺延壽感應</text>
+作 : <text>23 貧女受持勝鬘經現作皇后感應</text>
+慜 : <text>45 并州常慜禪師寫大般若經感應</text>
+
+=============================
+C:/release/epub_unzip_2014/T51/T51n2095/toc.ncx
+作 : <text>入彭蠡湖口作</text>
+作 : <text>簡寂觀西澗瀑布下作</text>
+
+=============================
+C:/release/epub_unzip_2014/T51/T51n2097/toc.ncx
+兜 : <text>兜率寺</text>
+
+=============================
+C:/release/epub_unzip_2014/T52/T52n2102/toc.ncx
+作 : <text>俠道作亂是其四逆</text>
+作 : <text>5 夢中作罪頑癡之極</text>
+作 : <text>6 輕作寒暑兇佞之極</text>
+停 : <text>34 僧[契-大+石]僧遷鳩摩耆婆三法師答姚主書停恒標奏(一一)</text>
+靜 : <text>56 檄魔文(釋智靜)(一四)</text>
+
+=============================
+C:/release/epub_unzip_2014/T52/T52n2103/toc.ncx
+作 : <text>18 老子作佛者</text>
+作 : <text>法作菩薩讚</text>
+靜 : <text>57 （靈味寺釋靜安諮法身義）(二一)</text>
+作 : <text>66 六道相續作佛義(沈約)(二二)</text>
+停 : <text>今上停沙門拜君詔</text>
+靜 : <text>玉華宮寺譯經沙門靜邁等上拜父母有損表</text>
+作 : <text>10 為人作造寺疏(梁簡文)(二八)</text>
+作 : <text>30 八關齋夜賦四城門更作四首(三〇)</text>
+靜 : <text>靜臥栖霞寺房望徐祭酒</text>
+作 : <text>45 隋著作王胄臥疾閩越述淨名意(三〇)</text>
+
+=============================
+C:/release/epub_unzip_2014/T52/T52n2104/toc.ncx
+靜 : <text>28 今上在東都有洛邑僧靜泰勅對道士李榮敘道事(丁)</text>
+
+=============================
+C:/release/epub_unzip_2014/T52/T52n2106/toc.ncx
+作 : <text>宋湘州桐盾感通作佛光緣二十四</text>
+遜 : <text>釋道遜</text>
+杜 : <text>杜願僧</text>
+
+=============================
+C:/release/epub_unzip_2014/T52/T52n2108/toc.ncx
+遜 : <text>詳刑寺丞王千石 張道遜等議狀</text>
+作 : <text>繕工監大監劉審禮監作上官突厥等議狀</text>
+杜 : <text>左戎衛大將軍懷寧縣公杜君綽等議狀</text>
+靜 : <text>左奉裕衛長史丘神靜等議狀</text>
+停 : <text>今上停沙門拜君詔</text>
+靜 : <text>玉華宮寺譯經僧靜邁等上僧尼拜親有損表</text>
+
+=============================
+C:/release/epub_unzip_2014/T52/T52n2115/toc.ncx
+作 : <text>與馬著作書</text>
+作 : <text>送客還北闕道中作</text>
+
+=============================
+C:/release/epub_unzip_2014/T52/T52n2116/toc.ncx
+作 : <text>11 三番作佛偽</text>
+
+=============================
+C:/release/epub_unzip_2014/T52/T52n2119/toc.ncx
+作 : <text>請太宗文皇帝作經序并題經表</text>
+作 : <text>太宗文皇帝報請作經序　勅書</text>
+停 : <text>謝僧尼等停依俗法條表</text>
+停 : <text>重謝僧尼等停依俗法條表</text>
+
+=============================
+C:/release/epub_unzip_2014/T52/T52n2120/toc.ncx
+杜 : <text>杜冕中丞請迴封入翻譯經院制書</text>
+停 : <text>請光天寺東塔院充五臺山往來停止院制</text>
+停 : <text>停修舊塔地制</text>
+
+=============================
+C:/release/epub_unzip_2014/T53/T53n2121/toc.ncx
+兜 : <text>4 兜率天</text>
+作 : <text>7 化作梵志度多味象王</text>
+作 : <text>9 化作沙門度五比丘</text>
+作 : <text>15 化作執著婆羅門子令其父母還得本心</text>
+作 : <text>2 能仁為婬女身轉身作國王捨飴鳥獸</text>
+作 : <text>9 賊作比丘遇佛悟道</text>
+作 : <text>26 比丘見一須陀洹先作維那今獲苦報畏故得道</text>
+剜 : <text>6 轉輪王為半偈剜身然千燈</text>
+剜 : <text>1 虔闍尼婆梨王為聞一偈剜身以然千燈</text>
+作 : <text>9 薩惒檀王以身施婆羅門作奴</text>
+作 : <text>13 驢首王食雪山藥草得作人頭</text>
+作 : <text>8 申日為佛作毒飯火坑自皆變滅</text>
+作 : <text>5 忽起經暫貧客作設會即獲華報</text>
+作 : <text>35 童子施佛豆生天後作轉輪王</text>
+畜 : <text>畜生部</text>
+畜 : <text>1 雜獸畜生部(四七)</text>
+作 : <text>4 迦羅越牛自說前身負一千錢三反作牛不了</text>
+兜 : <text>1 兔王依附道人投身火聚生兜率天</text>
+畜 : <text>2 禽畜生部(四八)</text>
+畜 : <text>3 蟲畜生部(四八)</text>
+作 : <text>6 五官禁人作罪</text>
+
+=============================
+C:/release/epub_unzip_2014/T53/T53n2122/toc.ncx
+作 : <text>魏孫恩作逆時一男子入蔣侯廟</text>
+畜 : <text>5 畜生部(六)</text>
+畜 : <text>西國行記人畜交孕怪</text>
+作 : <text>宋湘州桐楯感通作佛光緣</text>
+靜 : <text>晉沙門釋僧靜</text>
+作 : <text>晉時有老狸作人父怪</text>
+作 : <text>晉時有貍作人婦怪</text>
+作 : <text>晉時有貍作人女產兒怪</text>
+作 : <text>宋時王家作蟹斷有材怪</text>
+作 : <text>魏時尋陽縣北山蠻人作術變</text>
+杜 : <text>唐杜智揩</text>
+杜 : <text>晉居士杜願</text>
+畜 : <text>6 詐畜部</text>
+瑜 : <text>隋楊州人卞士瑜</text>
+畜 : <text>3 畜生相者</text>
+瑜 : <text>宋沙門釋僧瑜亡後房內生雙桐樹</text>
+畜 : <text>4 畜生部</text>
+杜 : <text>周宣王殺杜伯亡後現報</text>
+停 : <text>唐國初相州大慈寺群賊共停相殺污寺現驗</text>
+作 : <text>晉大司馬桓溫枉害著作郎殷涓現報</text>
+杜 : <text>唐貞觀年中有杜通達枉害眾僧受現報</text>
+停 : <text>唐時殷安仁停客殺驢驗</text>
+遜 : <text>宋沮渠蒙遜</text>
+杜 : <text>周杜國之伯常</text>
+瑜 : <text>宋沙門釋僧瑜</text>
+靜 : <text>周沙門釋靜藹</text>
+杜 : <text>漢時杜嘏家葬而婢誤不得出經十年開塚而婢尚生</text>
+
+=============================
+C:/release/epub_unzip_2014/T54/T54n2123/toc.ncx
+畜 : <text>6 詐畜緣</text>
+
+=============================
+C:/release/epub_unzip_2014/T54/T54n2127/toc.ncx
+靜 : <text>躁靜</text>
+
+=============================
+C:/release/epub_unzip_2014/T54/T54n2128/toc.ncx
+兜 : <text>佛說兜沙經</text>
+作 : <text>作佛形像經</text>
+瑜 : <text>金剛頂經略瑜伽</text>
+瑜 : <text>普通諸尊瑜伽念誦法</text>
+瑜 : <text>瑜伽要妙略修行法</text>
+瑜 : <text>金剛頂瑜伽修習毘盧遮那三摩地法</text>
+瑜 : <text>降三世金剛瑜伽觀自在心真言法</text>
+瑜瑜 : <text>修般若波羅蜜瑜伽觀行法觀自在如意輪瑜伽法</text>
+瑜 : <text>金剛頂瑜伽大樂金剛薩埵念誦法</text>
+瑜 : <text>吉祥勝初瑜伽大樂金剛薩埵法</text>
+瑜 : <text>普賢金剛薩埵瑜伽念誦法</text>
+瑜 : <text>蓮花降三世瑜伽觀自在心儀軌</text>
+瑜 : <text>金剛頂瑜伽觀自在菩薩心念誦法</text>
+瑜 : <text>金剛頂瑜伽祕密三摩地念誦法</text>
+瑜 : <text>金剛頂瑜伽經十八會指歸</text>
+瑜 : <text>瑜伽護摩經</text>
+瑜 : <text>金剛頂瑜伽分別聖位修證法門序</text>
+瑜 : <text>瑜伽一字佛頂輪王安怛袒那法經</text>
+瑜 : <text>成就妙法蓮花經王瑜伽觀智儀軌經</text>
+瑜 : <text>金剛頂瑜伽千手千眼觀自在菩薩修行儀軌</text>
+瑜 : <text>金剛頂瑜伽蓮花部心念誦法</text>
+瑜 : <text>金剛頂瑜伽金剛薩埵五祕密修行念誦儀軌經</text>
+瑜 : <text>金剛愛瑜伽法</text>
+瑜 : <text>觀自在菩薩如意輪瑜歧法經</text>
+瑜 : <text>瑜伽師地論釋</text>
+瑜 : <text>瑜伽師地論</text>
+兜 : <text>兜調經</text>
+譜 : <text>1 釋迦譜序卷</text>
+譜 : <text>釋迦氏略譜</text>
+譜譜 : <text>釋迦譜及略譜方志等依入藏目合有諸經要集</text>
+
+=============================
+C:/release/epub_unzip_2014/T54/T54n2129/toc.ncx
+瑜 : <text>大乘瑜伽千鉢文殊大教王經</text>
+瑜 : <text>金剛頂瑜伽文殊師利菩薩經一卷</text>
+瑜 : <text>金剛頂瑜伽分別聖位經</text>
+瑜 : <text>金剛頂瑜伽十八會指歸</text>
+瑜 : <text>瑜伽念珠經</text>
+瑜 : <text>金剛頂瑜伽千手千眼觀自在菩薩念誦儀</text>
+瑜 : <text>金剛頂勝初瑜伽普賢菩薩念誦法</text>
+瑜 : <text>金剛頂瑜伽金剛薩埵五祕修行念誦儀</text>
+瑜 : <text>瑜伽蓮花部念誦法</text>
+瑜 : <text>金剛頂瑜伽護魔儀軌</text>
+瑜 : <text>成就妙法蓮華經王瑜伽儀軌</text>
+瑜 : <text>金剛頂瑜伽金剛薩埵念誦儀</text>
+瑜 : <text>觀自在如意輪瑜伽</text>
+瑜 : <text>瑜伽金剛頂釋字母品</text>
+瑜 : <text>金剛頂瑜伽降三世極三密門</text>
+
+=============================
+C:/release/epub_unzip_2014/T54/T54n2131/toc.ncx
+畜 : <text>22 畜生篇</text>
+
+=============================
+C:/release/epub_unzip_2014/T55/T55n2145/toc.ncx
+譜 : <text>4 釋迦譜目錄序</text>
+
+=============================
+C:/release/epub_unzip_2014/T55/T55n2149/toc.ncx
+作 : <text>6 歷代道俗述作注解錄</text>
+
+=============================
+C:/release/epub_unzip_2014/T85/T85n2732/toc.ncx
+靜 : <text>29 威儀寂靜分</text>
+
+=============================
+C:/release/epub_unzip_2014/T85/T85n2753/toc.ncx
+兜 : <text>19 昇兜率天宮品</text>
+
+=============================
+C:/release/epub_unzip_2014/T85/T85n2796/toc.ncx
+畜 : <text>1 畜長過十日戒</text>
+作 : <text>11 乞蠶綿作加沙戒</text>
+作 : <text>14 減六年作三衣戒</text>
+畜 : <text>18 畜寶戒</text>
+畜 : <text>21 畜長鉢戒</text>
+畜 : <text>26 畜七日藥過限戒</text>
+
+=============================
+C:/release/epub_unzip_2014/T85/T85n2801/toc.ncx
+瑜 : <text>T2801 瑜伽師地論分門記 (6卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T85/T85n2802/toc.ncx
+瑜 : <text>T2802 瑜伽論手記 (4卷)</text>
+瑜 : <text>得果瑜伽處初</text>
+
+=============================
+C:/release/epub_unzip_2014/T85/T85n2880/toc.ncx
+作 : <text>8 除一切眾生修道作佛病品</text>
+
+=============================
+C:/release/epub_unzip_2014/T85/T85n2896/toc.ncx
+瑜 : <text>T2896 示所犯者瑜伽法鏡經 (1卷)</text>
+瑜 : <text>示所犯者瑜伽法鏡經</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T01/T01n0078/toc.ncx
+兜 : <text>T0078 兜調經 (1卷)</text>
+兜 : <text>兜調經</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T03/T03n0187/toc.ncx
+兜 : <text>2 兜率天宮品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T03/T03n0190/toc.ncx
+兜 : <text>4 上託兜率品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T04/T04n0196/toc.ncx
+作 : <text>9 瞿曇彌來作比丘尼品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T04/T04n0197/toc.ncx
+兜 : <text>7 佛說地婆達兜擲石緣經</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T04/T04n0198/toc.ncx
+兜 : <text>13 兜勒梵志經</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T04/T04n0200/toc.ncx
+作 : <text>10 長者七日作王緣</text>
+作 : <text>17 乾闥婆作樂讚佛緣</text>
+作 : <text>29 作樂供養成辟支佛緣</text>
+作 : <text>31 蓮華王捨身作赤魚緣</text>
+剜 : <text>33 尸毘王剜眼施鷲緣</text>
+作 : <text>61 身作金色緣</text>
+作 : <text>75 舞師女作比丘尼緣</text>
+作 : <text>89 拔提釋王作比丘緣</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T04/T04n0203/toc.ncx
+作 : <text>48 長者子客作設會獲現報緣</text>
+作 : <text>58 長者夫婦造作浮圖生天緣</text>
+作 : <text>60 外道婆羅門女學佛弟子作齋生天緣</text>
+作 : <text>94 月氏國王與三智臣作善親友緣</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T04/T04n0209/toc.ncx
+停 : <text>6 子死欲停置家中喻</text>
+作 : <text>47 貧人作鴛鴦鳴喻</text>
+作 : <text>51 五人買婢共使作喻</text>
+作 : <text>52 伎兒作樂喻</text>
+作 : <text>59 觀作瓶喻</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T06/T06n0220/toc.ncx
+瑜 : <text>75 勝義瑜伽品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T08/T08n0221/toc.ncx
+作 : <text>44 無作品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T08/T08n0223/toc.ncx
+作 : <text>43 無作品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T08/T08n0241/toc.ncx
+瑜 : <text>T0241 金剛頂瑜伽理趣般若經 (1卷)</text>
+瑜 : <text>金剛頂瑜伽理趣般若經</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T08/T08n0261/toc.ncx
+靜 : <text>9 靜慮波羅蜜多品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T09/T09n0278/toc.ncx
+兜 : <text>19 如來昇兜率天宮一切寶殿品</text>
+兜 : <text>20 兜率天宮菩薩雲集讚佛品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T10/T10n0279/toc.ncx
+兜 : <text>23 昇兜率天宮品</text>
+兜 : <text>24 兜率宮中偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T10/T10n0280/toc.ncx
+兜 : <text>T0280 佛說兜沙經 (1卷)</text>
+兜 : <text>佛說兜沙經</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T11/T11n0310/toc.ncx
+靜 : <text>10 靜慮波羅蜜多品</text>
+兜 : <text>16 兜率陀天授記品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T12/T12n0364/toc.ncx
+作 : <text>10 願成作佛分</text>
+作 : <text>39 遞次作佛分</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T12/T12n0384/toc.ncx
+兜 : <text>T0384 菩薩從兜術天降神母胎說廣普經 (7卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T13/T13n0415/toc.ncx
+作 : <text>7 佛作神通品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T14/T14n0452/toc.ncx
+兜 : <text>T0452 佛說觀彌勒菩薩上生兜率天經 (1卷)</text>
+兜 : <text>佛說觀彌勒菩薩上生兜率天經</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T14/T14n0499/toc.ncx
+作 : <text>T0499 佛為阿支羅迦葉自化作苦經 (1卷)</text>
+作 : <text>佛為阿支羅迦葉自化作苦經</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T16/T16n0676/toc.ncx
+瑜 : <text>6 分別瑜伽品(三)</text>
+作 : <text>8 如來成所作事品(五)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T16/T16n0679/toc.ncx
+作 : <text>T0679 相續解脫如來所作隨順處了義經 (1卷)</text>
+作 : <text>相續解脫如來所作隨順處了義經</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T16/T16n0681/toc.ncx
+作 : <text>4 顯示自作品(中)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T16/T16n0682/toc.ncx
+作 : <text>4 自作境界品(中)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T16/T16n0692/toc.ncx
+作 : <text>T0692 佛說作佛形像經 (1卷)</text>
+作 : <text>佛說作佛形像經</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T17/T17n0721/toc.ncx
+畜 : <text>5 畜生品(一八-二一)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T17/T17n0728/toc.ncx
+畜 : <text>18 畜生品(七)</text>
+靜 : <text>28 寂靜品(九)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T17/T17n0789/toc.ncx
+瑜 : <text>T0789 金剛頂瑜伽念珠經 (1卷)</text>
+瑜 : <text>金剛頂瑜伽念珠經</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0853/toc.ncx
+瑜 : <text>T0853 大毘盧遮那成佛神變加持經蓮華胎藏菩提幢標幟普通真言藏廣大成就瑜伽 (3卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0866/toc.ncx
+瑜 : <text>T0866 金剛頂瑜伽中略出念誦經 (4卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0867/toc.ncx
+瑜瑜 : <text>T0867 金剛峰樓閣一切瑜伽瑜祇經 (2卷)</text>
+瑜 : <text>6 一切佛頂最上遍照王勝義難摧摧邪一切處瑜伽四行攝法品</text>
+瑜 : <text>7 一切如來大勝金剛心瑜伽成就品</text>
+作 : <text>11 金剛薩埵菩提心內作業灌頂悉地品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0869/toc.ncx
+瑜 : <text>T0869 金剛頂經瑜伽十八會指歸 (1卷)</text>
+瑜 : <text>金剛頂經瑜伽十八會指歸</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0870/toc.ncx
+瑜 : <text>T0870 略述金剛頂瑜伽分別聖位修證法門 (1卷)</text>
+瑜 : <text>略述金剛頂瑜伽分別聖位修證法門</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0871/toc.ncx
+瑜 : <text>T0871 金剛頂瑜伽略述三十七尊心要 (1卷)</text>
+瑜 : <text>金剛頂瑜伽略述三十七尊心要</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0872/toc.ncx
+瑜 : <text>T0872 金剛頂瑜伽三十七尊出生義 (1卷)</text>
+瑜 : <text>金剛頂瑜伽三十七尊出生義</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0874/toc.ncx
+瑜 : <text>1 深妙祕密金剛界大三昧耶修習瑜伽儀</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0876/toc.ncx
+瑜 : <text>T0876 金剛頂瑜伽修習毘盧遮那三摩地法 (1卷)</text>
+瑜 : <text>金剛頂瑜伽修習毘盧遮那三摩地法</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0879/toc.ncx
+瑜 : <text>T0879 金剛頂瑜伽三十七尊禮 (1卷)</text>
+瑜 : <text>金剛頂瑜伽三十七尊禮</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0880/toc.ncx
+瑜 : <text>T0880 瑜伽金剛頂經釋字母品 (1卷)</text>
+瑜 : <text>瑜伽金剛頂經釋字母品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0887/toc.ncx
+瑜 : <text>T0887 佛說無二平等最上瑜伽大教王經 (6卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0890/toc.ncx
+瑜 : <text>T0890 佛說瑜伽大教王經 (5卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0891/toc.ncx
+瑜 : <text>T0891 佛說幻化網大瑜伽教十忿怒明王大明觀想儀軌經 (1卷)</text>
+瑜 : <text>佛說幻化網大瑜伽教十忿怒明王大明觀想儀軌經</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0901/toc.ncx
+作 : <text>七日作法</text>
+作 : <text>佛說作數珠法相品</text>
+作 : <text>作跋折囉并功德法</text>
+作 : <text>毘俱知作壇泥地供養咒</text>
+作 : <text>畫作像法</text>
+作 : <text>作何耶揭唎婆像法</text>
+瑜 : <text>41 烏樞沙摩那瑜伽咒</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0908/toc.ncx
+瑜 : <text>T0908 金剛頂瑜伽護摩儀軌 (1卷)</text>
+瑜 : <text>金剛頂瑜伽護摩儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T18/T18n0909/toc.ncx
+瑜 : <text>T0909 金剛頂瑜伽護摩儀軌 (1卷)</text>
+瑜 : <text>金剛頂瑜伽護摩儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T19/T19n0932/toc.ncx
+瑜 : <text>T0932 金剛頂經瑜伽觀自在王如來修行法 (1卷)</text>
+瑜 : <text>金剛頂經瑜伽觀自在王如來修行法</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T19/T19n0955/toc.ncx
+瑜 : <text>T0955 一字頂輪王瑜伽觀行儀軌 (1卷)</text>
+瑜 : <text>一字頂輪王瑜伽觀行儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T19/T19n0957/toc.ncx
+瑜 : <text>T0957 金剛頂一字頂輪王瑜伽一切時處念誦成佛儀軌 (1卷)</text>
+瑜 : <text>金剛頂一字頂輪王瑜伽一切時處念誦成佛儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T19/T19n0973/toc.ncx
+瑜 : <text>T0973 尊勝佛頂脩瑜伽法軌儀 (2卷)</text>
+瑜 : <text>4 修瑜伽奉獻香華品</text>
+瑜 : <text>5 修瑜伽五智品</text>
+瑜 : <text>6 修瑜伽本尊真言品</text>
+瑜 : <text>7 修瑜伽畫像品</text>
+瑜 : <text>9 證瑜伽悉地品</text>
+瑜 : <text>10 修瑜伽護摩品</text>
+瑜 : <text>11 修瑜伽祈雨法品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T19/T19n0974E/toc.ncx
+作 : <text>作尊勝壇法</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T19/T19n1000/toc.ncx
+瑜 : <text>T1000 成就妙法蓮華經王瑜伽觀智儀軌 (1卷)</text>
+瑜 : <text>成就妙法蓮華經王瑜伽觀智儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T19/T19n1020/toc.ncx
+瑜 : <text>T1020 大方廣佛花嚴經入法界品頓證毘盧遮那法身字輪瑜伽儀軌 (1卷)</text>
+瑜 : <text>大方廣佛花嚴經入法界品頓證毘盧遮那法身字輪瑜伽儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1030/toc.ncx
+瑜 : <text>T1030 觀自在大悲成就瑜伽蓮華部念誦法門 (1卷)</text>
+瑜 : <text>觀自在大悲成就瑜伽蓮華部念誦法門</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1031/toc.ncx
+瑜 : <text>T1031 聖觀自在菩薩心真言瑜伽觀行儀軌 (1卷)</text>
+瑜 : <text>聖觀自在菩薩心真言瑜伽觀行儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1032/toc.ncx
+瑜 : <text>T1032 瑜伽蓮華部念誦法 (1卷)</text>
+瑜 : <text>瑜伽蓮華部念誦法</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1056/toc.ncx
+瑜 : <text>T1056 金剛頂瑜伽千手千眼觀自在菩薩修行儀軌經 (2卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1086/toc.ncx
+瑜 : <text>T1086 觀自在菩薩如意輪瑜伽 (1卷)</text>
+瑜 : <text>觀自在菩薩如意輪瑜伽</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1087/toc.ncx
+瑜 : <text>T1087 觀自在如意輪菩薩瑜伽法要 (1卷)</text>
+瑜 : <text>觀自在如意輪菩薩瑜伽法要</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1112/toc.ncx
+瑜 : <text>T1112 金剛頂瑜伽青頸大悲王觀自在念誦儀軌 (1卷)</text>
+瑜 : <text>金剛頂瑜伽青頸大悲王觀自在念誦儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1120A/toc.ncx
+瑜 : <text>T1120A 金剛頂勝初瑜伽經中略出大樂金剛薩埵念誦儀 (1卷)</text>
+瑜 : <text>金剛頂勝初瑜伽經中略出大樂金剛薩埵念誦儀</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1120B/toc.ncx
+瑜 : <text>T1120B 勝初瑜伽儀軌真言 (1卷)</text>
+瑜 : <text>勝初瑜伽儀軌真言</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1121/toc.ncx
+瑜 : <text>T1121 金剛頂普賢瑜伽大教王經大樂不空金剛薩埵一切時方成就儀 (1卷)</text>
+瑜 : <text>金剛頂普賢瑜伽大教王經大樂不空金剛薩埵一切時方成就儀</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1122/toc.ncx
+瑜 : <text>T1122 金剛頂瑜伽他化自在天理趣會普賢修行念誦儀軌 (1卷)</text>
+瑜 : <text>金剛頂瑜伽他化自在天理趣會普賢修行念誦儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1123/toc.ncx
+瑜 : <text>T1123 金剛頂勝初瑜伽普賢菩薩念誦法 (1卷)</text>
+瑜 : <text>金剛頂勝初瑜伽普賢菩薩念誦法</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1124/toc.ncx
+瑜 : <text>T1124 普賢金剛薩埵略瑜伽念誦儀軌 (1卷)</text>
+瑜 : <text>普賢金剛薩埵略瑜伽念誦儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1125/toc.ncx
+瑜 : <text>T1125 金剛頂瑜伽金剛薩埵五祕密修行念誦儀軌 (1卷)</text>
+瑜 : <text>金剛頂瑜伽金剛薩埵五祕密修行念誦儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1141/toc.ncx
+瑜 : <text>T1141 慈氏菩薩略修瑜伽念誦法 (2卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1155/toc.ncx
+瑜 : <text>T1155 金剛頂瑜伽最勝祕密成佛隨求即得神變加持成就陀羅尼儀軌 (1卷)</text>
+瑜 : <text>金剛頂瑜伽最勝祕密成佛隨求即得神變加持成就陀羅尼儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1169/toc.ncx
+瑜 : <text>T1169 佛說持明藏瑜伽大教尊那菩薩大明成就儀軌經 (4卷)</text>
+作 : <text>4 尊那菩薩大明成就儀軌作曼拏羅法分</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1171/toc.ncx
+瑜 : <text>T1171 金剛頂經瑜伽文殊師利菩薩法 (1卷)</text>
+瑜 : <text>金剛頂經瑜伽文殊師利菩薩法</text>
+瑜 : <text>金剛頂經瑜伽文殊師利菩薩儀軌供養法品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1175/toc.ncx
+瑜 : <text>T1175 金剛頂經瑜伽文殊師利菩薩供養儀軌 (1卷)</text>
+瑜 : <text>金剛頂經瑜伽文殊師利菩薩供養儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1176/toc.ncx
+瑜 : <text>T1176 曼殊室利童子菩薩五字瑜伽法 (1卷)</text>
+瑜 : <text>曼殊室利童子菩薩五字瑜伽法</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1177A/toc.ncx
+瑜 : <text>T1177A 大乘瑜伽金剛性海曼殊室利千臂千鉢大教王經 (10卷)</text>
+瑜 : <text>1 大乘瑜伽金剛性海曼殊室利千臂千缽大教王經序</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T20/T20n1193/toc.ncx
+瑜 : <text>T1193 妙吉祥平等瑜伽祕密觀身成佛儀軌 (1卷)</text>
+瑜 : <text>妙吉祥平等瑜伽祕密觀身成佛儀軌</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T21/T21n1209/toc.ncx
+瑜 : <text>T1209 金剛頂瑜伽降三世成就極深密門 (1卷)</text>
+瑜 : <text>金剛頂瑜伽降三世成就極深密門</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T21/T21n1223/toc.ncx
+瑜 : <text>T1223 佛說無量壽佛化身大忿迅俱摩羅金剛念誦瑜伽儀軌法 (1卷)</text>
+瑜 : <text>佛說無量壽佛化身大忿迅俱摩羅金剛念誦瑜伽儀軌法</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T21/T21n1230/toc.ncx
+作 : <text>1 爾時世尊說作一切印法法身印</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T21/T21n1242/toc.ncx
+瑜 : <text>T1242 佛說妙吉祥瑜伽大教金剛陪囉嚩輪觀想成就儀軌經 (1卷)</text>
+瑜 : <text>佛說妙吉祥瑜伽大教金剛陪囉嚩輪觀想成就儀軌經</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T21/T21n1246/toc.ncx
+作 : <text>2 作壇場品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T21/T21n1251/toc.ncx
+瑜 : <text>1 麼迦多聞寶藏吽迦陀野神妙修真言瑜伽念誦儀軌[阿-可+(俱/寸)][阿-可+梨]漫荼羅品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T21/T21n1273/toc.ncx
+瑜 : <text>T1273 毘那夜迦誐那鉢底瑜伽悉地品祕要 (1卷)</text>
+瑜 : <text>毘那夜迦誐那鉢底瑜伽悉地品祕要</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T21/T21n1318/toc.ncx
+瑜 : <text>T1318 瑜伽集要救阿難陀羅尼焰口軌儀經 (1卷)</text>
+瑜 : <text>瑜伽集要救阿難陀羅尼焰口軌儀經</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T21/T21n1319/toc.ncx
+瑜 : <text>T1319 瑜伽集要焰口施食起教阿難陀緣由 (1卷)</text>
+瑜 : <text>瑜伽集要焰口施食起教阿難陀緣由</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T21/T21n1320/toc.ncx
+瑜 : <text>T1320 瑜伽集要焰口施食儀 (1卷)</text>
+瑜 : <text>瑜伽集要焰口施食儀</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T22/T22n1432/toc.ncx
+作 : <text>8 作淨法</text>
+作 : <text>8 作淨法</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T23/T23n1438/toc.ncx
+作 : <text>21 羯磨為僧作自恣人</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T23/T23n1439/toc.ncx
+畜 : <text>3 乞畜眾羯磨文</text>
+畜 : <text>4 僧與畜眾羯磨文</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T23/T23n1442/toc.ncx
+作 : <text>11 用野蠶絲作敷具學處</text>
+作 : <text>12 用純黑羊毛作敷具學處</text>
+作 : <text>13 過分數作敷具學處</text>
+作 : <text>14 作減六年敷具學處</text>
+作 : <text>15 作新敷具不為壞色學處</text>
+作 : <text>23 自乞縷使非親族織師織作衣學處</text>
+作 : <text>25 與非親苾芻尼作衣學處</text>
+作 : <text>84 作針筒學處</text>
+作 : <text>85 作過量床學處</text>
+作 : <text>87 過量作尼師但那學處</text>
+作 : <text>88 作覆瘡衣學處</text>
+作 : <text>89 作雨浴衣學處</text>
+作 : <text>90 同佛衣量作衣學處</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T23/T23n1443/toc.ncx
+作 : <text>12 輒作解舉學處</text>
+作 : <text>15 自乞縷使非親織師織作衣學處</text>
+畜 : <text>20 畜長缽學處</text>
+作 : <text>67 作針筒學處</text>
+作 : <text>68 作過量床學處</text>
+作 : <text>70 過量作尼師但那學處</text>
+作 : <text>71 作覆瘡衣學處</text>
+作 : <text>72 同佛衣量作衣學處</text>
+作 : <text>94 以樹膠作生支學處</text>
+畜 : <text>107 輒畜弟子學處</text>
+畜 : <text>110 輒多畜眾學處第</text>
+作 : <text>127 無苾芻處作長淨學處</text>
+作 : <text>128 無苾芻處作安居學處</text>
+作 : <text>129 不於二部眾三事作隨意學處</text>
+畜 : <text>139 不畜洗裙學處</text>
+畜 : <text>143 不畜病衣學處</text>
+作 : <text>174 作樂學處</text>
+畜 : <text>176 畜香草刷學處</text>
+畜 : <text>177 畜細枇學處</text>
+畜 : <text>178 畜麤梳學處</text>
+畜 : <text>180 畜假髻莊具學處</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T24/T24n1458/toc.ncx
+作 : <text>9 勸共作衣學處</text>
+作 : <text>11 用野蠶絲作敷具學處</text>
+作 : <text>12 用純黑羊毛作敷具學處</text>
+作 : <text>13 過分數作敷具學處</text>
+作 : <text>14 減六年作新敷具學處</text>
+作 : <text>15 作新尼師但那不用故帖學處</text>
+畜 : <text>21 畜長缽過十日不分別學處</text>
+作 : <text>23 自乞縷使非親織師織作衣學處</text>
+畜 : <text>26 過後畜急施衣學處</text>
+作 : <text>25 與非親尼作衣學處</text>
+作 : <text>83 不攝耳聽戒作不知語學處</text>
+作 : <text>84 用牙角作針筒學處</text>
+作 : <text>85 過量作床學處</text>
+作 : <text>87 過量作尼師但那學處</text>
+作 : <text>88 過量作覆瘡衣學處</text>
+作 : <text>89 過量作雨浴衣學處</text>
+作 : <text>90 與佛等過量作衣學處</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T25/T25n1509/toc.ncx
+作 : <text>11 幻人無作品</text>
+作 : <text>43 無作實相品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T26/T26n1537/toc.ncx
+靜 : <text>11 靜慮品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T30/T30n1564/toc.ncx
+作作 : <text>8 觀作作者品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T30/T30n1566/toc.ncx
+作 : <text>8 觀作者業品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T30/T30n1567/toc.ncx
+作作 : <text>8 觀作者作業品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T30/T30n1568/toc.ncx
+作 : <text>10 觀作者門</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T30/T30n1579/toc.ncx
+瑜 : <text>T1579 瑜伽師地論 (100卷)</text>
+作 : <text>4章 作意與識生之關係</text>
+作 : <text>5項 作業</text>
+作 : <text>1目 對五識明作業</text>
+作 : <text>2目 明意識之勝作業（十四門）</text>
+作 : <text>4章 如理作意施設建立</text>
+作 : <text>5章 不如理作意施設建立</text>
+作 : <text>6節 宿作因論</text>
+作 : <text>7節 計自在等作者論</text>
+作 : <text>4章 合釋作意及相二門</text>
+作 : <text>1節 釋作意</text>
+作作 : <text>1項 標列七作意與四十作意</text>
+作 : <text>2項 別釋四十作意行相</text>
+作作 : <text>3項 以七作意與四十作意相攝</text>
+作 : <text>1項 修作意所由</text>
+靜 : <text>3項 四得靜慮</text>
+靜 : <text>4目 分別靜慮經</text>
+作 : <text>8節 論多所作法</text>
+作 : <text>3項 入聖諦現觀已作意思惟諸歡喜事</text>
+瑜 : <text>1瑜伽處</text>
+瑜 : <text>5項 第七門初夜後夜常勤修習覺寤瑜伽</text>
+瑜 : <text>2瑜伽處</text>
+瑜 : <text>7項 瑜伽壞</text>
+瑜 : <text>1目 標列四種瑜伽壞</text>
+瑜 : <text>2目 標釋四種瑜伽壞</text>
+瑜 : <text>8項 瑜伽</text>
+瑜 : <text>1目 標列四種瑜伽</text>
+瑜 : <text>2目 標釋四種瑜伽</text>
+瑜 : <text>3目 結瑜伽</text>
+作 : <text>9項 作意</text>
+作 : <text>1目 辨四種作意</text>
+作 : <text>2目 明作意思惟相</text>
+瑜作 : <text>10項 瑜伽師所作</text>
+瑜 : <text>11項 瑜伽師</text>
+瑜 : <text>12項 瑜伽修</text>
+瑜 : <text>3瑜伽處</text>
+作 : <text>5目 修作意處</text>
+瑜 : <text>4瑜伽處</text>
+作 : <text>1目 以七作意離欲</text>
+作 : <text>3節 廣辨往生出世間道(辨七作意)</text>
+作 : <text>1項 了相作意</text>
+作 : <text>2項 勝解作意</text>
+作 : <text>3項 遠離作意</text>
+作 : <text>4項 觀察作意</text>
+作 : <text>5項 攝樂作意</text>
+作 : <text>6項 加行究竟作意</text>
+作 : <text>7項 加行究竟果作意</text>
+瑜 : <text>1瑜伽處</text>
+作 : <text>4項 戒所作</text>
+靜 : <text>13靜慮品</text>
+靜 : <text>13節 靜慮品</text>
+靜 : <text>1目 自性靜慮</text>
+靜 : <text>2目 一切靜慮</text>
+靜 : <text>3目 難行靜慮</text>
+靜 : <text>4目 一切門靜慮</text>
+靜 : <text>5目 善士靜慮</text>
+靜 : <text>6目 一切種靜慮</text>
+靜 : <text>7目 遂求靜</text>
+靜 : <text>8目 此世他世樂靜慮</text>
+靜 : <text>9目 清淨靜慮</text>
+作 : <text>1目 六度四攝之自利利他作業之差別</text>
+作 : <text>3目 定作</text>
+作 : <text>4目 常所應作</text>
+瑜 : <text>2隨法瑜伽處</text>
+瑜 : <text>3究竟瑜伽處</text>
+作 : <text>3項 重解前四所應作事</text>
+作 : <text>3目 作事</text>
+瑜 : <text>4次第瑜伽處</text>
+靜 : <text>2節 寂靜施設安立</text>
+作 : <text>2目 依作意辨</text>
+靜 : <text>8項 靜慮境界不可思議</text>
+靜 : <text>10項 四種修靜慮者</text>
+靜 : <text>2項 靜慮離欲</text>
+靜 : <text>3項 靜慮四種異名</text>
+作 : <text>2目 作意闕</text>
+作 : <text>1項 聲聞乘相應作意修</text>
+作 : <text>2項 大乘相應作意修</text>
+作 : <text>5項 所作成辦修</text>
+瑜 : <text>8項 覺悟瑜伽</text>
+作 : <text>17目 作業</text>
+作 : <text>21目 以七作意相攝</text>
+瑜 : <text>1項 初決擇持瑜伽</text>
+瑜 : <text>2項 決擇持隨法瑜伽處</text>
+作 : <text>3目 菩薩苦樂作意與住</text>
+瑜 : <text>3項 持究竟瑜伽處決擇</text>
+作 : <text>8目 世出世間智作利他事</text>
+作 : <text>10目 師所作事</text>
+作 : <text>4目 此作等</text>
+作 : <text>7目 自作</text>
+靜 : <text>6目 寂靜</text>
+靜 : <text>8目 受寂靜</text>
+作 : <text>7目 作意</text>
+靜 : <text>6目 能寂靜</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T30/T30n1580/toc.ncx
+瑜 : <text>T1580 瑜伽師地論釋 (1卷)</text>
+瑜 : <text>瑜伽師地論釋</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T31/T31n1602/toc.ncx
+瑜 : <text>9 成瑜伽品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T31/T31n1603/toc.ncx
+瑜 : <text>9 成瑜伽品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T32/T32n1636/toc.ncx
+作 : <text>17 恭敬作禮品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T32/T32n1646/toc.ncx
+作 : <text>96 無作品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T32/T32n1662/toc.ncx
+靜 : <text>6 菩提心靜慮般若波羅蜜多品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T32/T32n1665/toc.ncx
+瑜 : <text>T1665 金剛頂瑜伽中發阿耨多羅三藐三菩提心論 (1卷)</text>
+瑜 : <text>金剛頂瑜伽中發阿耨多羅三藐三菩提心論</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T35/T35n1732/toc.ncx
+兜 : <text>19 佛昇兜率天宮一切寶殿品</text>
+兜 : <text>20 兜率天宮菩薩雲集讚佛品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T35/T35n1733/toc.ncx
+兜 : <text>19 如來昇兜率天一切寶殿品</text>
+兜 : <text>20 兜率天宮菩薩雲集讚佛品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T35/T35n1735/toc.ncx
+兜 : <text>23 升兜率天宮品</text>
+兜 : <text>24 兜率宮中偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T36/T36n1736/toc.ncx
+兜 : <text>23 升兜率天宮品</text>
+兜 : <text>24 兜率宮中偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T36/T36n1739/toc.ncx
+兜 : <text>23 昇兜率天宮品</text>
+兜 : <text>24 兜率天宮中偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T36/T36n1742/toc.ncx
+兜 : <text>5 兜率天宮說三品十二卷</text>
+兜 : <text>23 昇兜率品</text>
+兜 : <text>24 兜率偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T38/T38n1772/toc.ncx
+兜 : <text>T1772 觀彌勒上生兜率天經贊 (2卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T39/T39n1798/toc.ncx
+瑜 : <text>T1798 金剛頂經大瑜伽祕密心地法門義訣 (1卷)</text>
+瑜 : <text>金剛頂經大瑜伽祕密心地法門義訣</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T40/T40n1808/toc.ncx
+畜 : <text>老病比丘畜杖絡囊乞羯磨文</text>
+畜 : <text>僧與老病比丘畜杖絡囊羯磨法</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T40/T40n1813/toc.ncx
+畜 : <text>10 畜諸殺具戒</text>
+畜作 : <text>32 畜作非法戒</text>
+作 : <text>33 觀聽作惡戒</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T40/T40n1814/toc.ncx
+畜 : <text>10 不畜殺具戒</text>
+作 : <text>8 不詐作師戒</text>
+作 : <text>9 不作邪命戒</text>
+作 : <text>10 不作邪業戒</text>
+畜 : <text>2 不畜損害戒</text>
+作 : <text>6 作誓自要戒</text>
+作 : <text>2 具德作師戒</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T40/T40n1815/toc.ncx
+畜 : <text>10 畜殺生具戒</text>
+作 : <text>8 虛偽作師戒</text>
+作 : <text>3 虛作無義戒</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T42/T42n1824/toc.ncx
+作 : <text>第五末第六本8 作者品(六本)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T42/T42n1825/toc.ncx
+作 : <text>10 觀作者門(下末)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T42/T42n1826/toc.ncx
+作 : <text>10 觀作者門(下)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T42/T42n1828/toc.ncx
+瑜 : <text>T1828 瑜伽論記 (24卷)</text>
+瑜 : <text>1 瑜伽處</text>
+瑜 : <text>第六之下2 瑜伽處(六下-七下)</text>
+瑜 : <text>第七之上第七之下3 瑜伽處(七下)</text>
+瑜 : <text>第八之上4 瑜伽處(八上)</text>
+瑜 : <text>1 瑜伽處</text>
+靜 : <text>靜慮品(一0下)</text>
+瑜 : <text>2 隨法瑜伽處</text>
+瑜 : <text>第十二之上3 究竟瑜伽處</text>
+瑜 : <text>4 次第瑜伽處</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T43/T43n1829/toc.ncx
+瑜 : <text>T1829 瑜伽師地論略纂 (16卷)</text>
+瑜 : <text>第一(論本一-二)瑜伽師地論略纂</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T44/T44n1851/toc.ncx
+停 : <text>133 五停心義(一二)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T45/T45n1861/toc.ncx
+作 : <text>6 三身所作</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T45/T45n1862/toc.ncx
+作 : <text>六決定應作門</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T45/T45n1867/toc.ncx
+杜 : <text>終南山杜順禪師緣起</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T45/T45n1869/toc.ncx
+作 : <text>3 眾生作佛義</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T45/T45n1870/toc.ncx
+停 : <text>明法品初立五停心觀章</text>
+作 : <text>祕密翻依行檀起行作業同異章</text>
+靜 : <text>第三地厭分中四靜慮八禪章</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T45/T45n1874/toc.ncx
+作 : <text>9 能化所化融作十門</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T45/T45n1892/toc.ncx
+作 : <text>8 戒壇作業成敗</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T45/T45n1893/toc.ncx
+停 : <text>3 誡觀五停心觀法</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T45/T45n1900/toc.ncx
+作 : <text>9 明作衣法</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T45/T45n1909/toc.ncx
+畜 : <text>7 為畜生道禮佛</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T46/T46n1934/toc.ncx
+譜 : <text>智者大禪師年譜事跡</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T46/T46n1937/toc.ncx
+譜 : <text>尊者年譜</text>
+作 : <text>謝聖果法師作指要序啟</text>
+作 : <text>晃待制作紀贈法智大師詩序</text>
+作 : <text>四明法師受命服門人神照作致語</text>
+作 : <text>妙悟法師輔四明作評謗書</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T46/T46n1949/toc.ncx
+作 : <text>2 作禮法</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T47/T47n1963/toc.ncx
+兜 : <text>7 將西方兜率相對挍量優劣</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T47/T47n1967/toc.ncx
+作 : <text>10 是心是佛是心作佛門</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T47/T47n1969A/toc.ncx
+作 : <text>傚禪月作遠公詠</text>
+作 : <text>述製作意</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T47/T47n1969B/toc.ncx
+兜 : <text>三菩薩願生兜率天</text>
+作 : <text>乘禪師為薛刺史作子</text>
+遜 : <text>遜長老後身為李侍郎</text>
+作 : <text>梵僧願為王侍中作子</text>
+作 : <text>衲僧願為崔氏作子</text>
+杜 : <text>杜鴻漸發願為僧</text>
+作 : <text>旻師為董司戶作女</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T47/T47n1970/toc.ncx
+靜 : <text>唐并州溫靜文妻</text>
+作 : <text>勸作福者</text>
+兜 : <text>三菩薩修兜率</text>
+作 : <text>法華尼後身作官妓</text>
+作 : <text>念佛風疾不作</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T47/T47n1973/toc.ncx
+作 : <text>作福助緣</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T47/T47n1992/toc.ncx
+作 : <text>辨作家</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T47/T47n1995/toc.ncx
+作 : <text>擬雲送信禪者作丐</text>
+作 : <text>偶作</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T47/T47n1996/toc.ncx
+靜 : <text>送靜山水</text>
+作 : <text>東軒偶作</text>
+靜 : <text>靜而善應</text>
+作 : <text>送顯冲禪者之霅上覲兄著作</text>
+作 : <text>偶作</text>
+作 : <text>經古堰偶作</text>
+作 : <text>偶作</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T47/T47n1999/toc.ncx
+卜 : <text>答卜運屬</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T47/T47n2000/toc.ncx
+作 : <text>寒山作吟身勢</text>
+靜 : <text>動靜雙照</text>
+靜 : <text>賡靜學林府判游天澤菴韻</text>
+靜 : <text>居靜副寺</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T48/T48n2001/toc.ncx
+作 : <text>折桂章首座近自雙泉來因作句與之</text>
+作 : <text>泐潭雲庵偶作</text>
+作 : <text>庚子冬二十八日。天意晴和。與止上人同南麓行。橫岡轉流。長作清響。陰溪直木。寒無悴容。到竹林人家。飲茶而還</text>
+作 : <text>勤大師訪別作句贈之</text>
+作 : <text>出康廬渡江淮山拜諸祖塔道中作</text>
+籜 : <text>籜庵頌</text>
+作 : <text>春意漸深。送客至山麓田舍。來往道中。復逢法上人。因作數語以記所見云</text>
+作 : <text>嵩山老人告行作六偈送之</text>
+作 : <text>朱熙載作平陰令。八十日致仕而歸</text>
+作 : <text>即覺庵子中居士。來訪妙峯之西既去。作六言五首送之</text>
+作 : <text>夏安居日。過實上人東軒。時新竹浴雨。因作句歌之</text>
+作 : <text>游雲棲院作偈。與住山琛老禪</text>
+作 : <text>蔣新臣秀才告別作句送之</text>
+作 : <text>小師智寬與國清作丐請語</text>
+作 : <text>衛進可寺丞。臘月二十九日。招我以蔬飯。從容勝集其居之西一堂。榜曰六湛。意六處休復同一湛然。且求語因作偈云</text>
+作 : <text>雨晴偶作示禪者</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T48/T48n2005/toc.ncx
+兜 : <text>兜率三關</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T48/T48n2006/toc.ncx
+靜 : <text>南堂靜</text>
+作 : <text>眼耳鼻舌身意　六根　六塵　六識五識轉成所作智</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T48/T48n2021/toc.ncx
+靜 : <text>禪林靜慮門</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T48/T48n2024/toc.ncx
+靜 : <text>獨坐靜室</text>
+杜 : <text>杜門力參</text>
+瑜 : <text>瑜伽師地論</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T49/T49n2035/toc.ncx
+兜 : <text>下兜率</text>
+兜 : <text>下兜率</text>
+兜 : <text>下兜率</text>
+靜 : <text>靜帝</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T49/T49n2039/toc.ncx
+瑜 : <text>賢瑜珈海華嚴</text>
+兜 : <text>月明師兜率歌</text>
+靜 : <text>惠現求靜</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T50/T50n2040/toc.ncx
+譜 : <text>T2040 釋迦譜 (5卷)</text>
+譜 : <text>釋迦譜序</text>
+譜 : <text>1 釋迦始祖劫初剎利相承姓譜</text>
+譜 : <text>2 釋迦賢劫初姓瞿曇緣譜</text>
+譜 : <text>3 釋迦近世祖始姓釋緣譜</text>
+譜 : <text>4 釋迦降生釋種成佛緣譜</text>
+譜 : <text>5 釋迦在七佛末種姓眾數同異譜</text>
+譜 : <text>6 釋迦同三千佛緣譜</text>
+譜 : <text>7 釋迦內外族姓名譜</text>
+譜 : <text>8 釋迦弟子姓釋緣譜</text>
+譜 : <text>9 釋迦四部名聞弟子譜</text>
+譜 : <text>釋迦降生釋種成佛緣譜</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T50/T50n2041/toc.ncx
+譜 : <text>T2041 釋迦氏譜 (1卷)</text>
+譜 : <text>釋迦氏譜序</text>
+兜 : <text>1 處兜率天迹</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T50/T50n2059/toc.ncx
+靜 : <text>8 釋慧靜</text>
+靜 : <text>19 釋慧靜</text>
+瑜 : <text>7 釋僧瑜</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T50/T50n2061/toc.ncx
+靜 : <text>晉永興永安院善靜傳</text>
+靜 : <text>唐西域安靜傳</text>
+靜 : <text>周晉州慈雲寺普靜傳</text>
+作 : <text>梁四明山無作傳</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T50/T50n2062/toc.ncx
+靜 : <text>9 潼川護聖寺沙門釋居靜傳</text>
+靜 : <text>15 平江靜濟沙門釋法全傳</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T50/T50n2063/toc.ncx
+靜 : <text>12 簡靜寺支妙音尼傳</text>
+靜 : <text>12 廣陵中寺光靜尼傳</text>
+靜 : <text>15 山陽東鄉竹林寺靜稱尼傳</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T50/T50n2064/toc.ncx
+瑜 : <text>世瑜</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T51/T51n2068/toc.ncx
+靜 : <text>30 隋京師靜法寺釋智嶷</text>
+遜 : <text>6 梁蒙遜王</text>
+瑜 : <text>8 宋廬山招提寺釋僧瑜</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T51/T51n2070/toc.ncx
+靜 : <text>6 靜靄禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T51/T51n2072/toc.ncx
+靜 : <text>溫靜文妻</text>
+畜 : <text>畜生往生類</text>
+杜 : <text>杜居士</text>
+作 : <text>瘧疾不作</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T51/T51n2076/toc.ncx
+靜 : <text>郢州興陽歸靜禪師</text>
+靜 : <text>京兆華嚴寺休靜禪師</text>
+靜 : <text>前京兆華嚴寺休靜禪師法嗣</text>
+靜 : <text>京兆永安院善靜禪師</text>
+靜 : <text>天台山國清寺師靜上座</text>
+靜 : <text>福州石佛院靜禪師</text>
+靜 : <text>福州祥光院澄靜禪師</text>
+作 : <text>建州白雲智作真寂禪師</text>
+孜 : <text>福州羅山紹孜禪師</text>
+靜 : <text>襄州谷隱智靜悟空大師</text>
+瑜 : <text>婺州普照瑜和尚</text>
+靜 : <text>前襄州谷隱智靜禪師法嗣</text>
+靜 : <text>靜亂不二</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T51/T51n2077/toc.ncx
+遜 : <text>興陽遜禪師</text>
+湜 : <text>西賢澄湜禪師</text>
+孜 : <text>香積孜禪師</text>
+孜 : <text>開元智孜禪師</text>
+孜 : <text>顯明善孜禪師</text>
+孜 : <text>華嚴普孜禪師</text>
+湜 : <text>清隱惟湜禪師</text>
+湜 : <text>棲賢湜禪師法嗣</text>
+靜 : <text>富樂智靜禪師</text>
+靜 : <text>隱靜守儼禪師</text>
+遜 : <text>慧林德遜禪師</text>
+靜 : <text>谷隱靜顯禪師</text>
+兜 : <text>兜率志恩禪師</text>
+瑜 : <text>子陵自瑜禪師</text>
+兜 : <text>兜率從悅禪師</text>
+靜 : <text>超化靜禪師</text>
+靜 : <text>大隨元靜禪師</text>
+孜 : <text>法輪彥孜禪師</text>
+兜 : <text>兜率悅禪師法嗣</text>
+兜 : <text>兜率慧照禪師</text>
+靜 : <text>勝因咸靜禪師</text>
+遜 : <text>侍郎李彌遜居士</text>
+靜 : <text>勝因靜禪師法嗣</text>
+慜 : <text>光孝果慜禪師</text>
+靜 : <text>大隨靜禪師法嗣</text>
+靜 : <text>護聖居靜禪師</text>
+靜 : <text>隱靜彥岑禪師</text>
+慜 : <text>光孝慜禪師法嗣</text>
+靜 : <text>隱靜致柔禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T51/T51n2083/toc.ncx
+作 : <text>西域聖者達磨蜜多五百世作狗身事</text>
+作 : <text>齊相州道秀變作蛇身事</text>
+作 : <text>西域沙彌貪味懷恨現身變作龍事</text>
+作 : <text>宋西鎮寺曇遂死作廟神事</text>
+作 : <text>齊宋州曇亮慳惜變作蛇身事</text>
+作 : <text>唐濟州靈光寺僧惜鉢暴亡變作蛇身事</text>
+作 : <text>唐京師勝光寺僧智保死作塔神事</text>
+作 : <text>唐新羅國興輪寺僧變作蛇身事</text>
+作 : <text>宋法豐減僧食死作餓鬼事</text>
+作 : <text>周益州索寺慧旻盜僧財作牛事</text>
+作 : <text>禪師輒取僧少菜死作眾奴事</text>
+作 : <text>唐國清寺僧智瓌死作眾奴事</text>
+作 : <text>唐汾州界內寺伯達死作寺牛事</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T51/T51n2084/toc.ncx
+作 : <text>17 阿彌陀佛化作鸚鵡鳥引起安息國感應</text>
+作 : <text>18 阿彌陀佛作大魚身引攝漁人感應</text>
+作 : <text>48 昔貧兒以木葉戲作寺延壽感應</text>
+作 : <text>23 貧女受持勝鬘經現作皇后感應</text>
+慜 : <text>45 并州常慜禪師寫大般若經感應</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T51/T51n2095/toc.ncx
+作 : <text>入彭蠡湖口作</text>
+作 : <text>簡寂觀西澗瀑布下作</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T51/T51n2097/toc.ncx
+兜 : <text>兜率寺</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T52/T52n2102/toc.ncx
+作 : <text>俠道作亂是其四逆</text>
+作 : <text>5 夢中作罪頑癡之極</text>
+作 : <text>6 輕作寒暑兇佞之極</text>
+停 : <text>34 僧[契-大+石]僧遷鳩摩耆婆三法師答姚主書停恒標奏(一一)</text>
+靜 : <text>56 檄魔文(釋智靜)(一四)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T52/T52n2103/toc.ncx
+作 : <text>18 老子作佛者</text>
+作 : <text>法作菩薩讚</text>
+靜 : <text>57 （靈味寺釋靜安諮法身義）(二一)</text>
+作 : <text>66 六道相續作佛義(沈約)(二二)</text>
+停 : <text>今上停沙門拜君詔</text>
+靜 : <text>玉華宮寺譯經沙門靜邁等上拜父母有損表</text>
+作 : <text>10 為人作造寺疏(梁簡文)(二八)</text>
+作 : <text>30 八關齋夜賦四城門更作四首(三〇)</text>
+靜 : <text>靜臥栖霞寺房望徐祭酒</text>
+作 : <text>45 隋著作王胄臥疾閩越述淨名意(三〇)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T52/T52n2104/toc.ncx
+靜 : <text>28 今上在東都有洛邑僧靜泰勅對道士李榮敘道事(丁)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T52/T52n2106/toc.ncx
+作 : <text>宋湘州桐盾感通作佛光緣二十四</text>
+遜 : <text>釋道遜</text>
+杜 : <text>杜願僧</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T52/T52n2108/toc.ncx
+遜 : <text>詳刑寺丞王千石 張道遜等議狀</text>
+作 : <text>繕工監大監劉審禮監作上官突厥等議狀</text>
+杜 : <text>左戎衛大將軍懷寧縣公杜君綽等議狀</text>
+靜 : <text>左奉裕衛長史丘神靜等議狀</text>
+停 : <text>今上停沙門拜君詔</text>
+靜 : <text>玉華宮寺譯經僧靜邁等上僧尼拜親有損表</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T52/T52n2115/toc.ncx
+作 : <text>與馬著作書</text>
+作 : <text>送客還北闕道中作</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T52/T52n2116/toc.ncx
+作 : <text>11 三番作佛偽</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T52/T52n2119/toc.ncx
+作 : <text>請太宗文皇帝作經序并題經表</text>
+作 : <text>太宗文皇帝報請作經序　勅書</text>
+停 : <text>謝僧尼等停依俗法條表</text>
+停 : <text>重謝僧尼等停依俗法條表</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T52/T52n2120/toc.ncx
+杜 : <text>杜冕中丞請迴封入翻譯經院制書</text>
+停 : <text>請光天寺東塔院充五臺山往來停止院制</text>
+停 : <text>停修舊塔地制</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T53/T53n2121/toc.ncx
+兜 : <text>4 兜率天</text>
+作 : <text>7 化作梵志度多味象王</text>
+作 : <text>9 化作沙門度五比丘</text>
+作 : <text>15 化作執著婆羅門子令其父母還得本心</text>
+作 : <text>2 能仁為婬女身轉身作國王捨飴鳥獸</text>
+作 : <text>9 賊作比丘遇佛悟道</text>
+作 : <text>26 比丘見一須陀洹先作維那今獲苦報畏故得道</text>
+剜 : <text>6 轉輪王為半偈剜身然千燈</text>
+剜 : <text>1 虔闍尼婆梨王為聞一偈剜身以然千燈</text>
+作 : <text>9 薩惒檀王以身施婆羅門作奴</text>
+作 : <text>13 驢首王食雪山藥草得作人頭</text>
+作 : <text>8 申日為佛作毒飯火坑自皆變滅</text>
+作 : <text>5 忽起經暫貧客作設會即獲華報</text>
+作 : <text>35 童子施佛豆生天後作轉輪王</text>
+畜 : <text>畜生部</text>
+畜 : <text>1 雜獸畜生部(四七)</text>
+作 : <text>4 迦羅越牛自說前身負一千錢三反作牛不了</text>
+兜 : <text>1 兔王依附道人投身火聚生兜率天</text>
+畜 : <text>2 禽畜生部(四八)</text>
+畜 : <text>3 蟲畜生部(四八)</text>
+作 : <text>6 五官禁人作罪</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T53/T53n2122/toc.ncx
+作 : <text>魏孫恩作逆時一男子入蔣侯廟</text>
+畜 : <text>5 畜生部(六)</text>
+畜 : <text>西國行記人畜交孕怪</text>
+作 : <text>宋湘州桐楯感通作佛光緣</text>
+靜 : <text>晉沙門釋僧靜</text>
+作 : <text>晉時有老狸作人父怪</text>
+作 : <text>晉時有貍作人婦怪</text>
+作 : <text>晉時有貍作人女產兒怪</text>
+作 : <text>宋時王家作蟹斷有材怪</text>
+作 : <text>魏時尋陽縣北山蠻人作術變</text>
+杜 : <text>唐杜智揩</text>
+杜 : <text>晉居士杜願</text>
+畜 : <text>6 詐畜部</text>
+瑜 : <text>隋楊州人卞士瑜</text>
+畜 : <text>3 畜生相者</text>
+瑜 : <text>宋沙門釋僧瑜亡後房內生雙桐樹</text>
+畜 : <text>4 畜生部</text>
+杜 : <text>周宣王殺杜伯亡後現報</text>
+停 : <text>唐國初相州大慈寺群賊共停相殺污寺現驗</text>
+作 : <text>晉大司馬桓溫枉害著作郎殷涓現報</text>
+杜 : <text>唐貞觀年中有杜通達枉害眾僧受現報</text>
+停 : <text>唐時殷安仁停客殺驢驗</text>
+遜 : <text>宋沮渠蒙遜</text>
+杜 : <text>周杜國之伯常</text>
+瑜 : <text>宋沙門釋僧瑜</text>
+靜 : <text>周沙門釋靜藹</text>
+杜 : <text>漢時杜嘏家葬而婢誤不得出經十年開塚而婢尚生</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T54/T54n2123/toc.ncx
+畜 : <text>6 詐畜緣</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T54/T54n2127/toc.ncx
+靜 : <text>躁靜</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T54/T54n2128/toc.ncx
+兜 : <text>佛說兜沙經</text>
+作 : <text>作佛形像經</text>
+瑜 : <text>金剛頂經略瑜伽</text>
+瑜 : <text>普通諸尊瑜伽念誦法</text>
+瑜 : <text>瑜伽要妙略修行法</text>
+瑜 : <text>金剛頂瑜伽修習毘盧遮那三摩地法</text>
+瑜 : <text>降三世金剛瑜伽觀自在心真言法</text>
+瑜瑜 : <text>修般若波羅蜜瑜伽觀行法觀自在如意輪瑜伽法</text>
+瑜 : <text>金剛頂瑜伽大樂金剛薩埵念誦法</text>
+瑜 : <text>吉祥勝初瑜伽大樂金剛薩埵法</text>
+瑜 : <text>普賢金剛薩埵瑜伽念誦法</text>
+瑜 : <text>蓮花降三世瑜伽觀自在心儀軌</text>
+瑜 : <text>金剛頂瑜伽觀自在菩薩心念誦法</text>
+瑜 : <text>金剛頂瑜伽祕密三摩地念誦法</text>
+瑜 : <text>金剛頂瑜伽經十八會指歸</text>
+瑜 : <text>瑜伽護摩經</text>
+瑜 : <text>金剛頂瑜伽分別聖位修證法門序</text>
+瑜 : <text>瑜伽一字佛頂輪王安怛袒那法經</text>
+瑜 : <text>成就妙法蓮花經王瑜伽觀智儀軌經</text>
+瑜 : <text>金剛頂瑜伽千手千眼觀自在菩薩修行儀軌</text>
+瑜 : <text>金剛頂瑜伽蓮花部心念誦法</text>
+瑜 : <text>金剛頂瑜伽金剛薩埵五祕密修行念誦儀軌經</text>
+瑜 : <text>金剛愛瑜伽法</text>
+瑜 : <text>觀自在菩薩如意輪瑜歧法經</text>
+瑜 : <text>瑜伽師地論釋</text>
+瑜 : <text>瑜伽師地論</text>
+兜 : <text>兜調經</text>
+譜 : <text>1 釋迦譜序卷</text>
+譜 : <text>釋迦氏略譜</text>
+譜譜 : <text>釋迦譜及略譜方志等依入藏目合有諸經要集</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T54/T54n2129/toc.ncx
+瑜 : <text>大乘瑜伽千鉢文殊大教王經</text>
+瑜 : <text>金剛頂瑜伽文殊師利菩薩經一卷</text>
+瑜 : <text>金剛頂瑜伽分別聖位經</text>
+瑜 : <text>金剛頂瑜伽十八會指歸</text>
+瑜 : <text>瑜伽念珠經</text>
+瑜 : <text>金剛頂瑜伽千手千眼觀自在菩薩念誦儀</text>
+瑜 : <text>金剛頂勝初瑜伽普賢菩薩念誦法</text>
+瑜 : <text>金剛頂瑜伽金剛薩埵五祕修行念誦儀</text>
+瑜 : <text>瑜伽蓮花部念誦法</text>
+瑜 : <text>金剛頂瑜伽護魔儀軌</text>
+瑜 : <text>成就妙法蓮華經王瑜伽儀軌</text>
+瑜 : <text>金剛頂瑜伽金剛薩埵念誦儀</text>
+瑜 : <text>觀自在如意輪瑜伽</text>
+瑜 : <text>瑜伽金剛頂釋字母品</text>
+瑜 : <text>金剛頂瑜伽降三世極三密門</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T54/T54n2131/toc.ncx
+畜 : <text>22 畜生篇</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T55/T55n2145/toc.ncx
+譜 : <text>4 釋迦譜目錄序</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T55/T55n2149/toc.ncx
+作 : <text>6 歷代道俗述作注解錄</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T85/T85n2732/toc.ncx
+靜 : <text>29 威儀寂靜分</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T85/T85n2753/toc.ncx
+兜 : <text>19 昇兜率天宮品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T85/T85n2796/toc.ncx
+畜 : <text>1 畜長過十日戒</text>
+作 : <text>11 乞蠶綿作加沙戒</text>
+作 : <text>14 減六年作三衣戒</text>
+畜 : <text>18 畜寶戒</text>
+畜 : <text>21 畜長鉢戒</text>
+畜 : <text>26 畜七日藥過限戒</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T85/T85n2801/toc.ncx
+瑜 : <text>T2801 瑜伽師地論分門記 (6卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T85/T85n2802/toc.ncx
+瑜 : <text>T2802 瑜伽論手記 (4卷)</text>
+瑜 : <text>得果瑜伽處初</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T85/T85n2880/toc.ncx
+作 : <text>8 除一切眾生修道作佛病品</text>
+
+=============================
+C:/release/epub_unzip_2014/T_old/T85/T85n2896/toc.ncx
+瑜 : <text>T2896 示所犯者瑜伽法鏡經 (1卷)</text>
+瑜 : <text>示所犯者瑜伽法鏡經</text>
+
+=============================
+C:/release/epub_unzip_2014/W01/W01n0005/toc.ncx
+作 : <text>附：文軌的著作及其它</text>
+
+=============================
+C:/release/epub_unzip_2014/W01/W01n0008/toc.ncx
+作 : <text>二、經文與註疏的作者</text>
+
+=============================
+C:/release/epub_unzip_2014/W02/W02n0022/toc.ncx
+瑜 : <text>W0022 《瑜伽師地論》披尋記敘 (1卷)</text>
+瑜 : <text>《瑜伽師地論》披尋記敘</text>
+
+=============================
+C:/release/epub_unzip_2014/W03/W03n0030/toc.ncx
+瑜 : <text>W0030 瑜伽論卷第十四手記 (1卷)</text>
+瑜 : <text>瑜伽論卷第十四手記</text>
+
+=============================
+C:/release/epub_unzip_2014/W04/W04n0037/toc.ncx
+剜 : <text>釋迦因地行孝剜睛出髓為藥</text>
+剜 : <text>釋迦因地剜肉</text>
+
+=============================
+C:/release/epub_unzip_2014/W04/W04n0044/toc.ncx
+作 : <text>第二節　關於T907的出處、成書年代及作者</text>
+
+=============================
+C:/release/epub_unzip_2014/W05/W05n0049/toc.ncx
+瑜 : <text>W0049 瑜伽師地開釋分門記 (1卷)</text>
+瑜 : <text>瑜伽師地開釋分門記</text>
+
+=============================
+C:/release/epub_unzip_2014/W06/W06n0053/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/W07/W07n0060/toc.ncx
+作 : <text>作供、梵歎如常，依慈氏禮聲</text>
+
+=============================
+C:/release/epub_unzip_2014/W07/W07n0066/toc.ncx
+作 : <text>作者附記</text>
+
+=============================
+C:/release/epub_unzip_2014/W09/W09n0073g/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/W09/W09n0073h/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X01/X01n0026/toc.ncx
+靜 : <text>諸國安靜品第六</text>
+
+=============================
+C:/release/epub_unzip_2014/X02/X02n0203/toc.ncx
+作 : <text>X0203 作世水宅心陀羅尼 (1卷)</text>
+作 : <text>作世水宅心陀羅尼</text>
+
+=============================
+C:/release/epub_unzip_2014/X03/X03n0211/toc.ncx
+靜 : <text>於此道場去我不遠夜天名寂靜音第三十五</text>
+
+=============================
+C:/release/epub_unzip_2014/X04/X04n0223/toc.ncx
+兜 : <text>昇兜率天宮品第二十三</text>
+兜 : <text>兜率天宮偈讚品第二十四</text>
+
+=============================
+C:/release/epub_unzip_2014/X04/X04n0225/toc.ncx
+兜 : <text>升兜率天宮品</text>
+兜 : <text>兜率天宮偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/X05/X05n0226/toc.ncx
+兜 : <text>升兜率天宮品第二十三</text>
+兜 : <text>兜率天宮偈讚品第二十四</text>
+
+=============================
+C:/release/epub_unzip_2014/X08/X08n0239/toc.ncx
+兜 : <text>五兜率天宮會</text>
+兜 : <text>二十三昇兜率天宮品 一徧一切</text>
+兜 : <text>二十四兜率天宮偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/X08/X08n0240/toc.ncx
+兜 : <text>第五會兜率天宮</text>
+兜 : <text>昇兜率天宮品第二十三</text>
+兜 : <text>兜率宮中偈讚品第二十四</text>
+
+=============================
+C:/release/epub_unzip_2014/X09/X09n0242/toc.ncx
+兜 : <text>五會兜率天宮</text>
+兜 : <text>昇兜率天宮品</text>
+兜 : <text>兜率宮中偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/X11/X11n0268/toc.ncx
+靜 : <text>二顯性非動靜</text>
+作 : <text>初正作意</text>
+畜 : <text>三畜趣(三)</text>
+兜 : <text>四兜率天</text>
+靜 : <text>二明凡聖動靜(二)</text>
+靜 : <text>初明聖證常靜</text>
+靜 : <text>六貪求靜謐(二)</text>
+
+=============================
+C:/release/epub_unzip_2014/X14/X14n0295/toc.ncx
+畜 : <text>畜生趣</text>
+兜 : <text>兜率陀天</text>
+
+=============================
+C:/release/epub_unzip_2014/X16/X16n0309/toc.ncx
+作 : <text>佩珠作丐親友見傷</text>
+兜 : <text>佛昇兜率 毒龍為障 目連化身大小</text>
+杜 : <text>杜順示偈</text>
+作 : <text>無作戒體</text>
+靜 : <text>智周鑑而常靜二句</text>
+作 : <text>書曰天作孽四句</text>
+
+=============================
+C:/release/epub_unzip_2014/X21/X21n0368/toc.ncx
+作 : <text>顯示自作品</text>
+
+=============================
+C:/release/epub_unzip_2014/X21/X21n0369/toc.ncx
+瑜 : <text>分別瑜伽品第六</text>
+作 : <text>如來成所作事品第八</text>
+
+=============================
+C:/release/epub_unzip_2014/X22/X22n0412/toc.ncx
+作 : <text>先作像觀</text>
+
+=============================
+C:/release/epub_unzip_2014/X24/X24n0451/toc.ncx
+作 : <text>無作品第四十三</text>
+
+=============================
+C:/release/epub_unzip_2014/X24/X24n0459/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X24/X24n0461/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X24/X24n0467/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X24/X24n0468/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X24/X24n0469/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X25/X25n0483/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X25/X25n0485/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X25/X25n0486/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X25/X25n0489/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X25/X25n0490/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X25/X25n0494/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X25/X25n0497/toc.ncx
+靜 : <text>何必靜室</text>
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X25/X25n0498/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X25/X25n0501/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X25/X25n0502/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X25/X25n0504/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X25/X25n0509/toc.ncx
+靜 : <text>何必靜室</text>
+
+=============================
+C:/release/epub_unzip_2014/X25/X25n0510/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X33/X33n0633/toc.ncx
+作 : <text>第五通申作意</text>
+
+=============================
+C:/release/epub_unzip_2014/X37/X37n0674/toc.ncx
+兜兜 : <text>升兜率天宮品兜率宮中偈讚品</text>
+
+=============================
+C:/release/epub_unzip_2014/X38/X38n0678/toc.ncx
+作 : <text>二作禮說布薩偈</text>
+
+=============================
+C:/release/epub_unzip_2014/X38/X38n0692/toc.ncx
+作 : <text>無作</text>
+作 : <text>發無作</text>
+畜 : <text>畜殺眾生具</text>
+作 : <text>無解作師</text>
+作 : <text>為利作師</text>
+
+=============================
+C:/release/epub_unzip_2014/X38/X38n0696/toc.ncx
+作 : <text>三作前方便</text>
+
+=============================
+C:/release/epub_unzip_2014/X39/X39n0707/toc.ncx
+作 : <text>乞蠶綿作袈裟戒第十一</text>
+作 : <text>減六年作三衣戒第十四</text>
+畜 : <text>畜錢寶戒第十八</text>
+畜 : <text>畜長缽過限戒第二十一</text>
+畜 : <text>畜七日藥過限戒第二十六</text>
+畜 : <text>過前受急施衣過後畜戒第二十八</text>
+作 : <text>與非親尼作衣戒第二十五</text>
+畜 : <text>奪畜生命戒第六十一</text>
+兜 : <text>兜羅綿貯牀褥戒八十五</text>
+作 : <text>與佛等量作衣戒第九十</text>
+靜 : <text>靜默戒第二十二</text>
+靜 : <text>靜默坐戒第二十三</text>
+作 : <text>嚼飯作聲戒第四十二</text>
+
+=============================
+C:/release/epub_unzip_2014/X39/X39n0709/toc.ncx
+作 : <text>第十一乞綿作具戒</text>
+作 : <text>第十二黑毛作具戒</text>
+作 : <text>第十三減分作具戒</text>
+作 : <text>第十四減年作具戒</text>
+作 : <text>第十五不貼作具戒</text>
+畜 : <text>第二十一畜長鉢戒</text>
+畜 : <text>第二十二畜鉢求好戒</text>
+畜 : <text>第二十八過時畜急施戒</text>
+作 : <text>第二十五與非親尼作衣戒</text>
+作 : <text>第三十五不作餘食法戒</text>
+畜 : <text>第七十畜被擯沙彌戒</text>
+作 : <text>第八十四作高牀戒</text>
+兜 : <text>第八十五兜羅綿貯褥戒</text>
+作 : <text>第八十六作骨牙鍼筒戒</text>
+作 : <text>第八十七過量作坐具戒</text>
+作 : <text>第八十八過量作覆瘡衣戒</text>
+作 : <text>第八十九過量作雨浴衣戒</text>
+
+=============================
+C:/release/epub_unzip_2014/X40/X40n0724/toc.ncx
+畜 : <text>畜眾篇第九</text>
+
+=============================
+C:/release/epub_unzip_2014/X41/X41n0730/toc.ncx
+作 : <text>X0730 毗尼作持續釋 (15卷)</text>
+
+=============================
+C:/release/epub_unzip_2014/X44/X44n0743/toc.ncx
+畜 : <text>尼乞畜眾章第三十七</text>
+
+=============================
+C:/release/epub_unzip_2014/X45/X45n0767/toc.ncx
+杜 : <text>初祖杜順和尚</text>
+
+=============================
+C:/release/epub_unzip_2014/X46/X46n0791/toc.ncx
+作 : <text>釋無作實相品第四十三</text>
+
+=============================
+C:/release/epub_unzip_2014/X47/X47n0794/toc.ncx
+瑜 : <text>X0794 瑜伽論劫章頌 (1卷)</text>
+瑜 : <text>瑜伽論劫章頌</text>
+
+=============================
+C:/release/epub_unzip_2014/X54/X54n0873/toc.ncx
+作 : <text>作者示名</text>
+
+=============================
+C:/release/epub_unzip_2014/X55/X55n0888/toc.ncx
+作 : <text>論疏作釋</text>
+畜 : <text>神鬼畜義</text>
+
+=============================
+C:/release/epub_unzip_2014/X55/X55n0905/toc.ncx
+作 : <text>二廣作分別</text>
+作 : <text>五明止觀作用</text>
+
+=============================
+C:/release/epub_unzip_2014/X56/X56n0949/toc.ncx
+兜 : <text>錢唐兜率院界相牓序</text>
+作 : <text>夏日薰風亭作</text>
+作 : <text>江上作</text>
+作 : <text>出道場山途中作</text>
+卜 : <text>予近卜居孤山之下友人元敏以四絕見嘲遂依韻和詶</text>
+作 : <text>冬日作</text>
+作 : <text>正月晦日作</text>
+作 : <text>將入石壁山作</text>
+作 : <text>偶作</text>
+杜 : <text>讀杜牧集</text>
+孜 : <text>謝可孜上人惠楞嚴般若二經并治脾藥</text>
+靜 : <text>題靜慮院</text>
+
+=============================
+C:/release/epub_unzip_2014/X57/X57n0951/toc.ncx
+畜 : <text>畜生界</text>
+
+=============================
+C:/release/epub_unzip_2014/X57/X57n0961/toc.ncx
+畜 : <text>請畜生道眾</text>
+
+=============================
+C:/release/epub_unzip_2014/X57/X57n0968/toc.ncx
+作 : <text>大名勝作住</text>
+作 : <text>七散花作梵</text>
+
+=============================
+C:/release/epub_unzip_2014/X57/X57n0970/toc.ncx
+畜 : <text>畜生法界者</text>
+
+=============================
+C:/release/epub_unzip_2014/X57/X57n0972/toc.ncx
+畜 : <text>畜生</text>
+
+=============================
+C:/release/epub_unzip_2014/X57/X57n0975/toc.ncx
+靜 : <text>為有玉靜媛落壙安位法語</text>
+杜 : <text>復杜吏部</text>
+
+=============================
+C:/release/epub_unzip_2014/X58/X58n1013/toc.ncx
+作 : <text>十地作釋</text>
+
+=============================
+C:/release/epub_unzip_2014/X58/X58n1015/toc.ncx
+兜 : <text>昇兜率天宮品第二十三讚曰</text>
+兜 : <text>兜率宮中偈讚品第二十四讚曰</text>
+靜 : <text>寂靜音海主夜神讚</text>
+靜 : <text>最寂靜婆羅門讚</text>
+杜 : <text>杜師之慧化乎伏惟</text>
+
+=============================
+C:/release/epub_unzip_2014/X58/X58n1026/toc.ncx
+作 : <text>小教(此教斷證如木作灰如色歸空)</text>
+
+=============================
+C:/release/epub_unzip_2014/X59/X59n1043/toc.ncx
+畜 : <text>畜道天破星</text>
+畜 : <text>畜道天刃星</text>
+
+=============================
+C:/release/epub_unzip_2014/X59/X59n1080/toc.ncx
+瑜 : <text>X1080 瑜伽集要施食儀軌 (1卷)</text>
+瑜 : <text>瑜伽集要施食儀軌</text>
+瑜 : <text>No. 1080-B 瑜伽集要施食儀軌序</text>
+
+=============================
+C:/release/epub_unzip_2014/X59/X59n1081/toc.ncx
+瑜 : <text>X1081 修設瑜伽集要施食壇儀 (1卷)</text>
+瑜 : <text>修設瑜伽集要施食壇儀</text>
+瑜 : <text>瑜伽施食儀註</text>
+
+=============================
+C:/release/epub_unzip_2014/X59/X59n1083/toc.ncx
+瑜 : <text>X1083 修習瑜伽集要施食壇儀 (2卷)</text>
+瑜 : <text>No. 1083-B 重刊瑜伽焰口跋</text>
+
+=============================
+C:/release/epub_unzip_2014/X59/X59n1084/toc.ncx
+瑜 : <text>X1084 瑜伽燄口註集纂要儀軌 (2卷)</text>
+瑜 : <text>No. 1084-1 瑜伽燄口儀軌六則</text>
+瑜 : <text>瑜伽密教</text>
+
+=============================
+C:/release/epub_unzip_2014/X59/X59n1095/toc.ncx
+作 : <text>題目　作者　篇目</text>
+
+=============================
+C:/release/epub_unzip_2014/X59/X59n1096/toc.ncx
+作 : <text>上本題目　作者　前文　篇目</text>
+停 : <text>五停篇第三</text>
+
+=============================
+C:/release/epub_unzip_2014/X59/X59n1097/toc.ncx
+作 : <text>題目　作者　前文　篇目</text>
+
+=============================
+C:/release/epub_unzip_2014/X59/X59n1103/toc.ncx
+作 : <text>十重作縵刺縫</text>
+
+=============================
+C:/release/epub_unzip_2014/X59/X59n1104/toc.ncx
+作 : <text>二集僧作梵</text>
+
+=============================
+C:/release/epub_unzip_2014/X59/X59n1109/toc.ncx
+作 : <text>止作難明</text>
+
+=============================
+C:/release/epub_unzip_2014/X60/X60n1110/toc.ncx
+作 : <text>鈔明比丘四儀作觀</text>
+停 : <text>大小賢聖先修五停</text>
+作作 : <text>通辨作無作</text>
+作 : <text>先依本宗假名出體 作戒體</text>
+作 : <text>無作體</text>
+作 : <text>以作戒立色難</text>
+作作 : <text>次依實法假宗出作無作體</text>
+作 : <text>八種無作</text>
+作 : <text>止作持犯先釋其名</text>
+作 : <text>作持制門亦唯據善</text>
+作 : <text>作持聽門事法局善</text>
+作 : <text>通明止作容皆迷忘</text>
+作 : <text>止作持犯成就處所</text>
+作 : <text>止作二心有通有塞</text>
+
+=============================
+C:/release/epub_unzip_2014/X60/X60n1113/toc.ncx
+作 : <text>廣誦一人 秉白一人 作梵一人 行事四人</text>
+作 : <text>第一作梵</text>
+作 : <text>第一作梵</text>
+遜 : <text>遜　入塔</text>
+
+=============================
+C:/release/epub_unzip_2014/X60/X60n1114/toc.ncx
+作 : <text>文殊菩薩禮佛作觀偈呪云</text>
+
+=============================
+C:/release/epub_unzip_2014/X60/X60n1118/toc.ncx
+作 : <text>執作第十一</text>
+
+=============================
+C:/release/epub_unzip_2014/X60/X60n1120/toc.ncx
+作 : <text>執作第十一</text>
+
+=============================
+C:/release/epub_unzip_2014/X60/X60n1121/toc.ncx
+作 : <text>執作第十一</text>
+
+=============================
+C:/release/epub_unzip_2014/X60/X60n1122/toc.ncx
+作 : <text>執作第十二</text>
+
+=============================
+C:/release/epub_unzip_2014/X60/X60n1123/toc.ncx
+作 : <text>九問離三不作</text>
+作 : <text>十三問能作世事</text>
+畜 : <text>十五畜猫狸</text>
+畜 : <text>十六畜牛羊等</text>
+畜 : <text>十七不儲畜三衣鉢杖</text>
+作 : <text>二十四不聽僧止作</text>
+畜 : <text>十八權畜徒眾</text>
+作 : <text>三十任倩共作</text>
+畜 : <text>第十畜殺眾生具戒</text>
+作 : <text>第十八無解作解戒</text>
+作 : <text>第四十一為利作師戒</text>
+
+=============================
+C:/release/epub_unzip_2014/X60/X60n1135/toc.ncx
+作 : <text>四集僧作辨法</text>
+作 : <text>三作前方便法</text>
+停 : <text>十三白僧停行法</text>
+停 : <text>十四代白停行法</text>
+畜 : <text>先懺畜長離衣二捨墮(十六法)</text>
+作 : <text>六集僧作辨法</text>
+作 : <text>初除故作法</text>
+作 : <text>次除悞作法</text>
+
+=============================
+C:/release/epub_unzip_2014/X61/X61n1154/toc.ncx
+兜 : <text>兜率勝劣</text>
+
+=============================
+C:/release/epub_unzip_2014/X61/X61n1156/toc.ncx
+靜 : <text>靜齋劉學士三教平心論　二三</text>
+
+=============================
+C:/release/epub_unzip_2014/X61/X61n1164/toc.ncx
+作 : <text>是心是佛是心作佛門第十</text>
+瑜 : <text>瑜珈</text>
+卜 : <text>卜</text>
+兜 : <text>二菩薩生兜率天者</text>
+
+=============================
+C:/release/epub_unzip_2014/X61/X61n1165/toc.ncx
+兜 : <text>二菩薩生兜率天</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1170/toc.ncx
+作 : <text>勸修作福念佛圖說</text>
+作 : <text>人天路上作福為先　生死海中念佛第一</text>
+作作 : <text>作福　但作一福福下一點不論大小多寡</text>
+作 : <text>原作</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1172/toc.ncx
+兜 : <text>勸兜率不如西方不可不修</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1173/toc.ncx
+作 : <text>作觀見佛</text>
+作 : <text>不可甘心作鬼</text>
+靜 : <text>溫靜文妻</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1176/toc.ncx
+靜 : <text>溫靜文妻</text>
+畜 : <text>畜生往生類</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1177/toc.ncx
+兜 : <text>丞相張商英居士(嗣兜率悅禪師)</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1179/toc.ncx
+靜 : <text>與茅靜遠居士書</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1181/toc.ncx
+兜 : <text>華嚴經兜率偈讚品</text>
+靜 : <text>與茅靜遠居士書</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1185/toc.ncx
+作 : <text>自作</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1188/toc.ncx
+作 : <text>愧多貪恚願遲作師</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1192/toc.ncx
+作 : <text>作得主</text>
+靜 : <text>靜做動鍊</text>
+作 : <text>回嗔作喜</text>
+靜 : <text>靜之至</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1196/toc.ncx
+作 : <text>作佛釋疑</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1201/toc.ncx
+作 : <text>不可甘心作鬼</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1205/toc.ncx
+靜 : <text>靜坐箴</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1206/toc.ncx
+靜 : <text>靜細持名</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1207/toc.ncx
+作 : <text>頌是心作佛</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1209/toc.ncx
+作 : <text>偶作</text>
+作 : <text>擬古為平湖陸孝女作</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1211/toc.ncx
+作 : <text>汪大紳詒余論學詩輙為繼作</text>
+作 : <text>讀王念峯諸作</text>
+靜 : <text>贈天寧寺靜安上人</text>
+杜 : <text>蔣山堂食貧厲志書品甚高頃為子書肇公寶藏論等篇予以杜子美贈李太白語評之兼成一律</text>
+作 : <text>過海會菴酬杲堂見懷之作</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1212/toc.ncx
+靜 : <text>光祿少卿楊馝靜山</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1213/toc.ncx
+靜 : <text>同妹靜山夜話</text>
+作 : <text>和二林主人戊戌春日閉關作十首即次原韻</text>
+
+=============================
+C:/release/epub_unzip_2014/X62/X62n1214/toc.ncx
+作 : <text>原作</text>
+畜 : <text>畜生</text>
+
+=============================
+C:/release/epub_unzip_2014/X63/X63n1226/toc.ncx
+作 : <text>不關聲律不達理道好作歌頌第九</text>
+
+=============================
+C:/release/epub_unzip_2014/X63/X63n1244/toc.ncx
+停 : <text>停棺</text>
+
+=============================
+C:/release/epub_unzip_2014/X63/X63n1250/toc.ncx
+遜 : <text>遜 頭首寮舍交割什物</text>
+
+=============================
+C:/release/epub_unzip_2014/X63/X63n1252/toc.ncx
+作 : <text>妻為夫作商不歸立愿</text>
+作 : <text>中元普度疏為顧兵憲作</text>
+
+=============================
+C:/release/epub_unzip_2014/X64/X64n1261/toc.ncx
+作 : <text>偶作</text>
+作 : <text>No. 1261-B 睦菴卿上人作祖庭事苑</text>
+
+=============================
+C:/release/epub_unzip_2014/X65/X65n1277/toc.ncx
+停 : <text>停喪新葬</text>
+畜 : <text>保畜</text>
+
+=============================
+C:/release/epub_unzip_2014/X65/X65n1278/toc.ncx
+卜 : <text>卜士</text>
+作作 : <text>答嵩禪師(因嵩師戲作悼詩寄之師作此偈畢擲筆而逝)</text>
+作 : <text>天童侍者在靈隱作侍者死</text>
+作 : <text>觸衣碎甚作</text>
+作 : <text>偶作</text>
+作 : <text>軍中作</text>
+作 : <text>葉內翰選日集賓迎優禮作偈辭之</text>
+
+=============================
+C:/release/epub_unzip_2014/X65/X65n1282/toc.ncx
+停 : <text>洞宗三滲漏(滲不停水漏不盛物故名滲漏)</text>
+作 : <text>前五識轉成所作智　第六意識轉妙觀察智</text>
+
+=============================
+C:/release/epub_unzip_2014/X66/X66n1296/toc.ncx
+靜 : <text>京兆華嚴休靜禪師</text>
+靜 : <text>郢州興陽歸靜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X66/X66n1297/toc.ncx
+杜 : <text>萬年杜順</text>
+靜 : <text>郢州興陽歸靜禪師</text>
+兜 : <text>隆興府兜率從悅禪師</text>
+靜 : <text>京兆華嚴寺休靜禪師</text>
+靜 : <text>京兆府永安院善靜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X66/X66n1298/toc.ncx
+靜 : <text>天台大靜禪師坐禪銘</text>
+靜 : <text>靜亂不二</text>
+
+=============================
+C:/release/epub_unzip_2014/X67/X67n1299/toc.ncx
+卜 : <text>問疾　醫卜　藥餌　遷化　追忌</text>
+卜 : <text>醫卜</text>
+
+=============================
+C:/release/epub_unzip_2014/X67/X67n1301/toc.ncx
+作 : <text>第十七則德山作麼</text>
+
+=============================
+C:/release/epub_unzip_2014/X67/X67n1304/toc.ncx
+作 : <text>第八十六則　雲光作牛(牛鹿)</text>
+
+=============================
+C:/release/epub_unzip_2014/X68/X68n1315/toc.ncx
+作 : <text>偶作三頌</text>
+杜 : <text>注杜順和尚頌</text>
+作 : <text>附趙王與師作真贊</text>
+作 : <text>擬雲送信禪者作丐</text>
+作 : <text>偶作</text>
+作 : <text>僧見師舉話略有揀辨乃問如何得似和尚去師云闍黎受屈作麼</text>
+作 : <text>師在眾時與汾陽昭和尚共作拄杖頌</text>
+靜 : <text>動靜常一</text>
+靜 : <text>山中閴寂爐邊靜坐因思四十年人間世外林泉之樂與夫區區世上者何遼遠也諦思究極于至道遂成山偈聊以自勉并示諸禪人使勿如老夫之回頭晚也</text>
+作 : <text>山中偶作三首</text>
+作 : <text>師常以六隻骰子示禪人六面皆六點復作三頌</text>
+作 : <text>龍門偶作五首</text>
+作 : <text>遊定明塔院作二頌</text>
+作 : <text>百丈歸與同事坐次忽然哭事問曰憶父母耶丈云無事曰被人罵耶丈云無事曰哭作什麼丈云問取和尚事往問大師大師曰你去問取他事回至寮中見百丈呵呵大笑事曰適來為什麼哭而今為什麼却笑丈曰適來哭而今笑同事惘然</text>
+作作 : <text>百丈一日問黃蘗何處去來蘗曰大雄山下採菌子來丈曰還見大蟲麼蘗便作虎聲丈便抽斧作斫勢蘗約住便與一掌丈便休至晚上堂謂眾曰大雄山下有一虎汝等諸人好看老漢今日親遭一口</text>
+作 : <text>百丈問黃蘗甚處來蘗云開田來丈云辛苦不易蘗云隨眾作務丈云有勞道用蘗云爭敢辭勞丈云開得多少田蘗遂钁地數下丈便喝蘗掩耳而去</text>
+作作 : <text>南泉示眾云馬大師道即心即佛又云非心非佛老僧却不恁麼不是心不是佛不是物恁麼道還有過也無趙州出禮拜歸眾僧問趙州適來禮拜歸眾意作麼生州云却問取和尚僧上問南泉適來諗上座意作麼生泉云他却領得老僧意旨</text>
+作 : <text>金牛和尚每至齋時自將飯於僧堂前作舞呵呵大笑云菩薩子喫飯來</text>
+作 : <text>大眾遂曰如某等久在和尚左右不蒙示誨適來竈神說何法便得解脫師曰我也別無道理祇向伊道元是一堆泥土合成靈從何來聖從何起你等諸人何不禮拜眾遂作禮師云破也墮也大眾一時悟入</text>
+作 : <text>司馬頭陀問溈山百丈野狐話你作麼生會溈山以手撼門扇三下司馬云太麤生溈山云佛法說甚麤細</text>
+作 : <text>五祖老和尚凡見僧來便云屈屈僧云屈作什麼師云如今不屈更待何時</text>
+作 : <text>又每見僧來展手問云何故喚作手</text>
+作 : <text>南泉齋次自將生盤去首座前云出生杉山時為首座云無生泉云無生猶是未便過杉山乃召長老長老泉回首云作麼杉云莫道是未頌</text>
+作 : <text>退居寄承天偶作(五首)</text>
+作 : <text>師室中問僧如何是無文字一句僧無語僧却問如何是無文字一句師云廬陵米作麼價又云面前是屏風</text>
+作 : <text>送和禪者南雄作丐</text>
+作 : <text>送琪道者作丐</text>
+作 : <text>靖安令程節推一日遊山以諸堂寮舊名猥冗各隨事易之揭為熏修．精進．廓然．證宗．性空．實際．不二．了義．法忍．妙用．和集．雲鶴老拙乃一一頌之又作通人偈共十三首寄呈</text>
+作 : <text>春秋皆有蘭復作偈以原之</text>
+作 : <text>送全禪者廣南作丐</text>
+靜 : <text>留題天水居士靜宴閣</text>
+作 : <text>與會勝禪老同坐夏瑯琊至秋作偈相別以敘一時之事</text>
+
+=============================
+C:/release/epub_unzip_2014/X68/X68n1318/toc.ncx
+兜 : <text>兜率悅禪師語　嗣真淨</text>
+作 : <text>僧問南嶽柔和尚西天臘人為驗此土以何為驗柔云新羅人草鞋　喚作竹篦則觸</text>
+兜 : <text>世尊未離兜率已降王宮</text>
+
+=============================
+C:/release/epub_unzip_2014/X68/X68n1319/toc.ncx
+靜 : <text>靜夜思</text>
+靜 : <text>厭喧求靜</text>
+靜 : <text>靜之益</text>
+畜 : <text>僧畜僮僕</text>
+靜 : <text>青原靜居行思禪師</text>
+作 : <text>白雲智作禪師</text>
+湜 : <text>廬山棲賢澄湜禪師</text>
+兜 : <text>兜率從悅禪師</text>
+靜 : <text>大隨南堂元靜禪師</text>
+靜 : <text>護聖居靜禪師</text>
+靜 : <text>動靜詠</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1333/toc.ncx
+譜 : <text>No. 1333-E 雪峰真覺大師年譜</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1335/toc.ncx
+靜 : <text>第十三章明寂靜無照無得</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1338/toc.ncx
+作 : <text>入京舟中作</text>
+杜 : <text>注杜順和尚法身頌</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1342/toc.ncx
+作 : <text>七月四日晝夢雲菴和尚教誨久之而覺作此示超然</text>
+作 : <text>雲菴塔有雙桐作此寄因姪</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1343/toc.ncx
+作 : <text>月下偶作</text>
+杜 : <text>和積翠和尚頌寄公晦禪師(時公晦同杜使舟行至長沙越城入岳)</text>
+作 : <text>和酬張著作居士勸世頌見寄</text>
+作作 : <text>師每在室中以拳示人曰若作拳見即觸不作拳見即背上座如何見僧請問師以此為答</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1344/toc.ncx
+作 : <text>送禪人作丐</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1346/toc.ncx
+作 : <text>圓悟禪師入滅說偈燒香(時在疎山作)</text>
+作 : <text>南華利侍者持昺和尚語至疎山請校入版乃作偈送之謁序于徐大資(師川)</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1347/toc.ncx
+作 : <text>師自作真贊</text>
+作 : <text>山中偶作五首</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1352/toc.ncx
+作 : <text>偶作</text>
+作 : <text>初住白雲作</text>
+靜 : <text>寄凌靜微祕校</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1353/toc.ncx
+作卜 : <text>因僧舉玄覺問僧林間是什麼聲僧云鵓鳩聲覺云欲得不招無間業莫謗如來正法輪師乃問僧你作麼生會僧云亙古亙今師曰不易卜度頌</text>
+作 : <text>辯禪人五羊作丐寫　師真求贊</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1354/toc.ncx
+作作 : <text>趙州夾火示眾云我喚作火汝不得喚作火</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1355/toc.ncx
+作 : <text>師在南高峰石室中出定作</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1356/toc.ncx
+譜 : <text>年譜</text>
+作 : <text>彭心齋諱逢源自作頌呈師師於一句下加三句</text>
+作 : <text>洪鍾歌(因李昭文施財鑄鐘作)</text>
+作 : <text>師覩弟子作頌題窓乃續韻警之</text>
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1357/toc.ncx
+靜 : <text>示報寧靜長老</text>
+靜 : <text>示鼎州德山靜長老</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1360/toc.ncx
+籜 : <text>送能首座住紫籜</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1362/toc.ncx
+作 : <text>右朝散郎試將作監李(端民)</text>
+作 : <text>雙槐居士鄭績隆興改元十月九日致薄祭于大慧普覺禪師塔前遂作五偈以道追慕之情</text>
+杜 : <text>無相居士畫杜少陵像求讚</text>
+作 : <text>又作僧像求讚</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1366/toc.ncx
+靜 : <text>遠法師陸脩靜</text>
+作 : <text>山隱居士(作圓頂方袍相)</text>
+
+=============================
+C:/release/epub_unzip_2014/X69/X69n1367/toc.ncx
+靜 : <text>徑山佛智先師為靜隱菴主贊</text>
+靜 : <text>黃龍靜山和尚像</text>
+靜 : <text>月藏主由隱靜歸番易</text>
+作 : <text>栢庭茂公甞掌記鍾山請居龍河分座叢林推其老成邵菴學士作偈美之次韻奉贈</text>
+
+=============================
+C:/release/epub_unzip_2014/X70/X70n1377/toc.ncx
+孜 : <text>孜侍者行乞</text>
+
+=============================
+C:/release/epub_unzip_2014/X70/X70n1382/toc.ncx
+瑜 : <text>示瑜上人</text>
+停 : <text>巖頭起滅不停</text>
+作 : <text>僧問古德如何是和尚深深密密處古德下禪牀作女人拜云謝子遠來無可祗待</text>
+
+=============================
+C:/release/epub_unzip_2014/X70/X70n1384/toc.ncx
+靜 : <text>示靜侍者</text>
+靜 : <text>靜庵頌軸後</text>
+
+=============================
+C:/release/epub_unzip_2014/X70/X70n1385/toc.ncx
+作 : <text>庚寅秋先師絕岸和尚示寂於杭之岑山聞訃有作</text>
+卜 : <text>文武醫卜</text>
+杜 : <text>杜甫</text>
+煜 : <text>興福煜長老請讚</text>
+
+=============================
+C:/release/epub_unzip_2014/X70/X70n1386/toc.ncx
+作 : <text>送圭士庵歸蜀(在淨慈作首座)</text>
+
+=============================
+C:/release/epub_unzip_2014/X70/X70n1390/toc.ncx
+籜 : <text>寄紫籜茶與虎丘石溪</text>
+杜 : <text>杜甫騎驢遊春□</text>
+卜 : <text>和曹泰寓省元瀟湘八景(卜筭子)</text>
+作作 : <text>天台三隱(寒山執卷笑拾得腰挂門鈎一手帚一手竪指作講說勢豐干立後作扣齒勢)</text>
+作 : <text>為昌州月上人贊布袋　(作嚏勢)</text>
+作 : <text>豐干(坐樹下舉指作說話勢閭丘相對而笑虎在邊睡)　寒拾(握苕帚指月笑語)</text>
+作 : <text>天台三聖圖(寒山兩手執卷拾得一手握幕一手指點相顧作商量勢豐干倚杖立其傍)</text>
+
+=============================
+C:/release/epub_unzip_2014/X70/X70n1391/toc.ncx
+作 : <text>寓北山小閣因事偶作</text>
+作 : <text>寒拾(作一團眠地有苕帚)</text>
+作 : <text>朝陽穿破衲(破衲橫肩作穿針勢)</text>
+靜 : <text>靜上人下火</text>
+
+=============================
+C:/release/epub_unzip_2014/X70/X70n1392/toc.ncx
+作 : <text>浙中象外諸友寄新作</text>
+遜 : <text>送遜禪人</text>
+靜 : <text>隱靜空巖長老請讚</text>
+
+=============================
+C:/release/epub_unzip_2014/X70/X70n1393/toc.ncx
+籜 : <text>送慍藏主參紫籜竺元和尚</text>
+
+=============================
+C:/release/epub_unzip_2014/X70/X70n1397/toc.ncx
+靜 : <text>靜山序(并偈)</text>
+
+=============================
+C:/release/epub_unzip_2014/X70/X70n1399/toc.ncx
+作 : <text>偶作</text>
+
+=============================
+C:/release/epub_unzip_2014/X70/X70n1402/toc.ncx
+靜 : <text>贈靜居士</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1408/toc.ncx
+靜 : <text>靜上人之京師序</text>
+作作 : <text>李知州郭教授石縣尹作畫作字于庫院索題</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1409/toc.ncx
+籜 : <text>紫籜古田和尚</text>
+作 : <text>辨作家</text>
+作 : <text>賀友竹改牧石寮作蒙堂</text>
+靜 : <text>贈雪峯仁靜菴歸閩</text>
+作 : <text>梅嶺南作無盡燈</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1411/toc.ncx
+作 : <text>道藏主號物外因作此偈</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1412/toc.ncx
+靜 : <text>送靜侍者省師</text>
+作 : <text>辨作家</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1413/toc.ncx
+作 : <text>寧一川病作以寄之</text>
+靜 : <text>袁叔英號靜處求</text>
+靜 : <text>寄頂山闌靜長老二首</text>
+杜 : <text>聞杜鵑偶成</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1414/toc.ncx
+兜 : <text>未離兜率已降王宮</text>
+兜 : <text>僧問趙州晝昇兜率夜降閻浮為甚摩尼珠不現</text>
+作 : <text>有異比丘以金剛經寫成釋迦佛像高不五寸廣則半之可視不可讀為作贊曰</text>
+作 : <text>華亭陸子才書華嚴經三部善住玉岡作偈美之寶林別峯仲寬潘公輩十人咸和之玉岡索予次韻</text>
+作 : <text>前江心無言作偈送暢藏主來靈岩無際仲謀和之會余已謝事因次韻以贈</text>
+作 : <text>半山古原作嚥居牓曰信菴因璉藏主來徵偈</text>
+靜 : <text>靜趣軒</text>
+靜 : <text>送靜維那歸越上</text>
+靜 : <text>送靜上人歸雲門</text>
+作 : <text>覺首座送松月翁遺硯至作偈贈之</text>
+煜 : <text>示煜藏主</text>
+作 : <text>陸放翁所作海淨大師塔銘</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1416/toc.ncx
+兜 : <text>未離兜率已降王宮</text>
+作 : <text>楊歧問僧栗棘蓬作麼生吞</text>
+靜 : <text>簡首座靜元字銘</text>
+作 : <text>光明室為二靈天淵和尚作</text>
+作 : <text>樵雲歌為彥希聖作</text>
+作 : <text>無言歌為真如本長老作</text>
+作 : <text>托鉢歌為元恕和尚作</text>
+作 : <text>息游室為振上人作</text>
+作 : <text>幻居為金鵞笑庵誾長老作</text>
+作 : <text>郁西堂號文海松月翁為作歌余因次其韻</text>
+作 : <text>一笑軒為宗旨南作</text>
+作 : <text>心源為究首座作</text>
+靜 : <text>謝靜中過訪</text>
+作 : <text>朽庵為道場竺芳和尚作</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1417/toc.ncx
+籜 : <text>台州路紫籜山廣度禪寺語錄</text>
+靜 : <text>小師集福思靜長老請</text>
+靜 : <text>贈靜知客</text>
+作 : <text>國清索天封竹作水筧</text>
+作 : <text>析舊作成四章示淡維那</text>
+作 : <text>淨慈壽首座日本人持危宋二學士所作南堂和尚行道記語錄序見示書此以贈</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1418/toc.ncx
+作 : <text>臥雲軒為前水西大機禪師作</text>
+作 : <text>雲海歌為慈藏主作</text>
+作 : <text>古韶為塤侍者作</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1419/toc.ncx
+靜 : <text>靜軒</text>
+作 : <text>題舊作詩後</text>
+作 : <text>題藏叟所作偃谿茶湯榜遺藁</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1420/toc.ncx
+靜 : <text>寄尼孫靜山主</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1421/toc.ncx
+作 : <text>趙州問南泉知有底人向什麼處去泉云山前檀越家作一頭水牯牛去州云謝師答話泉云昨夜三更月到窻</text>
+作 : <text>興化上堂云今日不用如何若何便請單刀直入興化與你證據時有旻德長老出眾禮拜起來便喝化亦喝德又喝化又喝德禮拜歸眾化云適來若是別人三十棒一棒也較不得何故為他旻德會一喝不作一喝用</text>
+作 : <text>雲門大師云聞聲悟道見色明心作麼生是聞聲悟道見色明心乃云觀音菩薩將錢買胡餅放下手云元來却是饅頭</text>
+作 : <text>次韻奉答張蛻軒承旨求作師祖善權和尚塔銘</text>
+遜 : <text>陸遜齋書華嚴經</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1422/toc.ncx
+兜 : <text>世尊未離兜率已降王宮</text>
+作 : <text>行化途中偶作</text>
+靜 : <text>心鏡贈蔡妙靜</text>
+靜 : <text>靜山</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1425/toc.ncx
+靜 : <text>送靜上人</text>
+靜 : <text>靜上人病以偈貽之</text>
+作 : <text>送止維那作丐</text>
+
+=============================
+C:/release/epub_unzip_2014/X71/X71n1426/toc.ncx
+靜 : <text>不識玄旨　　徒勞念靜</text>
+作 : <text>契心平等　　所作俱息</text>
+
+=============================
+C:/release/epub_unzip_2014/X72/X72n1431/toc.ncx
+杜 : <text>悼清藏主(曾燒六指聞杜鵑有省)</text>
+作 : <text>覺菴和尚室中舉行脚明什麼邊事進云明一色邊事菴示竹篦云者個是什麼進云竹篦菴擒住痛打一頓因思前事為作一偈</text>
+作 : <text>靈隱虗舟和尚曾中三夏每室中舉不是心不是佛不是物之語三年不易是時如隔羅縠看月不敢下語後移單淨慈常提此語忽蹉口自云恁麼說話墮三惡道惜不復見者老和尚今作一偈記諸</text>
+作 : <text>雪竇石門和尚會中一日晨粥赴堂坐久恍惚中有人曰室中有語憑誰舉琴上無絃不必彈驚覺行粥至面前粥罷打鼓入室室中舉舉一不得舉二進云室中有語憑誰舉門云更有一句在進云琴上無絃不必彈門云去人不知者謂吾實答此話却是不知是寐語當時不曾說破今作一偈</text>
+杜 : <text>聞杜鵑</text>
+晜 : <text>寄象山萬松檢察諸晜季</text>
+作 : <text>岫家居昌國南海上安期先生煉丹之地鄉曰安期憶十歲時父攜至于家山囑之曰吾死當葬此地南水上時正朝此處可以蔭汝父死日奉遺言而葬焉家廢後岫出家從釋為僧來多病多難幸不致死今已六十二歲雖學佛無所知粗明善惡因果不墮凡愚數中實父遺言所及今作一偈以代墓誌云</text>
+
+=============================
+C:/release/epub_unzip_2014/X72/X72n1432/toc.ncx
+作 : <text>作務</text>
+作 : <text>來首座初字本然師為作頌</text>
+作 : <text>皮囊歌(寓河南公署作)</text>
+
+=============================
+C:/release/epub_unzip_2014/X72/X72n1433/toc.ncx
+靜 : <text>芝城會張存三柯賓明二居士於靜觀堂</text>
+
+=============================
+C:/release/epub_unzip_2014/X72/X72n1434/toc.ncx
+靜 : <text>示大力禪人字靜隱</text>
+
+=============================
+C:/release/epub_unzip_2014/X72/X72n1435/toc.ncx
+靜 : <text>示靜休禪人塟母</text>
+靜 : <text>示棲壑靜主之浙</text>
+靜 : <text>示劉爾靜居士</text>
+
+=============================
+C:/release/epub_unzip_2014/X72/X72n1437/toc.ncx
+靜 : <text>為馬頭山了喻靜主舉火</text>
+靜 : <text>送秀生靜主入塔</text>
+遜 : <text>楊惟遜主政詩集序</text>
+靜 : <text>獨詣師造靜室疏</text>
+靜 : <text>北山靜室化米疏</text>
+靜 : <text>龍潭靜室化田疏</text>
+湜 : <text>棲賢澄湜禪師傳贊</text>
+杜 : <text>杜順和尚</text>
+瑜 : <text>瑜伽諸祖</text>
+作 : <text>客問山居何所作為占偈答之</text>
+作 : <text>庚午夏余病甚篤沈道礎居士來山為作四偈</text>
+靜 : <text>題古拙上人靜室</text>
+作 : <text>孟春三日偶作</text>
+
+=============================
+C:/release/epub_unzip_2014/X72/X72n1438/toc.ncx
+作 : <text>偶病躬自煎藥作藥病相治偈以自警</text>
+作 : <text>曹山祖塔被僧竊發見全身骨石具焉其首骨大如斗齒白如玉身長約九尺計驚而復掩之壽昌竺公聞其事往啟壙視之果如所傳遂謀重造塔乃作偈以紀其事用浪和尚韻</text>
+作 : <text>送子觀音贊(為周美撕居士作)</text>
+作 : <text>又(為魏俊土居士作)</text>
+
+=============================
+C:/release/epub_unzip_2014/X72/X72n1439/toc.ncx
+靜 : <text>明一靜主傳</text>
+靜 : <text>次韻答陳靜機居士</text>
+靜 : <text>送思聖靜主還舊隱</text>
+靜 : <text>送達際靜主還紫雲修甘露戒壇并柬寺中諸耆德</text>
+靜 : <text>輓溫陵黃靜谷文宗</text>
+作 : <text>鄉鄰有盜葬下院主龍者既鳴 官遷去仍作詩鐫石上以誡後來之覬覦者</text>
+靜 : <text>壽桑蓮玄文靜主(文業楞嚴)</text>
+靜 : <text>為明一靜主火</text>
+
+=============================
+C:/release/epub_unzip_2014/X72/X72n1440/toc.ncx
+靜 : <text>靜夜鐘聲</text>
+作 : <text>臧喟亭中翰入山見訪劇談淨土作此似之</text>
+靜 : <text>壽郁文靜主華甲初度</text>
+靜 : <text>惟靜和尚贊</text>
+靜 : <text>惟靜禪師遺語序</text>
+
+=============================
+C:/release/epub_unzip_2014/X72/X72n1442/toc.ncx
+作 : <text>禮作祖禪師塔</text>
+作 : <text>祖意(提綱云我本來茲土傳法救迷情且道法作麼生傳莫謗祖師好)</text>
+作 : <text>玄機(提綱云離生正位云何有機理量二智就位轉位立玄機之名不涉功勳一句作麼生看取下面註脚)</text>
+作 : <text>轉位(提綱云無為無事人猶是金鎖難轉身一句作麼生)</text>
+作 : <text>回機(提綱云不居正位不住偏方底人且道作麼生行履)</text>
+作 : <text>自然觀音贊(為黃鰲載居士作)</text>
+作 : <text>謝石公茂才書經作佛像其字畫細如毛髮精心玅手不可思議(某)敬為之贊</text>
+作作作 : <text>催耕(春分屆令此鳥即鳴作好哥哥聲催人東作之意甚切作好哥哥)</text>
+杜作作 : <text>杜宇(清明屆令此鳥即鳴作歸去好聲喚人歸去之意甚切作歸去好)</text>
+靜 : <text>百丈靜室四景詩</text>
+靜 : <text>己未春重遊百丈靜室</text>
+作 : <text>熊子偉居士書華嚴經疏論纂要竟作此贈之</text>
+
+=============================
+C:/release/epub_unzip_2014/X72/X72n1443/toc.ncx
+兜 : <text>未離兜率已降王宮未出母胎度人已畢</text>
+作 : <text>偶作</text>
+
+=============================
+C:/release/epub_unzip_2014/X72/X72n1444/toc.ncx
+作作 : <text>罽賓國王斬尊者首因緣雪竇著語云作家君王天然猶在黃龍新和尚云既是作家君王因甚臂落大慧和尚云孟八郎漢又恁麼去也</text>
+作 : <text>師示眾云天童和尚頌臺山婆子可謂只解推倒不會扶起乃作三頌</text>
+靜 : <text>靜峰初禪師</text>
+卜 : <text>梁湖卜士記</text>
+
+=============================
+C:/release/epub_unzip_2014/X73/X73n1448/toc.ncx
+作 : <text>師住持二十三年徐龍圖作師真贊</text>
+
+=============================
+C:/release/epub_unzip_2014/X73/X73n1449/toc.ncx
+畜 : <text>師一日詣章公府相公留齋下羊肉饅頭與師喫了相公言賺師云我向道好喫那個畜生撞著我遂留一偈云</text>
+作 : <text>師在京師慧林院見圓照禪師圓照出迓曰村裏師子兒便作師子勢應聲成偈曰</text>
+作 : <text>師觀浮生富貴貧賤皆屬幻空而人不悟遂作十空警世</text>
+靜 : <text>題明靜軒</text>
+
+=============================
+C:/release/epub_unzip_2014/X73/X73n1450/toc.ncx
+遜 : <text>寄福州遜長老</text>
+
+=============================
+C:/release/epub_unzip_2014/X73/X73n1451/toc.ncx
+遜 : <text>佛陀遜禪師</text>
+作 : <text>余結茆西山終日無事因作洞庭十二偈以彰眾生日用不知之道趙州云時人被十二時使老僧使得十二時斯言最切人莫曉焉</text>
+作 : <text>示小師行脚前輩打包意在省緣無冗細無玩好如德山挾複子到大溈是也今人打包即不恁麼鉢盂以梅花衲作袋祠部用古蜀錦為囊淨瓶交枕總要光鮮拄杖戒刀莫非濟楚笠頂上閑文潑字須及數斤線貼裏韈樣針筒將看一擔只要別人道好忘却自己辛勤若是脫洒衲僧必不如是草草地挈箇包子卓卓地做箇道人直似野鶴孤雲切忌無繩自縛汝等更聽一偈</text>
+作 : <text>章學士避地毛公山號隱泉居士因相約作廬山飰携偈赴之</text>
+
+=============================
+C:/release/epub_unzip_2014/X73/X73n1452/toc.ncx
+卜 : <text>方山李長者像前自卜出處疏</text>
+停 : <text>豆佛禪師停龕偈</text>
+靜 : <text>動靜說</text>
+作 : <text>寄聚光洞微作時文說</text>
+靜 : <text>龍潭靜室</text>
+靜 : <text>潭柘山一音堂寄懷靜光滑居士</text>
+靜 : <text>題骨香菴隆公靜室畫梅</text>
+靜 : <text>過龍門靜室</text>
+作 : <text>梵川偶作</text>
+靜 : <text>金輪靜室即事</text>
+靜 : <text>仲夏同諸法侶禮多寶寺五百羅漢適有禪人跪讀法華經於像前靜而聽之若流泉寒瀉聲聲入耳靈臺澄徹樂而賦此</text>
+作 : <text>詠開先寺瀑布遺仲堅行脚作探竿影草</text>
+遜 : <text>唐奉常凝菴見訪次及楞嚴予喝之以為禪者多不遜不揖而去賦此嘲之</text>
+靜 : <text>贈正菴靜主誦蓮華經</text>
+靜 : <text>贈靜淵秀公</text>
+啜 : <text>龍泉寺啜茶</text>
+靜 : <text>題用師靜室龍供泉</text>
+靜 : <text>謝太初靜主惠楞嚴集註</text>
+作 : <text>白衲歌為馮開之作</text>
+靜 : <text>送靜菴知客之燕京造佛像歌(有引)</text>
+靜 : <text>靜樂縣萬花山清涼寺歌</text>
+作 : <text>登天目徑山作</text>
+兜 : <text>山居歌遺兜率寺隆禪人</text>
+啜 : <text>石門多勝閣啜茗問月歌</text>
+
+=============================
+C:/release/epub_unzip_2014/X73/X73n1453/toc.ncx
+作 : <text>比丘觀音像贊四首為南海諸禪上人作</text>
+
+=============================
+C:/release/epub_unzip_2014/X73/X73n1456/toc.ncx
+畜 : <text>示凝畜通禪人</text>
+杜 : <text>示杜生</text>
+靜 : <text>與靜修上人</text>
+靜 : <text>與靜堂師</text>
+靜 : <text>與汪靜峰司馬</text>
+瑜 : <text>刻瑜伽佛事儀範序</text>
+作 : <text>贈無盡上人授僧錄覺義住持平陽淨土禪院序(圜中作)</text>
+作 : <text>題瑞之麟禪人刺血書華嚴經後(在圜中作)</text>
+作 : <text>一右手擎金剛塔左手豎掌如作觀想</text>
+作 : <text>八九老前行扶仗童子少持香相隨作供旁有鬼若歸依狀</text>
+作 : <text>十遙空作禮</text>
+作 : <text>七跣坐樹下作嚏解盹</text>
+作 : <text>四果不作是念</text>
+作 : <text>第二水觀觀大水澄清凝氷映徹作琉璃想</text>
+作 : <text>第四樹觀觀琉璃地上作寶樹想</text>
+作 : <text>第六總觀作寶樓閣想</text>
+作 : <text>第十觀音觀作大士形像佛立頂冠想</text>
+作 : <text>第十一勢至觀作端坐手執蓮花想</text>
+作 : <text>第十二普觀作自身往生蓮華開合想</text>
+作 : <text>第十三雜觀作佛大小不定身想</text>
+靜 : <text>靜夜鐘聲</text>
+杜 : <text>示杜言禪人</text>
+靜 : <text>示徑山靜主</text>
+靜 : <text>知止而後有定定而后能靜 一節</text>
+作 : <text>咏懷(園中作)</text>
+作 : <text>癸卯初度自五羊之曹溪舟中作</text>
+杜 : <text>曇花精舍歌贍祇園逸史杜將軍韜英</text>
+遜 : <text>過花藥寺梅雪堂遜菴宗師故居</text>
+靜 : <text>寄仰山靜光禪人</text>
+杜 : <text>寄題杜將軍曇花精舍二首</text>
+杜 : <text>復祖山以杜侵占</text>
+譜 : <text>憨山老人自序年譜實錄</text>
+
+=============================
+C:/release/epub_unzip_2014/X74/X74n1467/toc.ncx
+靜 : <text>溫文靜妻　辭親往生</text>
+
+=============================
+C:/release/epub_unzip_2014/X74/X74n1470/toc.ncx
+杜 : <text>華嚴初祖杜順大師所造三觀偈</text>
+兜 : <text>次法界菩提道場中兜率陀天王眾</text>
+兜 : <text>第五兜率天宮會修因契果生解分</text>
+兜 : <text>升兜率天宮品第二十三</text>
+兜作 : <text>次兜率天宮作供養者一百七部眾</text>
+兜 : <text>兜率宮中偈讚品第二十四</text>
+兜 : <text>次法界兜率證法佛</text>
+兜 : <text>次法界兜率天宮十迴向菩薩</text>
+靜 : <text>第二普德淨光主夜神得寂靜禪定樂普游步解脫法門</text>
+靜 : <text>初寂靜音劫中摩尼光殺內諸佛</text>
+靜 : <text>次寂靜慧劫中金剛寶剎內諸佛</text>
+靜 : <text>次妙勝主劫中寂靜音剎內諸佛</text>
+靜 : <text>第五寂靜音海主夜神知念念出生廣大喜莊嚴解脫法門</text>
+靜 : <text>次寂靜音海夜神得法處佛</text>
+靜 : <text>次寂靜音海主夜神</text>
+靜 : <text>第八最寂靜婆羅門誠願語解脫法門</text>
+作 : <text>四即於法身中所依意樂作事無差別功德</text>
+
+=============================
+C:/release/epub_unzip_2014/X74/X74n1475/toc.ncx
+作 : <text>第四　三　述第三多中作一愆</text>
+畜 : <text>第四　十六偈　述畜生道</text>
+作 : <text>次通所作順人意所言盧是非之疑</text>
+作 : <text>第三　九偈　述生心造作</text>
+靜 : <text>第五　六偈　靜觀</text>
+
+=============================
+C:/release/epub_unzip_2014/X74/X74n1481/toc.ncx
+作 : <text>六作禮</text>
+
+=============================
+C:/release/epub_unzip_2014/X74/X74n1485/toc.ncx
+靜 : <text>第十補發願及端坐靜室稱念名號</text>
+
+=============================
+C:/release/epub_unzip_2014/X74/X74n1488/toc.ncx
+兜 : <text>第十總觀兜率</text>
+兜 : <text>第一降兜率</text>
+
+=============================
+C:/release/epub_unzip_2014/X74/X74n1494/toc.ncx
+靜 : <text>威儀寂靜分第二十九</text>
+
+=============================
+C:/release/epub_unzip_2014/X74/X74n1496/toc.ncx
+畜 : <text>畜生註</text>
+
+=============================
+C:/release/epub_unzip_2014/X75/X75n1511/toc.ncx
+兜 : <text>上託兜率</text>
+作 : <text>地神作證</text>
+
+=============================
+C:/release/epub_unzip_2014/X75/X75n1515/toc.ncx
+靜 : <text>靜菴鎮法師法嗣</text>
+
+=============================
+C:/release/epub_unzip_2014/X77/X77n1522/toc.ncx
+作 : <text>梁無作</text>
+靜 : <text>唐休靜</text>
+靜 : <text>晉善靜</text>
+瑜 : <text>宋僧瑜</text>
+靜 : <text>周普靜</text>
+靜 : <text>唐靜琳</text>
+靜 : <text>周靜藹</text>
+靜 : <text>隋靜端</text>
+靜 : <text>隋靜凝</text>
+靜 : <text>宋慧靜</text>
+靜 : <text>宋慧靜</text>
+靜 : <text>唐靜藏</text>
+瑜 : <text>唐慧瑜</text>
+瑜 : <text>唐世瑜</text>
+靜 : <text>唐靜之</text>
+靜 : <text>唐安靜</text>
+
+=============================
+C:/release/epub_unzip_2014/X77/X77n1524/toc.ncx
+靜靜 : <text>大靜．小靜傳</text>
+靜 : <text>普靜覺傳</text>
+湜 : <text>棲賢湜禪師傳</text>
+孜 : <text>明孜傳</text>
+
+=============================
+C:/release/epub_unzip_2014/X77/X77n1530/toc.ncx
+杜 : <text>初祖杜順和尚</text>
+
+=============================
+C:/release/epub_unzip_2014/X77/X77n1533/toc.ncx
+作 : <text>看經警文(保寧勇禪師作)</text>
+
+=============================
+C:/release/epub_unzip_2014/X77/X77n1534/toc.ncx
+杜 : <text>唐杜順和尚</text>
+
+=============================
+C:/release/epub_unzip_2014/X78/X78n1539/toc.ncx
+靜 : <text>天帝邀經而入藏　靜和宅主</text>
+作 : <text>窰瓦便作蓮花而警俗</text>
+
+=============================
+C:/release/epub_unzip_2014/X78/X78n1540/toc.ncx
+瑜 : <text>廬山瑜法師</text>
+杜 : <text>明州杜信</text>
+
+=============================
+C:/release/epub_unzip_2014/X78/X78n1541/toc.ncx
+瑜 : <text>宋釋僧瑜</text>
+靜 : <text>宋簡靜寺尼智通</text>
+
+=============================
+C:/release/epub_unzip_2014/X78/X78n1542/toc.ncx
+杜 : <text>唐杜智楷</text>
+
+=============================
+C:/release/epub_unzip_2014/X78/X78n1543/toc.ncx
+靜 : <text>陸脩靜</text>
+
+=============================
+C:/release/epub_unzip_2014/X78/X78n1546/toc.ncx
+靜 : <text>廿五後周靜靄法師</text>
+
+=============================
+C:/release/epub_unzip_2014/X78/X78n1547/toc.ncx
+靜 : <text>靜靄禪師(十四)</text>
+
+=============================
+C:/release/epub_unzip_2014/X78/X78n1549/toc.ncx
+靜 : <text>靜靄</text>
+慜 : <text>常慜</text>
+靜 : <text>成靜</text>
+杜 : <text>杜居士</text>
+靜 : <text>溫靜文妻</text>
+
+=============================
+C:/release/epub_unzip_2014/X78/X78n1550/toc.ncx
+瑜 : <text>沈廷瑜</text>
+靜 : <text>施靜巖</text>
+靜 : <text>靜波</text>
+
+=============================
+C:/release/epub_unzip_2014/X78/X78n1551/toc.ncx
+靜 : <text>汾陽溫靜文妻</text>
+
+=============================
+C:/release/epub_unzip_2014/X78/X78n1552/toc.ncx
+靜 : <text>書靜波禪師事</text>
+靜 : <text>書靜軒禪師事</text>
+靜 : <text>靜悅傳</text>
+靜 : <text>童寶靜傳略</text>
+作 : <text>團扇題詩記為韻之作</text>
+作 : <text>昌其孝讚(代玉尺作)</text>
+
+=============================
+C:/release/epub_unzip_2014/X78/X78n1553/toc.ncx
+靜 : <text>郢州興陽山靜禪師</text>
+杜 : <text>注杜順和尚頌</text>
+慜 : <text>襄州開解山重慜禪師</text>
+靜 : <text>澧州欽山第二代如靜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X78/X78n1554/toc.ncx
+靜 : <text>南堂靜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X78/X78n1556/toc.ncx
+遜 : <text>郢州興陽山遜禪師</text>
+孜 : <text>真州六合香積孜禪師</text>
+兜 : <text>洪州兜率道寬禪師</text>
+孜 : <text>東京華嚴普孜禪師</text>
+湜 : <text>南康軍南山清隱院惟湜禪師</text>
+靜 : <text>太平州隱靜山慧觀禪師</text>
+孜 : <text>杭州北山顯明院善孜禪師</text>
+孜 : <text>汀州開元智孜禪師</text>
+靜 : <text>太平州隱靜山普慧寺儼禪師</text>
+遜 : <text>撫州明水法遜禪師</text>
+兜 : <text>南康軍兜率院志恩禪師</text>
+瑜 : <text>郢州子陵山自瑜禪師</text>
+靜 : <text>襄州谷隱山靜顯禪師</text>
+瑜 : <text>南岳上封行瑜禪師</text>
+兜 : <text>洪州分寧兜率從悅禪師</text>
+靜 : <text>衢州超化院靜禪師</text>
+靜 : <text>鼎州德山靜照菴什菴主</text>
+兜 : <text>洪州兜率從悅禪師法嗣</text>
+兜 : <text>洪州龍安山兜率惠照禪師</text>
+靜 : <text>綿州富樂山智靜禪師</text>
+遜 : <text>東京慧林德遜佛陀禪師一則</text>
+遜 : <text>東京慧林德遜佛陀禪師</text>
+靜 : <text>太平州隱靜山守儼禪師</text>
+兜 : <text>洪州龍安山兜卛從悅禪師</text>
+遜 : <text>東京惠林德遜佛陀禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X79/X79n1557/toc.ncx
+靜 : <text>郢州興陽歸靜禪師</text>
+兜 : <text>洪州兜率從悅禪師</text>
+靜 : <text>衢州超化靜禪師</text>
+瑜 : <text>鄂州子凌山自瑜禪師</text>
+兜 : <text>洪州兜率從悅禪師法嗣</text>
+遜 : <text>鳳翔府佛陀遜禪師</text>
+靜 : <text>京兆府華嚴休靜禪師</text>
+靜 : <text>天台國清師靜上座</text>
+靜 : <text>福州石佛靜禪師</text>
+作 : <text>建州白雲智作禪師</text>
+靜 : <text>靜亂不二</text>
+
+=============================
+C:/release/epub_unzip_2014/X79/X79n1559/toc.ncx
+靜 : <text>舒州天柱修靜禪師</text>
+兜 : <text>隆興府兜率從悅禪師</text>
+靜 : <text>衢州超化靜禪師</text>
+靜 : <text>襄陽府谷隱靜顯禪師</text>
+靜 : <text>楚州勝因咸靜禪師</text>
+兜 : <text>兜率真寂從悅禪師法嗣</text>
+兜 : <text>隆興府兜率慧照禪師</text>
+靜 : <text>彭州大隨南堂元靜禪師</text>
+孜 : <text>潭州南巖法輪達宗彥孜禪師</text>
+慜 : <text>廣德軍光孝果慜禪師</text>
+靜 : <text>大隨南堂元靜禪師法嗣</text>
+慜 : <text>光孝果慜禪師法嗣</text>
+靜 : <text>太平州隱靜圓極彥岑禪師</text>
+兜 : <text>兜率真寂悅禪師一則</text>
+靜 : <text>大隨南堂靜禪師四則</text>
+靜 : <text>大隨南堂靜禪師六首</text>
+靜 : <text>勝因戲魚靜禪師四首</text>
+作 : <text>忠國師問紫璘供奉艸作何色</text>
+作 : <text>保壽作街坊見相打有省</text>
+靜 : <text>西禪此庵靜禪師一首</text>
+作 : <text>偶作</text>
+作 : <text>偶作</text>
+作 : <text>張提舉到山有作</text>
+靜 : <text>勝因戲魚靜禪師二十二首</text>
+作 : <text>離黃龍有作</text>
+作 : <text>偶作</text>
+作 : <text>白石庵遇作</text>
+作 : <text>送雅禪者往石城作匃歌</text>
+靜 : <text>勝因戲魚靜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X79/X79n1561/toc.ncx
+兜 : <text>兜率照禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X79/X79n1563/toc.ncx
+靜 : <text>寂靜宗</text>
+
+=============================
+C:/release/epub_unzip_2014/X80/X80n1565/toc.ncx
+靜 : <text>吉州青原山靜居寺行思禪師</text>
+靜 : <text>京兆府永安院善靜禪師</text>
+孜 : <text>福州羅山紹孜禪師</text>
+靜 : <text>天台國清寺師靜上座</text>
+靜 : <text>福州石佛院靜禪師</text>
+靜 : <text>福州祥光院澄靜禪師</text>
+作 : <text>建州白雲智作真寂禪師</text>
+瑜 : <text>婺州普照瑜禪師</text>
+湜 : <text>廬山棲賢澄湜禪師</text>
+湜 : <text>棲賢湜禪師法嗣</text>
+靜 : <text>郢州興陽歸靜禪師</text>
+孜 : <text>東京華嚴普孜禪師</text>
+湜 : <text>南康軍清隱院惟湜禪師</text>
+孜 : <text>南嶽法輪彥孜禪師</text>
+靜 : <text>京兆華嚴寺休靜禪師</text>
+靜 : <text>華嚴靜禪師法嗣</text>
+靜 : <text>襄州谷隱智靜悟空禪師</text>
+靜 : <text>谷隱靜禪師法嗣</text>
+遜 : <text>郢州興陽山遜禪師</text>
+孜 : <text>汀州開元智孜禪師</text>
+孜 : <text>臨安府北山顯明善孜禪師</text>
+兜 : <text>南康軍兜率志恩禪師</text>
+兜 : <text>隆興府兜率從悅禪師</text>
+靜 : <text>衢州超化靜禪師</text>
+瑜 : <text>郢州子陵山自瑜禪師</text>
+靜 : <text>鼎州德山靜照庵什庵主</text>
+靜 : <text>楚州勝因戲魚咸靜禪師</text>
+兜 : <text>兜率悅禪師法嗣</text>
+兜 : <text>隆興府兜率慧照禪師</text>
+靜 : <text>勝因靜禪師法嗣</text>
+慜 : <text>廣德軍光孝果慜禪師</text>
+慜 : <text>光孝慜禪師法嗣</text>
+靜 : <text>彭州大隨南堂元靜禪師</text>
+遜 : <text>侍郎李彌遜</text>
+靜 : <text>大隨靜禪師法嗣</text>
+靜 : <text>潼川府護聖愚丘居靜禪師</text>
+靜 : <text>太平州隱靜圓極彥岑禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X80/X80n1566/toc.ncx
+靜 : <text>太平府隱靜萬菴致柔禪師</text>
+靜 : <text>隱靜柔禪師法嗣</text>
+籜 : <text>台州紫籜山竺元道禪師</text>
+兜 : <text>日本國兜率院夢窓疎石國師</text>
+籜 : <text>紫籜道禪師法嗣</text>
+
+=============================
+C:/release/epub_unzip_2014/X80/X80n1567/toc.ncx
+譜 : <text>附錄宗門正名錄攷證禪燈世譜宗派說</text>
+
+=============================
+C:/release/epub_unzip_2014/X80/X80n1568/toc.ncx
+靜 : <text>吉州青原山靜居寺行思禪師</text>
+靜 : <text>京兆府永安院善靜禪師</text>
+孜 : <text>福州羅山紹孜禪師</text>
+靜 : <text>天台國清寺師靜上座</text>
+靜 : <text>福州石佛院靜禪師</text>
+靜 : <text>福州祥光院澄靜禪師</text>
+作 : <text>建州白雲智作真寂禪師</text>
+瑜 : <text>婺州普照瑜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X81/X81n1568/toc.ncx
+湜 : <text>廬山棲賢澄湜禪師</text>
+湜 : <text>棲賢湜禪師法嗣</text>
+靜 : <text>郢州興陽歸靜禪師</text>
+孜 : <text>東京華嚴普孜禪師</text>
+湜 : <text>南康軍清隱院惟湜禪師</text>
+孜 : <text>南嶽法輪彥孜禪師</text>
+靜 : <text>京兆華嚴寺休靜禪師</text>
+靜 : <text>華嚴靜禪師法嗣</text>
+靜 : <text>襄州谷隱智靜悟空禪師</text>
+靜 : <text>谷隱靜禪師法嗣</text>
+遜 : <text>郢州興陽山遜禪師</text>
+孜 : <text>汀州開元智孜禪師</text>
+孜 : <text>臨安府北山顯明善孜禪師</text>
+兜 : <text>南康軍兜率志恩禪師</text>
+兜 : <text>隆興府兜率從悅禪師</text>
+靜 : <text>衢州超化靜禪師</text>
+瑜 : <text>郢州子陵山自瑜禪師</text>
+靜 : <text>鼎州德山靜照庵什庵主</text>
+靜 : <text>楚州勝因戲魚咸靜禪師</text>
+兜 : <text>兜率悅禪師法嗣</text>
+兜 : <text>隆興府兜率慧照禪師</text>
+靜 : <text>勝因靜禪師法嗣</text>
+慜 : <text>廣德軍光孝果慜禪師</text>
+慜 : <text>光孝慜禪師法嗣</text>
+靜 : <text>彭州大隨南堂元靜禪師</text>
+遜 : <text>侍郎李彌遜</text>
+靜 : <text>大隨靜禪師法嗣</text>
+靜 : <text>潼川府護聖愚丘居靜禪師</text>
+靜 : <text>太平州隱靜圓極彥岑禪師</text>
+靜 : <text>太平府隱靜萬庵致柔禪師</text>
+靜 : <text>隱靜柔禪師法嗣</text>
+籜 : <text>台州紫籜山竺元道禪師</text>
+兜 : <text>日本國兜率院夢窓疎石國師</text>
+籜 : <text>紫籜道禪師法嗣</text>
+
+=============================
+C:/release/epub_unzip_2014/X81/X81n1571/toc.ncx
+兜 : <text>兜率戒闍黎</text>
+靜 : <text>京兆府永安院善靜禪師</text>
+孜 : <text>福州羅山紹孜禪師</text>
+靜 : <text>天台國清寺師靜上座</text>
+靜 : <text>福州石佛院靜禪師</text>
+靜 : <text>福州祥光院澄靜禪師</text>
+作 : <text>建州白雲智作真寂禪師</text>
+瑜 : <text>婺州普照瑜禪師</text>
+湜 : <text>廬山棲賢澄湜禪師</text>
+靜 : <text>成都綿州富樂智靜禪師</text>
+湜 : <text>棲賢湜禪師法嗣</text>
+靜 : <text>郢州興陽歸靜禪師</text>
+孜 : <text>東京華嚴普孜禪師</text>
+湜 : <text>南康軍清隱院惟湜禪師</text>
+孜 : <text>南嶽法輪彥孜禪師</text>
+靜 : <text>京兆華嚴寺休靜禪師</text>
+靜 : <text>華嚴靜禪師法嗣</text>
+靜 : <text>襄州谷隱智靜悟空禪師</text>
+靜 : <text>谷隱靜禪師法嗣</text>
+遜 : <text>郢州興陽山遜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X82/X82n1571/toc.ncx
+孜 : <text>汀州開元智孜禪師</text>
+孜 : <text>臨安府北山顯明善孜禪師</text>
+遜 : <text>開封慧林佛陀德遜禪師</text>
+兜 : <text>南康軍兜率志恩禪師</text>
+兜 : <text>隆興府兜率真寂從悅禪師</text>
+靜 : <text>衢州超化靜禪師</text>
+瑜 : <text>郢州子陵山自瑜禪師</text>
+靜 : <text>襄陽谷隱靜顯禪師</text>
+靜 : <text>鼎州德山靜照庵宗什庵主</text>
+靜 : <text>楚州勝因戲魚咸靜禪師</text>
+兜 : <text>兜率悅禪師法嗣</text>
+兜 : <text>隆興府兜率慧照禪師</text>
+靜 : <text>勝因靜禪師法嗣</text>
+慜 : <text>廣德軍光孝果慜禪師</text>
+慜 : <text>光孝慜禪師法嗣</text>
+靜 : <text>彭州大隨南堂元靜禪師</text>
+遜 : <text>侍郎李彌遜號普現居士</text>
+靜 : <text>大隨靜禪師法嗣</text>
+靜 : <text>潼川府護聖愚丘居靜禪師</text>
+靜 : <text>太平隱靜圓極彥岑禪師</text>
+靜 : <text>太平府隱靜萬菴致柔禪師</text>
+靜 : <text>隱靜柔禪師法嗣</text>
+靜 : <text>杭州淨慈照菴宗靜禪師</text>
+靜 : <text>九江匡山天池林隱靜菴智素禪師</text>
+灜 : <text>廣信府灜山雪關智誾禪師</text>
+兜 : <text>杭州橫山兜率一默弘成禪師</text>
+兜 : <text>寧州龍安兜率本圜禪師</text>
+杜 : <text>大參杜子濂居士</text>
+湜 : <text>吳陵三塘乾乾湜禪師</text>
+靜 : <text>姑蘇虎丘香嚴道安靜禪師</text>
+靜 : <text>安化神山中靜定禪師（補遺）</text>
+靜 : <text>東陽法興大閒靜禪師</text>
+籜 : <text>吳江葉園籜菴繩禪師</text>
+靜 : <text>江陰靜寧力菴蔭禪師</text>
+靜 : <text>漢中靜明嬾石聆禪師</text>
+靜 : <text>重慶華巖南芝靜禪師（補遺）</text>
+湜 : <text>句曲天王天乳湜禪師（補遺）</text>
+籜 : <text>吳江普濟籜山體禪師</text>
+靜 : <text>金陵地藏以靜顯禪師（補遺）</text>
+靜 : <text>明州天童柏堂靜禪師（補遺）</text>
+靜 : <text>天心野靜啟禪師（補遺）</text>
+靜 : <text>武林雄聖尼靜諾越禪師</text>
+靜 : <text>江西袁州揚岐逸岩靜禪師（補遺）</text>
+遜 : <text>崇明壽安遜菴玉禪師</text>
+靜 : <text>芙蓉米山靜禪師（補遺）</text>
+靜 : <text>保安白墖萬休靜禪師（補遺）</text>
+靜 : <text>靜海普度從實虗禪師（補遺）</text>
+遜 : <text>黃陂白龍遜野脗禪師（補遺）</text>
+靜 : <text>嘉興高亭古朗鑑靜主（補遺）</text>
+遜 : <text>大覺恭讓遜禪師（補遺）</text>
+靜 : <text>永嘉密印靜公練禪師</text>
+兜 : <text>益州兜率不磷宗堅禪師</text>
+兜 : <text>永嘉大羅兜率中安質禪師</text>
+靜 : <text>金陵靜海宣智鑑禪師（補遺）</text>
+靜 : <text>杭州慈廕涵靜振禪師（補遺）</text>
+
+=============================
+C:/release/epub_unzip_2014/X83/X83n1574/toc.ncx
+靜 : <text>太平府隱靜萬庵致柔禪師</text>
+靜 : <text>隱靜萬菴柔禪師法嗣</text>
+籜 : <text>台州紫籜竺原妙道禪師</text>
+作 : <text>應天府碧峰無作慎行禪師</text>
+籜 : <text>紫籜竺原道禪師法嗣</text>
+
+=============================
+C:/release/epub_unzip_2014/X83/X83n1578/toc.ncx
+靜 : <text>吉州青原山靜居寺行思禪師</text>
+畜 : <text>終夏不說(老宿畜童)</text>
+靜 : <text>郢州興陽歸靜禪師</text>
+靜 : <text>天台國清寺師靜上座</text>
+湜 : <text>廬山棲賢澄湜禪師</text>
+兜 : <text>隆興府兜率從悅禪師</text>
+靜 : <text>彭州大隨南堂元靜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X84/X84n1579/toc.ncx
+靜 : <text>潼川護聖愚丘居靜禪師</text>
+慜 : <text>廣德光孝果慜禪師</text>
+靜 : <text>太平隱靜圓極彥岑禪師</text>
+靜 : <text>太平隱靜萬庵致柔禪師</text>
+靜 : <text>杭州淨慈照庵宗靜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X84/X84n1580/toc.ncx
+靜 : <text>國清師靜上座</text>
+作 : <text>白雲智作禪師</text>
+靜 : <text>興陽歸靜禪師</text>
+兜 : <text>兜率從悅禪師</text>
+靜 : <text>大隨元靜禪師</text>
+遜 : <text>侍郎李彌遜居士</text>
+靜 : <text>護聖居靜禪師</text>
+靜 : <text>永安善靜禪師</text>
+靜 : <text>華嚴休靜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X84/X84n1583/toc.ncx
+遜 : <text>侍郎李彌遜</text>
+靜 : <text>大隨靜禪師法嗣</text>
+靜 : <text>潼川州護聖愚丘居靜禪師</text>
+靜 : <text>勝因靜禪師法嗣</text>
+慜 : <text>廣德州光孝果慜禪師</text>
+靜 : <text>太平府隱靜圓極彥岑禪師</text>
+慜 : <text>光孝慜禪師法嗣</text>
+靜 : <text>杭州府淨慈照菴宗靜禪師</text>
+譜 : <text>忠州玉山竹菴般若燈譜禪師</text>
+靜 : <text>提督陳世凱燈靜居士</text>
+靜 : <text>太平府隱靜萬菴致柔禪師</text>
+靜 : <text>隱靜柔禪師法嗣</text>
+作 : <text>寧波府大梅護聖無作文述禪師</text>
+靜 : <text>九江府匡山天池林隱靜菴智素禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X84/X84n1585/toc.ncx
+靜 : <text>太平府隱靜萬菴致柔禪師</text>
+靜 : <text>隱靜柔禪師法嗣</text>
+靜 : <text>杭州淨慈照菴宗靜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X85/X85n1587/toc.ncx
+兜 : <text>杭州兜率一默成禪師</text>
+靜 : <text>道安靜禪師法嗣</text>
+靜 : <text>揚州靜慧述先預禪師</text>
+靜 : <text>嘉興圓通心如靜禪師</text>
+靜 : <text>無錫南禪靜蓀慧禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X85/X85n1588/toc.ncx
+靜 : <text>京都淨壽道安靜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X85/X85n1590/toc.ncx
+靜 : <text>緜州富樂智靜禪師</text>
+兜 : <text>兜率悅法嗣</text>
+靜 : <text>彭州大隨南堂元靜禪師</text>
+靜 : <text>大隨靜法嗣</text>
+靜 : <text>潼川府護聖愚丘居靜禪師</text>
+靜 : <text>南芝靜禪師</text>
+瑜 : <text>世瑜</text>
+靜 : <text>雪菴樂靜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X85/X85n1591/toc.ncx
+靜 : <text>習安雲鷲禪那廣靜禪師</text>
+靜 : <text>鎮遠迎仙濟菴普靜禪師</text>
+靜 : <text>安順靜明嵋霽宗禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X85/X85n1592/toc.ncx
+靜 : <text>太平隱靜致柔禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X85/X85n1593/toc.ncx
+靜 : <text>永安靜禪師</text>
+靜 : <text>國清師靜上座</text>
+靜 : <text>石佛靜禪師</text>
+作 : <text>白雲智作禪師</text>
+瑜 : <text>普照瑜禪師</text>
+湜 : <text>棲賢澄湜禪師</text>
+靜 : <text>興陽歸靜禪師</text>
+孜 : <text>華嚴普孜禪師</text>
+靜 : <text>華嚴靜禪師</text>
+兜 : <text>兜率從悅禪師</text>
+靜 : <text>超化靜禪師</text>
+靜 : <text>勝因靜禪師</text>
+兜 : <text>兜率慧照禪師</text>
+慜 : <text>光孝慜禪師</text>
+靜 : <text>大隨南堂靜禪師</text>
+遜 : <text>侍郎李彌遜</text>
+靜 : <text>護聖居靜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X85/X85n1594/toc.ncx
+靜 : <text>靜藹法師隱太乙山</text>
+杜 : <text>無住禪師為杜鴻漸說法</text>
+靜 : <text>休靜禪師說法王宮</text>
+兜 : <text>從悅禪師住兜率院</text>
+作 : <text>慧洪禪師作二大士像贊</text>
+遜 : <text>李彌遜參克勤禪師</text>
+靜 : <text>居靜禪師住東巖</text>
+
+=============================
+C:/release/epub_unzip_2014/X86/X86n1601/toc.ncx
+譜 : <text>X1601 禪燈世譜 (9卷)</text>
+譜 : <text>No. 1601-B 禪燈世譜後序</text>
+
+=============================
+C:/release/epub_unzip_2014/X86/X86n1602/toc.ncx
+譜 : <text>X1602 佛祖宗派世譜 (1卷)</text>
+譜 : <text>佛祖宗派世譜</text>
+譜 : <text>No. 1602-A 佛祖宗派世譜序</text>
+譜 : <text>佛祖宗派世譜目錄</text>
+
+=============================
+C:/release/epub_unzip_2014/X86/X86n1603/toc.ncx
+譜 : <text>X1603 緇門世譜 (1卷)</text>
+譜 : <text>緇門世譜</text>
+譜 : <text>釋氏源流五宗世譜定祖圖序</text>
+
+=============================
+C:/release/epub_unzip_2014/X86/X86n1605/toc.ncx
+靜 : <text>太平府隱靜萬菴致柔禪師</text>
+靜 : <text>隱靜柔禪師法嗣</text>
+兜 : <text>日本國兜率院夢窓疎石國師</text>
+籜 : <text>紫籜道禪師法嗣</text>
+
+=============================
+C:/release/epub_unzip_2014/X86/X86n1606/toc.ncx
+作 : <text>五代建安白雲山智作禪師</text>
+湜 : <text>宋建陽澄湜禪師</text>
+
+=============================
+C:/release/epub_unzip_2014/X86/X86n1607/toc.ncx
+杜 : <text>杜衍</text>
+遜 : <text>李彌遜</text>
+
+=============================
+C:/release/epub_unzip_2014/X86/X86n1608/toc.ncx
+瑜 : <text>瑜珈不空三藏法師傳</text>
+瑜 : <text>附錄瑜珈五祖</text>
+
+=============================
+C:/release/epub_unzip_2014/X86/X86n1610/toc.ncx
+遜 : <text>淨遜燒蝨法語</text>
+
+=============================
+C:/release/epub_unzip_2014/X86/X86n1611/toc.ncx
+作 : <text>剖禪師作園頭</text>
+作 : <text>芙蓉為投子作典座</text>
+作 : <text>宏智夢作一聯</text>
+作 : <text>自得暉作竹頌</text>
+作 : <text>安定郡王作戒欲文</text>
+
+=============================
+C:/release/epub_unzip_2014/X87/X87n1614/toc.ncx
+作 : <text>婆子作齋</text>
+作 : <text>迦葉作舞</text>
+虜 : <text>長興遭虜</text>
+作 : <text>信公作女</text>
+卜 : <text>浮石鬻卜</text>
+兜 : <text>兜率三關</text>
+靜 : <text>元靜十門</text>
+作 : <text>老安作用</text>
+
+=============================
+C:/release/epub_unzip_2014/X87/X87n1620/toc.ncx
+遜 : <text>宋侍郎李彌遜</text>
+杜 : <text>杜鴻漸</text>
+靜 : <text>俗士問靜上座</text>
+作 : <text>官人作無鬼論</text>
+
+=============================
+C:/release/epub_unzip_2014/X87/X87n1623/toc.ncx
+瑜 : <text>(紙)僧瑜雙桐　邵碩隻履</text>
+靜 : <text>普曠刵耳　靜靄割心</text>
+祜 : <text>(錫)琳祜會郊　可育面壁</text>
+啜 : <text>童進飲酒　無著啜茶</text>
+靜 : <text>僧慧渡河　安靜登墓</text>
+瑜 : <text>僧達□餻　世瑜受菓</text>
+
+=============================
+C:/release/epub_unzip_2014/X87/X87n1627/toc.ncx
+作 : <text>不作齋會</text>
+畜 : <text>不畜衣糧</text>
+畜 : <text>氈被畜狗</text>
+作 : <text>不作不食</text>
+作 : <text>躬自役作</text>
+
+=============================
+C:/release/epub_unzip_2014/X87/X87n1628/toc.ncx
+祜 : <text>羊祜</text>
+遜 : <text>沮渠蒙遜</text>
+杜 : <text>杜弼</text>
+杜 : <text>房玄齡　杜如晦</text>
+杜 : <text>杜行顗</text>
+杜 : <text>杜鴻漸</text>
+杜 : <text>杜甫</text>
+杜 : <text>杜荀鶴</text>
+煜 : <text>李煜</text>
+杜 : <text>杜衍</text>
+
+=============================
+C:/release/epub_unzip_2014/X87/X87n1631/toc.ncx
+杜 : <text>杜之亮</text>
+杜 : <text>杜思訥</text>
+
+=============================
+C:/release/epub_unzip_2014/X87/X87n1632/toc.ncx
+作 : <text>陸彥通(陸報應記作睦)</text>
+
+=============================
+C:/release/epub_unzip_2014/X87/X87n1634/toc.ncx
+杜 : <text>杜之亮</text>
+
+=============================
+C:/release/epub_unzip_2014/X87/X87n1635/toc.ncx
+杜 : <text>隋參軍杜之亮</text>
+靜 : <text>明釋普靜</text>
+
+=============================
+C:/release/epub_unzip_2014/X87/X87n1636/toc.ncx
+畜 : <text>免畜</text>
+
+=============================
+C:/release/epub_unzip_2014/X88/X88n1640/toc.ncx
+作 : <text>常作詩比丘</text>
+
+=============================
+C:/release/epub_unzip_2014/X88/X88n1642/toc.ncx
+作 : <text>吳澆燭以念佛作福剋期善逝</text>
+作 : <text>朱君以僧預為作法火難得全</text>
+作 : <text>居道人亂啖庫物轉身作驢</text>
+
+=============================
+C:/release/epub_unzip_2014/X88/X88n1643/toc.ncx
+兜 : <text>X1643 兜率龜鏡集 (3卷)</text>
+兜 : <text>No. 1643-A 兜率龜鏡集緣起</text>
+兜 : <text>兜率龜鏡集目錄</text>
+靜 : <text>光靜尼</text>
+
+=============================
+C:/release/epub_unzip_2014/X88/X88n1644/toc.ncx
+作 : <text>觀音普門品玄義(天台智者大師作)</text>
+作 : <text>作光王</text>
+靜 : <text>釋靜之</text>
+作 : <text>千手眼觀世音菩薩讚(四明法師述大悲經作)</text>
+作 : <text>禮觀音文(大慧杲禪師屢獲大士加被故作此文以益所求)</text>
+作 : <text>魚籃觀音像讚(文憲公宋濂作)</text>
+靜 : <text>尼成靜</text>
+
+=============================
+C:/release/epub_unzip_2014/X88/X88n1645/toc.ncx
+畜 : <text>畜生道</text>
+
+=============================
+C:/release/epub_unzip_2014/X88/X88n1646/toc.ncx
+杜 : <text>楊唐戈孫朱郭郝杜二吳張傳</text>
+杜 : <text>杜居士</text>
+
+=============================
+C:/release/epub_unzip_2014/X88/X88n1648/toc.ncx
+杜 : <text>唐齊州高遠縣人杜通達</text>
+
+=============================
+C:/release/epub_unzip_2014/X88/X88n1649/toc.ncx
+杜 : <text>杜輔言</text>
+杜 : <text>杜克明</text>
+杜 : <text>杜子巽</text>
+杜 : <text>杜彥之</text>
+湜 : <text>皇甫湜</text>
+杜 : <text>杜祁公</text>
+
+=============================
+C:/release/epub_unzip_2014/X88/X88n1651/toc.ncx
+作 : <text>請　大宗文皇帝作經序并題經表</text>
+作 : <text>大宗文皇帝報請作經序　勅書</text>
+
+=============================
+C:/release/epub_unzip_2014/X88/X88n1657/toc.ncx
+靜 : <text>溫靜文妻</text>
+
+=============================
+C:/release/epub_unzip_2014/X88/X88n1666/toc.ncx
+譜 : <text>五宗次序譜</text>
+
+=============================
+C:/release/epub_unzip_2014/X88/X88n1671/toc.ncx
+靜 : <text>休靜　西山大禪師</text>
+靜 : <text>靜明禪師</text>
+
+=============================
